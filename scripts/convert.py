@@ -1,11 +1,11 @@
 """Convert the CEJ PDFs to markdown, one file per work under obras/<area>/<id>.md.
 
-Usage: python -I scripts/convert.py [--raw DIR] [--only ID] [--repair-glyphs]
+Usage: python -I scripts/convert.py [--raw DIR] [--only ID] [--no-repair-glyphs]
 
 Only reflow, no rewriting: lines are joined into paragraphs, running headers, footers and page
 numbers are dropped, headings come from the PDF table of contents plus a few conservative
 patterns (numbered headings, case and resolution markers). Text characters are copied as they
-are in the PDF; --repair-glyphs (off by default) additionally fixes known broken ligature glyphs.
+are in the PDF; broken ligature glyphs (fi, ti, fl... drawn as odd letters) are repaired by default (--no-repair-glyphs turns it off).
 """
 import argparse
 import collections
@@ -506,7 +506,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--raw", default=str(RAW_DIR))
     ap.add_argument("--only")
-    ap.add_argument("--repair-glyphs", action="store_true")
+    ap.add_argument("--repair-glyphs", action=argparse.BooleanOptionalAction, default=True)
     a = ap.parse_args()
     today = date.today().isoformat()
     for w in load_works():

@@ -13,7 +13,7 @@ agentes de IA, advogados e investigadores lerem e citarem.
 > [!IMPORTANT]
 > Todo o texto vem do Centro de Estudos Judiciários (CEJ), que autoriza a reprodução citando a origem mas proíbe o uso
 > comercial. Usa estes ficheiros só para fins não comerciais e cita sempre o CEJ e os autores. O texto foi extraído
-> automaticamente de PDFs e pode ter erros (tabelas partidas, letras trocadas): confirma na fonte antes de citar. São
+> automaticamente de PDFs e pode ter erros (tabelas partidas, parágrafos cortados): confirma na fonte antes de citar. São
 > doutrina e exercícios, não são lei.
 
 ---
@@ -55,8 +55,7 @@ licenças: as 5 obras abertas (no repositório) e as 21 fechadas (só ligação)
   - Diapositivos colados nos livros (cerca de 160 páginas da 2.ª edição dos Workshops): saem uma linha por parágrafo.
   - Páginas só com imagem, sem texto: não há reconhecimento de texto. O campo `pages_without_text` diz quantas são em cada obra
     (inclui os separadores de capítulo).
-  - Letras trocadas no PDF de origem, como "arƟgo" por "artigo" ou "ﬁ" por "fi", ficam como estão (o conversor tem a opção
-    `--repair-glyphs`, desligada, que as corrige).
+  - As letras trocadas do PDF de origem nas ligaduras ("arƟgo" por "artigo", "ﬁ" por "fi") são corrigidas na conversão, e só essas (`--no-repair-glyphs` desliga). O resto do texto fica como no PDF.
   - Notas de rodapé: ficam no fim da página, e um parágrafo que continua na página seguinte pode ficar cortado quando há notas
     pelo meio.
   - Títulos: vêm do índice do PDF e de regras prudentes (títulos numerados, "Caso prático", "Questões", "Tópicos de

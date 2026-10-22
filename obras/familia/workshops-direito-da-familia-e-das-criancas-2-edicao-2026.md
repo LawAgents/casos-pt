@@ -27,9 +27,9 @@ O plano das Ações de Formação Contínua do Centro de Estudos Judiciários, n
 
 Jurisdição da Família e das Crianças, contempla a realização de Workshops sobre
 
-matérias inovadoras, complexas e/ou com diﬁculdades práticas de aplicação, a
+matérias inovadoras, complexas e/ou com dificuldades práticas de aplicação, a
 
-carecerem de reﬂexão conjunta por parte da academia e da magistratura.
+carecerem de reflexão conjunta por parte da academia e da magistratura.
 
 Nos anos de 2022/2023, 2023/2024 e 2024/2025, foram várias as temáticas
 
@@ -111,7 +111,7 @@ Maria Oliveira Mendes
 
 Pedro Raposo de Figueiredo
 
-Revisão ﬁnal
+Revisão final
 
 Pedro Raposo de Figueiredo
 
@@ -119,7 +119,7 @@ Notas
 
 Para a visualização correta dos e-books recomenda-se o seu descarregamento e a utilização de um programa leitor de PDF.
 
-Foi respeitada a opção dos autores na utilização ou não do novo Acordo Ortográﬁco.
+Foi respeitada a opção dos autores na utilização ou não do novo Acordo Ortográfico.
 
 Os conteúdos e textos constantes desta obra, bem como as opiniões pessoais aqui expressas, são da exclusiva responsabilidade dos/as seus/suas Autores/as não vinculando nem necessariamente correspondendo à posição do Centro de Estudos Judiciários relativamente às temáticas abordadas.
 
@@ -143,7 +143,7 @@ ISBN 978-972-9122-98-9.
 
 Registo das revisões efetuadas ao e-book
 
-Identiﬁcação da versão
+Identificação da versão
 
 Data de atualização
 
@@ -219,63 +219,63 @@ Tópicos de resolução
 
 #### CASO PRÁTICO
 
-Aníbal, nacional português, casou com Bianca, nacional espanhola, em 1994. Fixaram domicílio conjugal em Madrid, em 1995. Do casamento, nasceram dois ﬁlhos, ambos luso-espanhóis: Carlos, nascido em 15 de dezembro de 2005, e Dani, nascido em agosto de 2009.
+Aníbal, nacional português, casou com Bianca, nacional espanhola, em 1994. Fixaram domicílio conjugal em Madrid, em 1995. Do casamento, nasceram dois filhos, ambos luso-espanhóis: Carlos, nascido em 15 de dezembro de 2005, e Dani, nascido em agosto de 2009.
 
-Aníbal trabalha numa mulƟnacional ligada ao turismo e às tecnologias da informação. Desde 2015 que exerce a sua aƟvidade proﬁssional ocasionalmente em Lisboa. Em março de 2021, fruto de uma promoção proﬁssional, passou a exercer a sua aƟvidade proﬁssional de forma estável e permanente em Lisboa. Para o efeito, vive, durante os dias úteis da semana, num apartamento em Lisboa propriedade do seu pai e faz a sua vida social e proﬁssional em Lisboa. As férias, dias feriados e ﬁns de semanas passa-os em Madrid, na casa do casal, onde vivem Bianca, Carlos e Dani.
+Aníbal trabalha numa multinacional ligada ao turismo e às tecnologias da informação. Desde 2015 que exerce a sua atividade profissional ocasionalmente em Lisboa. Em março de 2021, fruto de uma promoção profissional, passou a exercer a sua atividade profissional de forma estável e permanente em Lisboa. Para o efeito, vive, durante os dias úteis da semana, num apartamento em Lisboa propriedade do seu pai e faz a sua vida social e profissional em Lisboa. As férias, dias feriados e fins de semanas passa-os em Madrid, na casa do casal, onde vivem Bianca, Carlos e Dani.
 
-No dia 1 de outubro de 2022, Aníbal intenta ação de divórcio sem consenƟmento do outro cônjuge junto dos tribunais portugueses. No dia 15 de outubro de 2022, Bianca intenta ação de divórcio junto dos tribunais espanhóis e, contestando a ação intentada por Aníbal, alega que os tribunais portugueses são internacionalmente incompetentes, pois os cônjuges (e os seus dois ﬁlhos) têm residência habitual em Madrid. Por sua vez, Aníbal, contestando a ação intentada junto dos tribunais espanhóis, alega que a mesma não pode prosseguir enquanto não for proferida decisão de mérito na ação por si intentada junto dos tribunais portugueses.
+No dia 1 de outubro de 2022, Aníbal intenta ação de divórcio sem consentimento do outro cônjuge junto dos tribunais portugueses. No dia 15 de outubro de 2022, Bianca intenta ação de divórcio junto dos tribunais espanhóis e, contestando a ação intentada por Aníbal, alega que os tribunais portugueses são internacionalmente incompetentes, pois os cônjuges (e os seus dois filhos) têm residência habitual em Madrid. Por sua vez, Aníbal, contestando a ação intentada junto dos tribunais espanhóis, alega que a mesma não pode prosseguir enquanto não for proferida decisão de mérito na ação por si intentada junto dos tribunais portugueses.
 
 ##### QUESTÕES
 
-Questão 1: Determine se os tribunais portugueses são internacionalmente competentes para julgar a ação intentada por Aníbal e como deve atuar o tribunal espanhol relaƟvamente à ação intentada por Bianca.
+Questão 1: Determine se os tribunais portugueses são internacionalmente competentes para julgar a ação intentada por Aníbal e como deve atuar o tribunal espanhol relativamente à ação intentada por Bianca.
 
-Admita agora que Aníbal pede adicionalmente aos tribunais portugueses a regulação do exercício das responsabilidades parentais relaƟvas a Carlos e Dani. Junta um documento parƟcular, assinado por ele e Bianca, datado de 1 de junho de 2022, no qual consta o seguinte: “Aníbal e Bianca acordam, de forma livre e esclarecida, em atribuir competência internacional aos tribunais portugueses para decidir sobre a responsabilidade parental relaƟva aos seus dois ﬁlhos, Carlos e Dani, com expressa renúncia de qualquer outro”.
+Admita agora que Aníbal pede adicionalmente aos tribunais portugueses a regulação do exercício das responsabilidades parentais relativas a Carlos e Dani. Junta um documento particular, assinado por ele e Bianca, datado de 1 de junho de 2022, no qual consta o seguinte: “Aníbal e Bianca acordam, de forma livre e esclarecida, em atribuir competência internacional aos tribunais portugueses para decidir sobre a responsabilidade parental relativa aos seus dois filhos, Carlos e Dani, com expressa renúncia de qualquer outro”.
 
 Questão 2: Os tribunais portugueses são internacionalmente competentes para regular as responsabilidades parentais de Carlos e Dani?
 
 ∗ Professor Auxiliar da Faculdade de Direito da Universidade de Lisboa.
 
-Questão 3: Quid iuris se já esƟvesse pendente uma ação de regulação do exercício das responsabilidades parentais de Carlos e Dani nos tribunais espanhóis?
+Questão 3: Quid iuris se já estivesse pendente uma ação de regulação do exercício das responsabilidades parentais de Carlos e Dani nos tribunais espanhóis?
 
-Admita agora que o tribunal português considerou-se internacionalmente competente. Bianca, apesar de regularmente citada, decide não parƟcipar no processo.
+Admita agora que o tribunal português considerou-se internacionalmente competente. Bianca, apesar de regularmente citada, decide não participar no processo.
 
-Questão 4: O tribunal português deve ouvir as crianças, Carlos e Dani? Em caso aﬁrmaƟvo, como deve proceder?
+Questão 4: O tribunal português deve ouvir as crianças, Carlos e Dani? Em caso afirmativo, como deve proceder?
 
-O tribunal português profere decisão em 2 de dezembro de 2022, decretando o divórcio e regulando as responsabilidades parentais: conﬁou a guarda das crianças a Bianca e regulou o direito de visita de Aníbal, os quais incluem contactos pela Internet e por telefone, bem como encontros pessoais com as crianças, em Espanha, dois ﬁns de semana por mês e por um período de 20 dias durante as férias do verão.
+O tribunal português profere decisão em 2 de dezembro de 2022, decretando o divórcio e regulando as responsabilidades parentais: confiou a guarda das crianças a Bianca e regulou o direito de visita de Aníbal, os quais incluem contactos pela Internet e por telefone, bem como encontros pessoais com as crianças, em Espanha, dois fins de semana por mês e por um período de 20 dias durante as férias do verão.
 
-Questão 5: Aníbal requer ao tribunal português a emissão da cerƟdão a que se refere o arƟgo 47.º. Deve o tribunal emiƟr essa cerƟdão?
+Questão 5: Aníbal requer ao tribunal português a emissão da certidão a que se refere o artigo 47.º. Deve o tribunal emitir essa certidão?
 
-Questão 6: AdmiƟndo que a cerƟdão foi emiƟda e que Aníbal requereu a execução da decisão portuguesa perante a autoridade competente espanhola, pronuncie-se sobre as seguintes alegações de Bianca, que entende que deve ser recusada a execução da decisão portuguesa porque:
+Questão 6: Admitindo que a certidão foi emitida e que Aníbal requereu a execução da decisão portuguesa perante a autoridade competente espanhola, pronuncie-se sobre as seguintes alegações de Bianca, que entende que deve ser recusada a execução da decisão portuguesa porque:
 
 (i)
 
-Bianca não parƟcipou na mesma e a decisão obsta ao exercício das minhas responsabilidades parentais;
+Bianca não participou na mesma e a decisão obsta ao exercício das minhas responsabilidades parentais;
 
 (ii) Carlos e Dani não foram ouvidos;
 
 (iii) A decisão não foi tomada atendendo ao superior interesse da criança;
 
-(iv) A decisão é incompaơvel com a decisão proferida pelos tribunais espanhóis de 7 de dezembro de 2022, que concedeu apenas a Aníbal o contacto com as crianças por telefone e Internet e um ﬁm de semana a cada dois meses.
+(iv) A decisão é incompatível com a decisão proferida pelos tribunais espanhóis de 7 de dezembro de 2022, que concedeu apenas a Aníbal o contacto com as crianças por telefone e Internet e um fim de semana a cada dois meses.
 
 ##### TÓPICOS DE RESOLUÇÃO
 
-Questão 1: Determine se os tribunais portugueses são internacionalmente competentes para julgar a ação intentada por Aníbal e como deve atuar o tribunal espanhol relaƟvamente à ação intentada por Bianca.
+Questão 1: Determine se os tribunais portugueses são internacionalmente competentes para julgar a ação intentada por Aníbal e como deve atuar o tribunal espanhol relativamente à ação intentada por Bianca.
 
 1. Âmbitos de aplicação. São quatro os âmbitos de aplicação do Regulamento Bruxelas II ter (doravante os considerandos e artigos indicados sem indicação de fonte pertencem a este Regulamento).
 
-Em primeiro lugar, há que veriﬁcar se a situação em liơgio tem incidência transfronteiriça (cf. considerandos 2 a 4). Nesta questão estamos perante uma ação de divórcio em que os cônjuges têm nacionalidade diferentes (portuguesa e espanhola). Isso é quanto basta para o liơgio ser transnacional ou, nas expressões do Regulamento, implicar “um elemento internacional” (considerando 2) ou ter “implicações transfronteiriças” (considerandos 3 e 4).
+Em primeiro lugar, há que verificar se a situação em litígio tem incidência transfronteiriça (cf. considerandos 2 a 4). Nesta questão estamos perante uma ação de divórcio em que os cônjuges têm nacionalidade diferentes (portuguesa e espanhola). Isso é quanto basta para o litígio ser transnacional ou, nas expressões do Regulamento, implicar “um elemento internacional” (considerando 2) ou ter “implicações transfronteiriças” (considerandos 3 e 4).
 
-Em segundo lugar, há que veriﬁcar se o âmbito de aplicação territorial, ou em razão do território, se encontra preenchido. O Regulamento é aplicável no território de todos os Estados-Membros, com exceção da Dinamarca (considerandos 95 e 96). Como a ação é intentada junto dos tribunais portugueses este âmbito de aplicação está preenchido.
+Em segundo lugar, há que verificar se o âmbito de aplicação territorial, ou em razão do território, se encontra preenchido. O Regulamento é aplicável no território de todos os Estados-Membros, com exceção da Dinamarca (considerandos 95 e 96). Como a ação é intentada junto dos tribunais portugueses este âmbito de aplicação está preenchido.
 
-Em terceiro lugar, há que veriﬁcar o âmbito de aplicação temporal. Nos termos do arƟgo 100.º, n.º 1, o Regulamento é aplicável apenas às ações intentadas, aos atos autênƟcos formalmente exarados e aos acordos registados a parƟr de 1 de agosto de 2022.
+Em terceiro lugar, há que verificar o âmbito de aplicação temporal. Nos termos do artigo 100.º, n.º 1, o Regulamento é aplicável apenas às ações intentadas, aos atos autênticos formalmente exarados e aos acordos registados a partir de 1 de agosto de 2022.
 
-A determinação da data em que foi instaurada uma ação deve ser feita de acordo com o arƟgo 17.º. Temos um conceito autónomo triparƟdo. Há que olhar para o Direito processual do Estado-Membro do foro e determinar quando se considera intentada uma ação (neste caso de divórcio). No Direito processual português ela considera-se intentada na data em que foi apresentada ao tribunal a respeƟva peƟção (art. 259.º do CPC). Logo, essa é a data relevante, nos termos do arƟgo 16.º, al. a). A ação foi intentada em 1 de outubro de 2022, logo depois de 1 de agosto de 2022. O âmbito de aplicação temporal está preenchido.
+A determinação da data em que foi instaurada uma ação deve ser feita de acordo com o artigo 17.º. Temos um conceito autónomo tripartido. Há que olhar para o Direito processual do Estado-Membro do foro e determinar quando se considera intentada uma ação (neste caso de divórcio). No Direito processual português ela considera-se intentada na data em que foi apresentada ao tribunal a respetiva petição (art. 259.º do CPC). Logo, essa é a data relevante, nos termos do artigo 16.º, al. a). A ação foi intentada em 1 de outubro de 2022, logo depois de 1 de agosto de 2022. O âmbito de aplicação temporal está preenchido.
 
-Em quarto lugar, há que veriﬁcar o âmbito de aplicação material. Para isso há que analisar o arƟgo 1.º. Nos termos do arƟgo 1.º, n.º 1, al. a), o Regulamento aplica-se às ações matrimoniais (divórcio, separação judicial e anulação do casamento). Apesar de o Regulamento não deﬁnir os conceitos de casamento e divórcio, não há dúvidas que neste caso estamos perante um casamento ”tradicional” (entre pessoas de sexo diferente) e perante uma ação que visa dissolver esse caso casamento.
+Em quarto lugar, há que verificar o âmbito de aplicação material. Para isso há que analisar o artigo 1.º. Nos termos do artigo 1.º, n.º 1, al. a), o Regulamento aplica-se às ações matrimoniais (divórcio, separação judicial e anulação do casamento). Apesar de o Regulamento não definir os conceitos de casamento e divórcio, não há dúvidas que neste caso estamos perante um casamento ”tradicional” (entre pessoas de sexo diferente) e perante uma ação que visa dissolver esse caso casamento.
 
-Nota extra: discuƟu-se, no Regulamento Bruxelas II bis (o anterior), se o conceito de casamento aí perﬁlhado abrangia os casamentos entre pessoas do mesmo sexo. Neste novo Regulamento a uƟlização da expressão neutra “cônjuges” (cf. ponto 5.1 do Anexo II e ponto 6.1 do Anexo VII) quando antes se uƟlizavam as expressões “esposo” e “esposa” aponta no senƟdo de que o legislador pretendeu abranger os casamentos entre pessoas do mesmo sexo.
+Nota extra: discutiu-se, no Regulamento Bruxelas II bis (o anterior), se o conceito de casamento aí perfilhado abrangia os casamentos entre pessoas do mesmo sexo. Neste novo Regulamento a utilização da expressão neutra “cônjuges” (cf. ponto 5.1 do Anexo II e ponto 6.1 do Anexo VII) quando antes se utilizavam as expressões “esposo” e “esposa” aponta no sentido de que o legislador pretendeu abranger os casamentos entre pessoas do mesmo sexo.
 
-Veriﬁcados todos os âmbitos de aplicação, o Regulamento é aplicável.
+Verificados todos os âmbitos de aplicação, o Regulamento é aplicável.
 
 2. Regras de competência internacional em matéria matrimonial. Considerações gerais.
 
@@ -301,11 +301,11 @@ Conclusão: a competência internacional dos tribunais portugueses terá de esta
 
 3. Concretização da residência habitual de Aníbal. A questão que se coloca é a de saber qual é a residência habitual de Aníbal, uma vez que:
 
-Em março de 2021, fruto de uma promoção proﬁssional, passou a exercer a sua aƟvidade proﬁssional de forma estável e permanente em Lisboa. Para o efeito, vive, durante os dias úteis da semana, num apartamento em Lisboa propriedade do seu pai e faz a sua vida social e proﬁssional em Lisboa. As férias, dias feriados e ﬁns de semanas passa-os em Madrid, na casa do casal, onde vivem Bianca, Carlos e Dani.
+Em março de 2021, fruto de uma promoção profissional, passou a exercer a sua atividade profissional de forma estável e permanente em Lisboa. Para o efeito, vive, durante os dias úteis da semana, num apartamento em Lisboa propriedade do seu pai e faz a sua vida social e profissional em Lisboa. As férias, dias feriados e fins de semanas passa-os em Madrid, na casa do casal, onde vivem Bianca, Carlos e Dani.
 
-Pergunta aos formandos: será que Aníbal tem duas residências habituais: uma pessoal, em Madrid (Espanha), e outra proﬁssional, em Lisboa (Portugal)?
+Pergunta aos formandos: será que Aníbal tem duas residências habituais: uma pessoal, em Madrid (Espanha), e outra profissional, em Lisboa (Portugal)?
 
-A questão de saber se um cônjuge poderia ter, num dado momento, mais de uma residência habitual já foi colocada ao TJ. No Acórdão de 25 de novembro de 2021, IB contra FA, C-289/20, EU:C:2021:955, em sede do Regulamento Bruxelas II bis, o TJ respondeu negaƟvamente, concluindo que, num dado momento, uma pessoa só pode ter uma residência habitual.
+A questão de saber se um cônjuge poderia ter, num dado momento, mais de uma residência habitual já foi colocada ao TJ. No Acórdão de 25 de novembro de 2021, IB contra FA, C-289/20, EU:C:2021:955, em sede do Regulamento Bruxelas II bis, o TJ respondeu negativamente, concluindo que, num dado momento, uma pessoa só pode ter uma residência habitual.
 
 Em síntese, foram estes os argumentos do TJ:
 
@@ -327,7 +327,7 @@ Por fim, considerou o TJ que a sua anterior jurisprudência em matéria de pluri
 
 Nota: perguntar aos formandos se concordam com a argumentação do TJ.
 
-Seguindo a jurisprudência do TJ, Aníbal não tem duas residências habituais. Há agora que determinar se ele tem residência habitual em Madrid ou em Lisboa. A consequência desta opção é relevanơssima: se Aníbal Ɵver residência habitual em Madrid, então apenas os tribunais espanhóis são internacionalmente competentes (art. 3.º, al. a), subal. i)) e os tribunais portugueses devem oﬁciosamente declarar-se incompetentes (art. 18.º); se Aníbal Ɵver residência
+Seguindo a jurisprudência do TJ, Aníbal não tem duas residências habituais. Há agora que determinar se ele tem residência habitual em Madrid ou em Lisboa. A consequência desta opção é relevantíssima: se Aníbal tiver residência habitual em Madrid, então apenas os tribunais espanhóis são internacionalmente competentes (art. 3.º, al. a), subal. i)) e os tribunais portugueses devem oficiosamente declarar-se incompetentes (art. 18.º); se Aníbal tiver residência
 
 habitual
 
@@ -341,7 +341,7 @@ os
 
 tribunais portugueses também são internacionalmente competentes para julgar a ação de divórcio (art. 3.º, al. a), subal. vi)).
 
-Pergunta: perguntar aos formandos para concreƟzar a residência habitual de Aníbal.
+Pergunta: perguntar aos formandos para concretizar a residência habitual de Aníbal.
 
 A opinião do TJ parece ser a de que Aníbal teria residência habitual em Lisboa:
 
@@ -353,99 +353,99 @@ dissolução do vínculo matrimonial, em aplicação do artigo 3.º, n.º 1, al�
 
 61 Embora esses elementos deixem a priori pensar que os requisitos estabelecidos no artigo 3.º, n.º 1, alínea a), sexto travessão, do Regulamento n.º 2201/2003 podem estar preenchidos, incumbe, todavia, ao órgão jurisdicional de reenvio verificar se todas as circunstâncias de facto específicas do caso concreto permitem efetivamente considerar que o interessado transferiu a sua residência habitual para o território do Estado-Membro a que pertence o referido órgão jurisdicional.
 
-Aceitando que Aníbal Ɵnha residência habitual em Lisboa, os tribunais portugueses dever-se-iam considerar internacionalmente competentes para julgar a ação.
+Aceitando que Aníbal tinha residência habitual em Lisboa, os tribunais portugueses dever-se-iam considerar internacionalmente competentes para julgar a ação.
 
-4. LiƟspendência e ações dependentes. O regime de liƟspendência e ações dependentes em matéria de processos matrimoniais encontra-se previsto nos n.º 1 e n.º 3 do arƟgo 20.º. Este regime só é diretamente aplicável às situações de liƟspendência ou de ações dependentes de cariz transnacional envolvendo apenas tribunais de Estados-Membros.
+4. Litispendência e ações dependentes. O regime de litispendência e ações dependentes em matéria de processos matrimoniais encontra-se previsto nos n.º 1 e n.º 3 do artigo 20.º. Este regime só é diretamente aplicável às situações de litispendência ou de ações dependentes de cariz transnacional envolvendo apenas tribunais de Estados-Membros.
 
-No caso presente, temos ações intentadas em dois Estados-Membros. O regime é aplicável sempre que essas ações sejam ações abrangidas pelo âmbito de aplicação material do Regulamento (divórcio, separação judicial e anulação do casamento). Tal signiﬁca que o regime da liƟspendência e ações dependentes é acionado desde que duas ações matrimoniais sejam intentadas junto de tribunais de Estados-Membros diferentes e haja idenƟdade de partes.
+No caso presente, temos ações intentadas em dois Estados-Membros. O regime é aplicável sempre que essas ações sejam ações abrangidas pelo âmbito de aplicação material do Regulamento (divórcio, separação judicial e anulação do casamento). Tal significa que o regime da litispendência e ações dependentes é acionado desde que duas ações matrimoniais sejam intentadas junto de tribunais de Estados-Membros diferentes e haja identidade de partes.
 
-Resulta da redação do preceito que não existe uma hierarquização entre as ações matrimoniais. Consequentemente, uma qualquer ação matrimonial intentada num tribunal de um Estado-Membro impede, durante a sua pendência, que qualquer outra ação matrimonial seja julgada nos tribunais de outro Estado-Membro. É o caso pois existe idenƟdade de partes e estão pendentes ações de divórcio em Portugal e em Espanha.
+Resulta da redação do preceito que não existe uma hierarquização entre as ações matrimoniais. Consequentemente, uma qualquer ação matrimonial intentada num tribunal de um Estado-Membro impede, durante a sua pendência, que qualquer outra ação matrimonial seja julgada nos tribunais de outro Estado-Membro. É o caso pois existe identidade de partes e estão pendentes ações de divórcio em Portugal e em Espanha.
 
-5. Princípio da prioridade temporal. O regime da liƟspendência e ações dependentes, assente na regra qui prior est tempore potior est iure e na deﬁnição triparƟda de instauração do processo (art. 17.º), permite resolver com facilidade a generalidade das situações de processos paralelos pendentes em tribunais de diversos Estados-Membros. No caso presente, a ação apresentada junto dos tribunais espanhóis foi intentada mais tarde (em segundo lugar). Por esse moƟvo, e nos termos do arƟgo 20.º, n.º 1, o tribunal espanhol deve oﬁciosamente suspender a instância até que os tribunais portugueses estabeleçam (ou não) a sua competência.
+5. Princípio da prioridade temporal. O regime da litispendência e ações dependentes, assente na regra qui prior est tempore potior est iure e na definição tripartida de instauração do processo (art. 17.º), permite resolver com facilidade a generalidade das situações de processos paralelos pendentes em tribunais de diversos Estados-Membros. No caso presente, a ação apresentada junto dos tribunais espanhóis foi intentada mais tarde (em segundo lugar). Por esse motivo, e nos termos do artigo 20.º, n.º 1, o tribunal espanhol deve oficiosamente suspender a instância até que os tribunais portugueses estabeleçam (ou não) a sua competência.
 
-Aníbal não tem razão quando aﬁrma que os tribunais espanhóis devem manter a suspensão da instância até que os tribunais portugueses proﬁram uma decisão sobre o mérito da causa. Nos termos do art. 20.º, n.ºs 1 e 3, os tribunais espanhóis devem aguardar que os tribunais portugueses decidam se são ou não internacionalmente competentes. Se os tribunais portugueses decidirem que são internacionalmente incompetentes, os tribunais espanhóis podem levantar a suspensão e prosseguir a ação; se os tribunais portugueses decidirem que são internacionalmente competentes, os tribunais espanhóis devem declarar-se internacionalmente incompetentes, tendo Bianca a possibilidade de apresentar pedido reconvencional junto dos tribunais portugueses.
+Aníbal não tem razão quando afirma que os tribunais espanhóis devem manter a suspensão da instância até que os tribunais portugueses profiram uma decisão sobre o mérito da causa. Nos termos do art. 20.º, n.ºs 1 e 3, os tribunais espanhóis devem aguardar que os tribunais portugueses decidam se são ou não internacionalmente competentes. Se os tribunais portugueses decidirem que são internacionalmente incompetentes, os tribunais espanhóis podem levantar a suspensão e prosseguir a ação; se os tribunais portugueses decidirem que são internacionalmente competentes, os tribunais espanhóis devem declarar-se internacionalmente incompetentes, tendo Bianca a possibilidade de apresentar pedido reconvencional junto dos tribunais portugueses.
 
-Conclusão ﬁnal: caso se considere que Aníbal tem residência habitual em Lisboa, os tribunais portugueses seriam internacionalmente competentes e os tribunais espanhóis deveriam suspender a instância no processo iniciado junto deles por Bianca até que os tribunais portugueses se declarassem internacional competentes, momento em que os tribunais espanhóis se deveriam declarar internacionalmente incompetentes para julgar a ação apre-sentada por Bianca.
+Conclusão final: caso se considere que Aníbal tem residência habitual em Lisboa, os tribunais portugueses seriam internacionalmente competentes e os tribunais espanhóis deveriam suspender a instância no processo iniciado junto deles por Bianca até que os tribunais portugueses se declarassem internacional competentes, momento em que os tribunais espanhóis se deveriam declarar internacionalmente incompetentes para julgar a ação apre-sentada por Bianca.
 
 Questão 2: Os tribunais portugueses são internacionalmente competentes para regular as responsabilidades parentais de Carlos e Dani?
 
-1. Revisitação dos âmbitos de aplicação. Na questão anterior analisaram- se os âmbitos de aplicação tendo por base um liơgio relaƟvo a ações matrimoniais. Nesta questão introduz-se o problema das responsabilidades parentais, o que impõe uma reanálise (pelo menos de alguns) dos âmbitos de aplicação do Regulamento.
+1. Revisitação dos âmbitos de aplicação. Na questão anterior analisaram- se os âmbitos de aplicação tendo por base um litígio relativo a ações matrimoniais. Nesta questão introduz-se o problema das responsabilidades parentais, o que impõe uma reanálise (pelo menos de alguns) dos âmbitos de aplicação do Regulamento.
 
-O âmbito de aplicação espacial e territorial mantêm-se sem alterações substanƟvas: a situação conƟnua a ter incidência transfronteiriça e coloca- se perante tribunais portugueses, pelo que se suscita no território de um Estado-Membro vinculado à aplicação do Regulamento.
+O âmbito de aplicação espacial e territorial mantêm-se sem alterações substantivas: a situação continua a ter incidência transfronteiriça e coloca- se perante tribunais portugueses, pelo que se suscita no território de um Estado-Membro vinculado à aplicação do Regulamento.
 
-O Regulamento regula matérias disƟntas, embora conexas: as ações matrimoniais e as responsabilidades parentais dos ﬁlhos. Agora há uma extensão da matéria em liơgio, mas ela é igualmente abrangida pelo âmbito de aplicação material, nos termos do arƟgo 1.º, n.º 1, al. b), e n.º 2, al. a).
+O Regulamento regula matérias distintas, embora conexas: as ações matrimoniais e as responsabilidades parentais dos filhos. Agora há uma extensão da matéria em litígio, mas ela é igualmente abrangida pelo âmbito de aplicação material, nos termos do artigo 1.º, n.º 1, al. b), e n.º 2, al. a).
 
-Chama-se a atenção para os conceitos autónomos de responsabilidade parental, direito de guarda e direito de visita deﬁnidos no arƟgo 2.º, n.º 2, 7), 9) e 10).
+Chama-se a atenção para os conceitos autónomos de responsabilidade parental, direito de guarda e direito de visita definidos no artigo 2.º, n.º 2, 7), 9) e 10).
 
 Chama-se também a atenção para o facto de Carlos tem mais de 16 anos de idade (fará 17 no dia 15 de dezembro de 2022). Ainda assim, as normas sobre responsabilidade parental aplicam-se pois considera-se criança qualquer pessoa com menos de 18 anos (art. 2.º, n.º 2, 6)), mesmo que fosse emancipado (considerando 17).
 
 O âmbito de aplicação material está preenchido.
 
-Pode suscitar dúvidas o preenchimento do âmbito de aplicação temporal, uma vez que o acordo celebrado entre os progenitores relaƟvo à competência dos tribunais portugueses data do dia 1 de junho de 2022, ou seja, o acordo foi celebrado em data anterior a 1 de agosto de 2022.
+Pode suscitar dúvidas o preenchimento do âmbito de aplicação temporal, uma vez que o acordo celebrado entre os progenitores relativo à competência dos tribunais portugueses data do dia 1 de junho de 2022, ou seja, o acordo foi celebrado em data anterior a 1 de agosto de 2022.
 
-Ora o arƟgo 100.º, n.º 1, estabelece que o Regulamento é aplicável apenas às ações intentadas, aos atos autênƟcos formalmente exarados e aos acordos registados a parƟr de 1 de agosto de 2022.
+Ora o artigo 100.º, n.º 1, estabelece que o Regulamento é aplicável apenas às ações intentadas, aos atos autênticos formalmente exarados e aos acordos registados a partir de 1 de agosto de 2022.
 
 Pergunta aos formandos: está ou não está preenchido o âmbito de aplicação temporal?
 
 Resposta: Está. O facto jurídico relevante é a data da instauração da ação e não a data da celebração do pacto de jurisdição.
 
-Isso mesmo resulta de forma mais clara, pensa-se, da deﬁnição de “ato autênƟco” e “acordo registado”, que constam do art. 2.º, n.º 2, 2) e 3).
+Isso mesmo resulta de forma mais clara, pensa-se, da definição de “ato autêntico” e “acordo registado”, que constam do art. 2.º, n.º 2, 2) e 3).
 
-1. «Ato autênƟco»: um documento formalmente exarado ou registado como ato autênƟco em qualquer Estado-Membro nas matérias abrangidas pelo âmbito de aplicação do presente regulamento e cuja autenƟcidade:
+1. «Ato autêntico»: um documento formalmente exarado ou registado como ato autêntico em qualquer Estado-Membro nas matérias abrangidas pelo âmbito de aplicação do presente regulamento e cuja autenticidade:
 
 2. esteja associada à assinatura e ao conteúdo do ato, e
 
-3. tenha sido conﬁrmada por uma autoridade pública ou outra autoridade habilitada para esse efeito. Os Estados-Membros devem comunicar essas autoridades à Comissão nos termos do arƟgo 103.º;
+3. tenha sido confirmada por uma autoridade pública ou outra autoridade habilitada para esse efeito. Os Estados-Membros devem comunicar essas autoridades à Comissão nos termos do artigo 103.º;
 
-4. «Acordo», para efeitos do capítulo IV: um documento que não é um ato autênƟco, tenha sido celebrado pelas partes em matérias abrangidas pelo âmbito de aplicação do presente regulamento e tenha sido registado por uma autoridade pública tal como comunicado por um Estado-Membro à Comissão nos termos do arƟgo 103.º para esse efeito;
+4. «Acordo», para efeitos do capítulo IV: um documento que não é um ato autêntico, tenha sido celebrado pelas partes em matérias abrangidas pelo âmbito de aplicação do presente regulamento e tenha sido registado por uma autoridade pública tal como comunicado por um Estado-Membro à Comissão nos termos do artigo 103.º para esse efeito;
 
 e também do considerando 14:
 
-(14) De acordo com a jurisprudência do Tribunal de JusƟça, o termo «tribunal»
+(14) De acordo com a jurisprudência do Tribunal de Justiça, o termo «tribunal»
 
-deverá ser interpretado em senƟdo lato, de modo que abranja também as autoridades administraƟvas ou outras autoridades como os notários que, em certas questões matrimoniais ou questões de responsabilidade parental, exercem a sua competência. Qualquer acordo aprovado pelo tribunal na sequência da análise do mérito em conformidade com o direito e os procedimentos nacionais deverá ser reconhecido ou aplicado como uma «decisão». Outros acordos que adquiram um efeito jurídico vinculaƟvo no Estado-Membro de origem na sequência da intervenção formal de uma autoridade pública ou de outra autoridade tal como comunicado por um Estado-Membro à Comissão para esse efeito, deverão produzir efeitos noutros Estados-Membros de acordo com as disposições especíﬁcas do presente regulamento sobre atos autênƟcos e acordos. O presente regulamento não deverá permiƟr a livre circulação de simples acordos privados. No entanto, os acordos que não sejam nem uma decisão nem um ato autênƟco, mas que tenham sido registados por uma autoridade pública competente para o fazer deverão circular. Essas autoridades públicas podem incluir os notários que efetuam o registo dos acordos, mesmo quando estes exercem uma proﬁssão liberal.
+deverá ser interpretado em sentido lato, de modo que abranja também as autoridades administrativas ou outras autoridades como os notários que, em certas questões matrimoniais ou questões de responsabilidade parental, exercem a sua competência. Qualquer acordo aprovado pelo tribunal na sequência da análise do mérito em conformidade com o direito e os procedimentos nacionais deverá ser reconhecido ou aplicado como uma «decisão». Outros acordos que adquiram um efeito jurídico vinculativo no Estado-Membro de origem na sequência da intervenção formal de uma autoridade pública ou de outra autoridade tal como comunicado por um Estado-Membro à Comissão para esse efeito, deverão produzir efeitos noutros Estados-Membros de acordo com as disposições específicas do presente regulamento sobre atos autênticos e acordos. O presente regulamento não deverá permitir a livre circulação de simples acordos privados. No entanto, os acordos que não sejam nem uma decisão nem um ato autêntico, mas que tenham sido registados por uma autoridade pública competente para o fazer deverão circular. Essas autoridades públicas podem incluir os notários que efetuam o registo dos acordos, mesmo quando estes exercem uma profissão liberal.
 
 (negritos aditados)
 
-2. A admissibilidade de pactos de jurisdição em matéria de responsabilidade parental: considerações gerais. À semelhança do Regulamento Bruxelas II bis, permite-se, no art. 10.º que celebração de pactos de jurisdição que atribuem competência internacional aos tribunais de determinado Estado-Membro em matéria de responsabilidade parental. O art. 10.º é uma evolução face ao arƟgo 12.º do Regulamento Bruxelas II bis, já que prevê uma regulamentação unitária para a admissibilidade dos pactos de jurisdição, deixando de disƟnguir entre pactos celebrados no contexto de ações matrimoniais e pactos celebrados no contexto de outras ações.
+2. A admissibilidade de pactos de jurisdição em matéria de responsabilidade parental: considerações gerais. À semelhança do Regulamento Bruxelas II bis, permite-se, no art. 10.º que celebração de pactos de jurisdição que atribuem competência internacional aos tribunais de determinado Estado-Membro em matéria de responsabilidade parental. O art. 10.º é uma evolução face ao artigo 12.º do Regulamento Bruxelas II bis, já que prevê uma regulamentação unitária para a admissibilidade dos pactos de jurisdição, deixando de distinguir entre pactos celebrados no contexto de ações matrimoniais e pactos celebrados no contexto de outras ações.
 
-#### 3. Condições para o estabelecimento de competência através de um pacto: 1.ª condição cumulaƟva: ligação estreita da criança ao Estado-Membro designado (art. 10.º, n.º 1, al. a)).
+#### 3. Condições para o estabelecimento de competência através de um pacto: 1.ª condição cumulativa: ligação estreita da criança ao Estado-Membro designado (art. 10.º, n.º 1, al. a)).
 
-O pacto só será admissível quando haja uma ligação estreita entre a criança e o Estado-Membro designado no pacto. No arƟgo 10.º, n.º 1, al. a) indica-se uma lista exempliﬁcaƟva de situações em que há uma conexão estreita.
+O pacto só será admissível quando haja uma ligação estreita entre a criança e o Estado-Membro designado no pacto. No artigo 10.º, n.º 1, al. a) indica-se uma lista exemplificativa de situações em que há uma conexão estreita.
 
-No nosso caso, veriﬁca-se pelo menos uma das ligações indicadas (as crianças têm nacionalidade portuguesa) e, dependendo do modo como foi concreƟzada a residência habitual de Aníbal, poderá exisƟr uma outra ligação (um dos progenitores tem residência habitual em Portugal).
+No nosso caso, verifica-se pelo menos uma das ligações indicadas (as crianças têm nacionalidade portuguesa) e, dependendo do modo como foi concretizada a residência habitual de Aníbal, poderá existir uma outra ligação (um dos progenitores tem residência habitual em Portugal).
 
-4. 2.ª condição cumulaƟva: existência de acordo entre as partes no processo (art. 10.º, n.º 1, al. b)). Resulta das duas subalíneas do arƟgo 10.º, n.º 1, al. b), que o acordo pode ser extrajudicial e, nesse caso, pode ser efetuado até à data da instauração do processo ou pode ser efetuado no decurso e dentro do processo.
+4. 2.ª condição cumulativa: existência de acordo entre as partes no processo (art. 10.º, n.º 1, al. b)). Resulta das duas subalíneas do artigo 10.º, n.º 1, al. b), que o acordo pode ser extrajudicial e, nesse caso, pode ser efetuado até à data da instauração do processo ou pode ser efetuado no decurso e dentro do processo.
 
 Validade formal do acordo: o art. 10.º, n.º 2, estabelece que, no caso de acordos extrajudiciais, o pacto deve ser celebrado por escrito, datado e assinado. No nosso caso, estes requisitos de forma uniformes estão cumpridos.
 
-Chama-se, no entanto, a atenção para o considerando n.º 23, no qual se aﬁrma que:
+Chama-se, no entanto, a atenção para o considerando n.º 23, no qual se afirma que:
 
-(…) Antes de exercer a sua competência com base num acordo ou numa aceitação relaƟvos à atribuição de competência, o tri- bunal deverá analisar se o referido acordo ou aceitação teve por base uma escolha livre e informada das partes em causa e não é resultado de uma das partes ter Ɵrado parƟdo da situação ou posição fraca da outra parte. (…)
+(…) Antes de exercer a sua competência com base num acordo ou numa aceitação relativos à atribuição de competência, o tri- bunal deverá analisar se o referido acordo ou aceitação teve por base uma escolha livre e informada das partes em causa e não é resultado de uma das partes ter tirado partido da situação ou posição fraca da outra parte. (…)
 
-Se o acordo fosse efetuado durante e dentro do processo, as regras formais que devem ser seguidas são as do Estado-Membro do foro (art. 10.º, n.º 2 e considerando n.º 23), relevando-se que o tribunal deve assegurar que todas as partes foram informadas do seu direito de não aceitar a competência (art. 10.º, n.º 2). Trata-se de uma obrigação algo semelhante à que existe no arƟgo 26.º, n.º 2, do Regulamento Bruxelas I bis.
+Se o acordo fosse efetuado durante e dentro do processo, as regras formais que devem ser seguidas são as do Estado-Membro do foro (art. 10.º, n.º 2 e considerando n.º 23), relevando-se que o tribunal deve assegurar que todas as partes foram informadas do seu direito de não aceitar a competência (art. 10.º, n.º 2). Trata-se de uma obrigação algo semelhante à que existe no artigo 26.º, n.º 2, do Regulamento Bruxelas I bis.
 
-IdenƟﬁcação das partes: o acordo deve ser celebrado pelas pessoas que são (ou serão) partes no processo. Regra geral, serão os progenitores das crianças. Podem também ser outras pessoas que sejam os Ɵtulares do exercício das responsabilidades parentais (por exemplo, no caso de colocação de crianças numa insƟtuição). Todavia, há que prestar atenção à jurisprudência do TJ proferida em sede de Bruxelas II bis:
+Identificação das partes: o acordo deve ser celebrado pelas pessoas que são (ou serão) partes no processo. Regra geral, serão os progenitores das crianças. Podem também ser outras pessoas que sejam os titulares do exercício das responsabilidades parentais (por exemplo, no caso de colocação de crianças numa instituição). Todavia, há que prestar atenção à jurisprudência do TJ proferida em sede de Bruxelas II bis:
 
 - No Acórdão de 31 de maio de 2018, Valcheva, C-335/17, EU:C:2018:359, o TJ concluiu que os avós a quem foi atribuído um direito de visita eram titulares da responsabilidade da criança;
 
 - No Acórdão de 19 de abril de 2018, Saponaro, C-565/16, EU:C:2018:265, o TJ referiu, quando ao procurador público grego:
 
-29 Há, portanto, que considerar que um procurador que, segundo o direito nacional, tem a qualidade de parte no pro- cesso em ações como a que está em causa no processo principal e que representa o interesse do menor, é uma parte no processo, na aceção do arƟgo 12.°, n.° 3, alínea b), do Regulamento n.° 2201/2003.
+29 Há, portanto, que considerar que um procurador que, segundo o direito nacional, tem a qualidade de parte no pro- cesso em ações como a que está em causa no processo principal e que representa o interesse do menor, é uma parte no processo, na aceção do artigo 12.°, n.° 3, alínea b), do Regulamento n.° 2201/2003.
 
 Por conseguinte, a sua oposição a uma extensão de competência não pode ser ignorada.
 
-Pergunta aos formandos: atendendo à jurisprudência do caso Saponaro como deve ser caracterizada a parƟcipação do Ministério Público nos processos de responsabilidade parental que correm termos nos tribunais portugueses? Deve ser considerado, ou não, uma parte de pleno direito?
+Pergunta aos formandos: atendendo à jurisprudência do caso Saponaro como deve ser caracterizada a participação do Ministério Público nos processos de responsabilidade parental que correm termos nos tribunais portugueses? Deve ser considerado, ou não, uma parte de pleno direito?
 
-A resposta a esta questão é muito importante, porque nos termos do arƟgo 10.º, n.º 1, al. b), e n.º 2, 2.º parágrafo, as partes de pleno direito podem opor-se aos pactos de jurisdição; havendo oposição, o pacto não produz efeitos.
+A resposta a esta questão é muito importante, porque nos termos do artigo 10.º, n.º 1, al. b), e n.º 2, 2.º parágrafo, as partes de pleno direito podem opor-se aos pactos de jurisdição; havendo oposição, o pacto não produz efeitos.
 
-5. 3.ª condição cumulaƟva: o exercício da competência pelo tribunal designado no pacto tem de ser no superior interesse da criança (art. 10.º, n.º 1, al. c)). Em primeiro lugar, chama-se a atenção para o considerando 19:
+5. 3.ª condição cumulativa: o exercício da competência pelo tribunal designado no pacto tem de ser no superior interesse da criança (art. 10.º, n.º 1, al. c)). Em primeiro lugar, chama-se a atenção para o considerando 19:
 
-As regras de competência em matéria de responsabilidade parental são deﬁnidas em função do superior interesse da criança e devem ser aplicadas em função desse interesse. Todas as referências ao superior interesse da criança deverão ser interpretadas à luz do arƟgo 24.º da Carta dos Direitos Fundamentais da União Europeia («Carta») e da Convenção das Nações Unidas sobre os Direitos da Criança, de 20 de novembro de 1989 («Convenção das Nações Unidas sobre os Direitos da Criança»), aplicadas ao abrigo do direito e dos procedimentos nacionais. (negritos aditados)
+As regras de competência em matéria de responsabilidade parental são definidas em função do superior interesse da criança e devem ser aplicadas em função desse interesse. Todas as referências ao superior interesse da criança deverão ser interpretadas à luz do artigo 24.º da Carta dos Direitos Fundamentais da União Europeia («Carta») e da Convenção das Nações Unidas sobre os Direitos da Criança, de 20 de novembro de 1989 («Convenção das Nações Unidas sobre os Direitos da Criança»), aplicadas ao abrigo do direito e dos procedimentos nacionais. (negritos aditados)
 
-O arƟgo 24.º da Carta estabelece:
+O artigo 24.º da Carta estabelece:
 
-ArƟgo 24.º
+Artigo 24.º
 
 Direitos das crianças
 
@@ -453,53 +453,53 @@ Direitos das crianças
 
 Podem exprimir livremente a sua opinião, que será tomada em consideração nos assuntos que lhes digam respeito, em função da sua idade e maturidade.
 
-2. Todos os atos relaƟvos às crianças, quer praƟcados por enƟdades públicas, quer por insƟtuições privadas, terão primacialmente em conta o interesse superior da criança.
+2. Todos os atos relativos às crianças, quer praticados por entidades públicas, quer por instituições privadas, terão primacialmente em conta o interesse superior da criança.
 
 3. Todas as crianças têm o direito de manter regularmente relações pessoais e contactos diretos com ambos os progenitores, exceto se isso for contrário aos seus interesses.
 
-O arƟgo 3.º da CNUDC estabelece:
+O artigo 3.º da CNUDC estabelece:
 
-ArƟgo 3.º
+Artigo 3.º
 
-1. Todas as decisões relaƟvas a crianças, adoptadas por insƟtuições públicas ou privadas de protecção social, por tribunais, autoridades administraƟvas ou órgãos legislaƟvos, terão primacialmente em conta o interesse superior da criança.
+1. Todas as decisões relativas a crianças, adoptadas por instituições públicas ou privadas de protecção social, por tribunais, autoridades administrativas ou órgãos legislativos, terão primacialmente em conta o interesse superior da criança.
 
-2. Os Estados Partes comprometem-se a garanƟr à criança a protecção e os cuidados necessários ao seu bem-estar, tendo em conta os direitos e deveres dos pais, representantes legais ou outras pessoas que a tenham legalmente a seu cargo e, para este efeito, tomam todas as medidas legislaƟvas e administraƟvas adequadas.
+2. Os Estados Partes comprometem-se a garantir à criança a protecção e os cuidados necessários ao seu bem-estar, tendo em conta os direitos e deveres dos pais, representantes legais ou outras pessoas que a tenham legalmente a seu cargo e, para este efeito, tomam todas as medidas legislativas e administrativas adequadas.
 
-3. Os Estados Partes garantem que o funcionamento de insƟtuições, serviços e estabelecimentos que têm crianças a seu cargo e asseguram a sua protecção seja conforme às normas ﬁxadas pelas autoridades competentes, nomeadamente nos domínios da segurança e saúde, relaƟvamente ao número e qualiﬁcação do seu pessoal, bem como quanto à existência de uma adequada ﬁscalização.
+3. Os Estados Partes garantem que o funcionamento de instituições, serviços e estabelecimentos que têm crianças a seu cargo e asseguram a sua protecção seja conforme às normas fixadas pelas autoridades competentes, nomeadamente nos domínios da segurança e saúde, relativamente ao número e qualificação do seu pessoal, bem como quanto à existência de uma adequada fiscalização.
 
 O superior interesse da criança na jurisprudência do TJ:
 
-- No Acórdão de 12 de novembro de 2014, L, C-656/13, EU:C:2014:2364, o TJ esclareceu que a análise do superior interesse da criança tem de ser casuísƟca:
+- No Acórdão de 12 de novembro de 2014, L, C-656/13, EU:C:2014:2364, o TJ esclareceu que a análise do superior interesse da criança tem de ser casuística:
 
-58 Importa acrescentar que, quando é submeƟdo um processo a um tribunal nos termos do arƟgo 12.°, n.° 3, do Regulamento n.° 2201/2003, o superior interesse da criança só pode ser assegurado através de uma análise, em cada caso concreto, da questão de saber se a extensão de competência pretendida é compaơvel com esse superior interesse, e que uma extensão de competência, nos termos do arƟgo 12.°, n.° 3, do Regulamento n.° 2201/2003, apenas produz efeitos para o processo especíﬁco submeƟdo ao tribunal cuja competência é objeto de extensão (v., neste senƟdo, acórdão E, EU:C:2014:2246, n.os 47 e 49). (negritos aditados)
+58 Importa acrescentar que, quando é submetido um processo a um tribunal nos termos do artigo 12.°, n.° 3, do Regulamento n.° 2201/2003, o superior interesse da criança só pode ser assegurado através de uma análise, em cada caso concreto, da questão de saber se a extensão de competência pretendida é compatível com esse superior interesse, e que uma extensão de competência, nos termos do artigo 12.°, n.° 3, do Regulamento n.° 2201/2003, apenas produz efeitos para o processo específico submetido ao tribunal cuja competência é objeto de extensão (v., neste sentido, acórdão E, EU:C:2014:2246, n.os 47 e 49). (negritos aditados)
 
-- No Acórdão de 19 de abril de 2018, Saponaro, C-565/16, EU:C:2018:26, esclareceu que a aceitação da competência não deve ser susceơvel de ter um impacto negaƟvo na situação do menor:
+- No Acórdão de 19 de abril de 2018, Saponaro, C-565/16, EU:C:2018:26, esclareceu que a aceitação da competência não deve ser suscetível de ter um impacto negativo na situação do menor:
 
-No Acórdão de 27 de outubro de 2016, D. (C-428/15, EU:C:2016:819, n.º 58), relaƟvo à interpretação do arƟgo 15.º do Regulamento n.º 2201/2013, consagrado à transferência para um tribunal mais bem colocado para apreciar a ação, o Tribunal de JusƟça concluiu que a exigência de que a transferência sirva o superior interesse da criança implica que o tribunal competente se cerƟﬁque, à luz das circunstâncias concretas do processo, de que a transferência equacionada deste úlƟmo para um tribunal de outro Estado-Membro não é susceơvel de ter um impacto negaƟvo na situação do menor.
+No Acórdão de 27 de outubro de 2016, D. (C-428/15, EU:C:2016:819, n.º 58), relativo à interpretação do artigo 15.º do Regulamento n.º 2201/2013, consagrado à transferência para um tribunal mais bem colocado para apreciar a ação, o Tribunal de Justiça concluiu que a exigência de que a transferência sirva o superior interesse da criança implica que o tribunal competente se certifique, à luz das circunstâncias concretas do processo, de que a transferência equacionada deste último para um tribunal de outro Estado-Membro não é suscetível de ter um impacto negativo na situação do menor.
 
 Pergunta para os formandos: a aceitação da competência pelo tribunal português acarreta o prejuízo para a situação do menor?
 
 A resposta a esta questão deve ser dada no caso concreto e é decisiva para a aceitação da competência. O pacto só produzirá os seus efeitos se o tribunal português considerar que o exercício da competência que lhe é atribuída pelo pacto respeita o superior interesse criança. Em suma: o tribunal tem uma palavra decisiva a dizer quanto a admissibilidde do pacto.
 
-Questão 3: Quid iuris se já esƟvesse pendente uma ação de regulação do exercício das responsabilidades parentais de Carlos e Dani nos tribunais espanhóis?
+Questão 3: Quid iuris se já estivesse pendente uma ação de regulação do exercício das responsabilidades parentais de Carlos e Dani nos tribunais espanhóis?
 
-1. LiƟspendência em matéria de responsabilidade parental. Considerações gerais. As regras de liƟspendência internacional em matéria de responsabilidade resultam do arƟgo 20.º, n.ºs 2 a 5.
+1. Litispendência em matéria de responsabilidade parental. Considerações gerais. As regras de litispendência internacional em matéria de responsabilidade resultam do artigo 20.º, n.ºs 2 a 5.
 
-Para que haja uma situação de liƟspendência terá de haver idenƟdade de partes, pedido e causa de pedir e a responsabilidade parental tem de ser em relação a(s) mesma(s) criança(s).
+Para que haja uma situação de litispendência terá de haver identidade de partes, pedido e causa de pedir e a responsabilidade parental tem de ser em relação a(s) mesma(s) criança(s).
 
-Tudo isso se veriﬁca no nosso caso.
+Tudo isso se verifica no nosso caso.
 
-2. A regra geral: prioridade temporal. Tal como na liƟspendência e ações dependentes em matéria de ações matrimoniais, a regra geral é a da prioridade temporal. Segundo esta regra, o tribunal demandado em segundo lugar (no caso, o tribunal português) deve suspender a instância até que esteja estabelecida a competência do tribunal demandado em primeiro lugar (no caso, o tribunal espanhol), nos termos do art. 19.º, n.º 2.
+2. A regra geral: prioridade temporal. Tal como na litispendência e ações dependentes em matéria de ações matrimoniais, a regra geral é a da prioridade temporal. Segundo esta regra, o tribunal demandado em segundo lugar (no caso, o tribunal português) deve suspender a instância até que esteja estabelecida a competência do tribunal demandado em primeiro lugar (no caso, o tribunal espanhol), nos termos do art. 19.º, n.º 2.
 
 Se os tribunais espanhóis se considerassem competentes, o tribunal português declarar-se-ia incompetente; se os tribunais espanhóis se considerassem incompetentes, o tribunal português poderia prosseguir com a ação (art. 19.º, n.º 3).
 
-3. A nova regra especial: prevalência dos tribunais designados através de um pacto de jurisdição exclusivo. O Regulamento introduz no art. 20.º, n.ºs 4 e 5, um novo critério de resolução da liƟspendência. Este critério é claramente inspirado no arƟgo 31.º, n.ºs 2 e 3, do Regulamento Bruxelas I bis.
+3. A nova regra especial: prevalência dos tribunais designados através de um pacto de jurisdição exclusivo. O Regulamento introduz no art. 20.º, n.ºs 4 e 5, um novo critério de resolução da litispendência. Este critério é claramente inspirado no artigo 31.º, n.ºs 2 e 3, do Regulamento Bruxelas I bis.
 
 Estabelece-se a prevalência dos tribunais que tenham sido chamados a pronunciar-se na sequência de um pacto de jurisdição que lhes atribua competência exclusiva.
 
-Segundo o art. 20.º, n.º 4, a parƟr do momento em que foi intentada a ação num tribunal em virtude de um pacto de jurisdição exclusivo, os tribunais dos outros Estados-Membros devem suspender quaisquer ações que estejam pendentes e em que haja a tríplice idenƟdade, até que o tribunal competente por via do pacto estabeleça (ou não) que é competente.
+Segundo o art. 20.º, n.º 4, a partir do momento em que foi intentada a ação num tribunal em virtude de um pacto de jurisdição exclusivo, os tribunais dos outros Estados-Membros devem suspender quaisquer ações que estejam pendentes e em que haja a tríplice identidade, até que o tribunal competente por via do pacto estabeleça (ou não) que é competente.
 
-Se se considerar competente, os outros devem declarar-se oﬁciosamente incompetentes (art. 20.º, n.º 5).
+Se se considerar competente, os outros devem declarar-se oficiosamente incompetentes (art. 20.º, n.º 5).
 
 #### 4. Quando é que um pacto de jurisdição efetuado nos termos do art. 10.º atribui competência exclusiva?
 
@@ -509,63 +509,63 @@ Como vimos acima, as partes podem fazer pactos de jurisdição:
 
 (ii) durante o decurso do processo e “dentro” dele.
 
-O Regulamento é explícito ao estabelecer que um pacto ﬁrmado no decurso e “dentro” do processo é um pacto de jurisdição que atribui competência exclusiva (art. 10.º, n.º 4).
+O Regulamento é explícito ao estabelecer que um pacto firmado no decurso e “dentro” do processo é um pacto de jurisdição que atribui competência exclusiva (art. 10.º, n.º 4).
 
 Mas o pacto de jurisdição do nosso caso foi celebrado antes de intentada a ação. E sobre estes pactos, o art. 10.º nada estabelece quanto à sua natureza. Já existe alguma divergência doutrinária sobre este ponto.
 
-Há autores que defendem que o pacto de jurisdição celebrado “fora” do processo é sempre não exclusivo, isto é, só atribui competência aos tribunais designados, não reƟrando competência aos demais tribunais que seriam competentes em virtude de outras regras do Regulamento (mormente, os espanhóis por serem os do Estado-Membro da residência habitual das crianças).
+Há autores que defendem que o pacto de jurisdição celebrado “fora” do processo é sempre não exclusivo, isto é, só atribui competência aos tribunais designados, não retirando competência aos demais tribunais que seriam competentes em virtude de outras regras do Regulamento (mormente, os espanhóis por serem os do Estado-Membro da residência habitual das crianças).
 
-Outros autores defendem que nada impede as partes de atribuírem competência exclusiva ao pacto celebrado fora do processo; têm e de o fazer expressamente. O pacto de jurisdição exclusivo tem um efeito atribuƟvo de competência e um efeito privaƟvo de competência. Em favor desta tese, pode avançar-se a própria redação do arƟgo 20.º, n.º 4 e n.º 5, que mencionam todo o arƟgo 10.º e não apenas o arƟgo 10.º, n.º 1, al. b), subal. ii):
+Outros autores defendem que nada impede as partes de atribuírem competência exclusiva ao pacto celebrado fora do processo; têm e de o fazer expressamente. O pacto de jurisdição exclusivo tem um efeito atributivo de competência e um efeito privativo de competência. Em favor desta tese, pode avançar-se a própria redação do artigo 20.º, n.º 4 e n.º 5, que mencionam todo o artigo 10.º e não apenas o artigo 10.º, n.º 1, al. b), subal. ii):
 
-1. Quando for chamado a pronunciar-se um tribunal de um Estado-Membro ao qual é atribuída competência exclusiva por uma aceitação de competência referida no arƟgo 10.º, os tribunais dos outros Estados-Membros suspendem a instância até ao momento em que o tribunal chamado a pronunciar-se com base no acordo ou na aceitação declare que não é competente for força do acordo ou da aceitação.
+1. Quando for chamado a pronunciar-se um tribunal de um Estado-Membro ao qual é atribuída competência exclusiva por uma aceitação de competência referida no artigo 10.º, os tribunais dos outros Estados-Membros suspendem a instância até ao momento em que o tribunal chamado a pronunciar-se com base no acordo ou na aceitação declare que não é competente for força do acordo ou da aceitação.
 
-2. Quando e na medida em que o tribunal estabeleceu a competência exclusiva por força da aceitação da competência a que se refere o arƟgo 10.º, os tribunais dos outros Estados-Membros declaram-se incompetentes a favor desse tribunal.
+2. Quando e na medida em que o tribunal estabeleceu a competência exclusiva por força da aceitação da competência a que se refere o artigo 10.º, os tribunais dos outros Estados-Membros declaram-se incompetentes a favor desse tribunal.
 
 E sobretudo o considerando 38:
 
-(38) O funcionamento harmonioso da jusƟça obriga a minimizar a possibilidade de instaurar processos concorrentes e a evitar que sejam proferidas decisões inconciliáveis em Estados-Membros diferentes. Importa prever um mecanismo claro e eﬁcaz para resolver os casos de liƟspendência e de conexão e para obviar aos problemas resultantes das divergências nacionais quanto à determinação do momento a parƟr do qual os processos são considerados pendentes. Para efeitos do presente regulamento, é conveniente ﬁxar esta data de forma autónoma.
+(38) O funcionamento harmonioso da justiça obriga a minimizar a possibilidade de instaurar processos concorrentes e a evitar que sejam proferidas decisões inconciliáveis em Estados-Membros diferentes. Importa prever um mecanismo claro e eficaz para resolver os casos de litispendência e de conexão e para obviar aos problemas resultantes das divergências nacionais quanto à determinação do momento a partir do qual os processos são considerados pendentes. Para efeitos do presente regulamento, é conveniente fixar esta data de forma autónoma.
 
-Todavia, a ﬁm de reforçar a eﬁcácia dos acordos exclusivos relaƟvos à atribuição de competência, as disposições do presente regulamento sobre liƟspendência não deverão consƟtuir um obstáculo caso os pais atribuam competência exclusiva aos tribunais de um Estado-Membro.
+Todavia, a fim de reforçar a eficácia dos acordos exclusivos relativos à atribuição de competência, as disposições do presente regulamento sobre litispendência não deverão constituir um obstáculo caso os pais atribuam competência exclusiva aos tribunais de um Estado-Membro.
 
-O considerando também não disƟngue entre pactos celebrados “dentro” e “fora” do processo.
+O considerando também não distingue entre pactos celebrados “dentro” e “fora” do processo.
 
 Embora com dúvidas, eu inclino-me mais para esta solução.
 
-Assim, se concordarem comigo, as partes atribuíram competência exclusiva aos tribunais portugueses, o que signiﬁca que, apesar de demandado em primeiro lugar, o tribunal espanhol deveria suspender oﬁciosamente a instância até que o tribunal português determinasse se é ou não internacionalmente competente para julgar a ação (art. 20.º, n.ºs 4 e 5).
+Assim, se concordarem comigo, as partes atribuíram competência exclusiva aos tribunais portugueses, o que significa que, apesar de demandado em primeiro lugar, o tribunal espanhol deveria suspender oficiosamente a instância até que o tribunal português determinasse se é ou não internacionalmente competente para julgar a ação (art. 20.º, n.ºs 4 e 5).
 
-Questão 4: O tribunal português deve ouvir as crianças, Carlos e Dani? Em caso aﬁrmaƟvo, como deve proceder?
+Questão 4: O tribunal português deve ouvir as crianças, Carlos e Dani? Em caso afirmativo, como deve proceder?
 
 1. Direito de a criança expressar a sua opinião. Uma das novidades deste Regulamento foi o acentuar do direito da criança expressar a sua opinião. Ele surge, em matéria de responsabilidade parental no art. 21.º; em matéria de rapto internacional de crianças, no art. 26.º; é uma das causas de recusa do reconhecimento de decisões em matéria de responsabilidade parental (art. 39.º, n.º 2); e a não audição da criança impede o recurso ao regime de reconhecimento das decisões “privilegiadas” (art. 47.º, n.º 3, al. b)).
 
 No nosso caso, a norma relevante é o art. 21.º:
 
-ArƟgo 21.º
+Artigo 21.º
 
 Direito de a criança expressar a sua opinião
 
-1. No exercício da sua competência ao abrigo da secção 2 do presente capítulo, os tribunais dos Estados-Membros devem, em conformidade com o direito e os procedimentos nacionais, dar a uma criança que seja capaz de formar as suas próprias opiniões a oportunidade real e efeƟva de as expressar, diretamente ou através de um representante ou de um organismo adequado.
+1. No exercício da sua competência ao abrigo da secção 2 do presente capítulo, os tribunais dos Estados-Membros devem, em conformidade com o direito e os procedimentos nacionais, dar a uma criança que seja capaz de formar as suas próprias opiniões a oportunidade real e efetiva de as expressar, diretamente ou através de um representante ou de um organismo adequado.
 
-2. Se o tribunal, em conformidade com o direito e os procedimentos nacionais, der à criança a oportunidade de expressar as suas opiniões nos termos do presente arƟgo, deve ter devidamente em conta as opiniões da criança, em função da sua idade e maturidade.
+2. Se o tribunal, em conformidade com o direito e os procedimentos nacionais, der à criança a oportunidade de expressar as suas opiniões nos termos do presente artigo, deve ter devidamente em conta as opiniões da criança, em função da sua idade e maturidade.
 
 Uma das crianças tem mais de 16 anos e a outra mais de 13 anos. Não parece que estejamos perante um caso urgente. Assim, parece-me que as crianças devem ser ouvidas.
 
 Veja-se o considerando 39:
 
-Os processos em matéria de responsabilidade parental ao abrigo do presente regulamento, assim como os processos de regresso ao abrigo da Convenção da Haia de 1980, deverão, enquanto princípio básico, dar a uma criança visada por um desses procedimentos e que seja capaz de formar as suas próprias opiniões, em conformidade com a jurisprudência do Tribunal de JusƟça, a oportunidade real e efeƟva de expressar essas opiniões, devendo estas ser devidamente Ɵdas em conta na avaliação do superior interesse da criança. A oportunidade de a criança expressar as suas próprias opiniões, em conformidade com o arƟgo 24.º, n.º 1, da Carta e à luz do arƟgo 12.º da Convenção das Nações Unidas sobre os Direitos da Criança, desempenha um papel importante na aplicação do presente regulamento. O regulamento deverá, contudo, deixar que sejam o direito e os procedimentos nacionais de cada Estado-Membro a determinar quem ouvirá a criança e como a criança será ouvida. Por conseguinte, o presente regulamento não deverá ter como propósito determinar se a criança deverá ser ouvida pelo próprio juiz pessoalmente ou por um perito com formação adequada que transmita a sua opinião ao tribunal posteriormente, ou se deverá ser ouvida na sala de audiências ou em qualquer outro local ou através de outros meios. Além disso, embora conƟnue a ser um direito da criança, ouvir a criança não pode consƟtuir uma obrigação absoluta, devendo antes a questão ser avaliada tendo em conta o superior interesse da criança, por exemplo, nos casos que envolvam acordos entre as partes.
+Os processos em matéria de responsabilidade parental ao abrigo do presente regulamento, assim como os processos de regresso ao abrigo da Convenção da Haia de 1980, deverão, enquanto princípio básico, dar a uma criança visada por um desses procedimentos e que seja capaz de formar as suas próprias opiniões, em conformidade com a jurisprudência do Tribunal de Justiça, a oportunidade real e efetiva de expressar essas opiniões, devendo estas ser devidamente tidas em conta na avaliação do superior interesse da criança. A oportunidade de a criança expressar as suas próprias opiniões, em conformidade com o artigo 24.º, n.º 1, da Carta e à luz do artigo 12.º da Convenção das Nações Unidas sobre os Direitos da Criança, desempenha um papel importante na aplicação do presente regulamento. O regulamento deverá, contudo, deixar que sejam o direito e os procedimentos nacionais de cada Estado-Membro a determinar quem ouvirá a criança e como a criança será ouvida. Por conseguinte, o presente regulamento não deverá ter como propósito determinar se a criança deverá ser ouvida pelo próprio juiz pessoalmente ou por um perito com formação adequada que transmita a sua opinião ao tribunal posteriormente, ou se deverá ser ouvida na sala de audiências ou em qualquer outro local ou através de outros meios. Além disso, embora continue a ser um direito da criança, ouvir a criança não pode constituir uma obrigação absoluta, devendo antes a questão ser avaliada tendo em conta o superior interesse da criança, por exemplo, nos casos que envolvam acordos entre as partes.
 
 2. Como ouvir as crianças? Se concordarmos que as crianças devem ser ouvidas, resta agora saber como. O Regulamento não se pronuncia sobre esta matéria. Remete mesmo para o Direito vigente no Estado-Membro do foro. Caberá a esse Direito determinar se a criança é ouvida em tribunal ou noutro local, pelo juiz ou por um perito.
 
 No entanto, deve-se chamar a atenção para o facto de as crianças residirem habitualmente em Espanha. Poderá haver colaboração da mãe e das crianças e estas deslocarem-se a Portugal para ser ouvidas. Mas também pode suceder o inverso.
 
-Nestes casos, pode ser necessário recorrer à cooperação judiciária, mais propriamente, ao Regulamento (UE) 2020/1783 do Parlamento Europeu e do Conselho de 25 de novembro de 2020 relaƟvo à cooperação entre os tribunais dos Estados-Membros no domínio da obtenção de prova em matéria civil ou comercial (obtenção de prova) (reformulação).
+Nestes casos, pode ser necessário recorrer à cooperação judiciária, mais propriamente, ao Regulamento (UE) 2020/1783 do Parlamento Europeu e do Conselho de 25 de novembro de 2020 relativo à cooperação entre os tribunais dos Estados-Membros no domínio da obtenção de prova em matéria civil ou comercial (obtenção de prova) (reformulação).
 
-Sem pretensão de ser muito exausƟvo, assinala-se que pode ser feito um pedido para a audição ser efetuada pelo tribunal requerido (eventualmente com a parƟcipação das partes e de um representante do tribunal – arts. 12.º a 14.º) ou, em alternaƟva, um pedido para a audição ser feita diretamente pelo tribunal português, através de videoconferência (art. 20.º). A principal diferença práƟca entre os meios indiretos e os meios diretos tem que ver com a coercividade: apenas nos primeiros se pode recorrer a medidas coercivas; no entanto, considerando que isto é um direito das crianças e não uma obrigação, parece-me duvidoso o recurso a meios coercivos para ultrapassar uma vontade das crianças de não parƟciparem no processo.
+Sem pretensão de ser muito exaustivo, assinala-se que pode ser feito um pedido para a audição ser efetuada pelo tribunal requerido (eventualmente com a participação das partes e de um representante do tribunal – arts. 12.º a 14.º) ou, em alternativa, um pedido para a audição ser feita diretamente pelo tribunal português, através de videoconferência (art. 20.º). A principal diferença prática entre os meios indiretos e os meios diretos tem que ver com a coercividade: apenas nos primeiros se pode recorrer a medidas coercivas; no entanto, considerando que isto é um direito das crianças e não uma obrigação, parece-me duvidoso o recurso a meios coercivos para ultrapassar uma vontade das crianças de não participarem no processo.
 
-Questão 5: Aníbal requer ao tribunal português a emissão da cerƟdão a que se refere o arƟgo 47.º. Deve o tribunal emiƟr essa cerƟdão?
+Questão 5: Aníbal requer ao tribunal português a emissão da certidão a que se refere o artigo 47.º. Deve o tribunal emitir essa certidão?
 
-1. Decisões “privilegiadas”. Há dois regimes de reconhecimento diferentes. O “normal” de reconhecimento automáƟco (art. 39.º, n.º 1) e su- pressão de exequatur (art. 34.º, n.º 1) e um para dois Ɵpos de decisões “privilegiadas” (art. 42.º), em que são ainda mais limitados os fundamentos de recusa de reconhecimento, executoriedade e execução (art. 50.º).
+1. Decisões “privilegiadas”. Há dois regimes de reconhecimento diferentes. O “normal” de reconhecimento automático (art. 39.º, n.º 1) e su- pressão de exequatur (art. 34.º, n.º 1) e um para dois tipos de decisões “privilegiadas” (art. 42.º), em que são ainda mais limitados os fundamentos de recusa de reconhecimento, executoriedade e execução (art. 50.º).
 
-As decisões privilegiadas são de dois Ɵpos:
+As decisões privilegiadas são de dois tipos:
 
 (i)
 
@@ -579,57 +579,57 @@ uma decisão sobre o mérito relativa ao direito de guarda, proferida na sequên
 
 No nosso caso, temos uma decisão que, parcialmente, é uma decisão privilegiada, uma vez que concede a Aníbal direitos de visita.
 
-2. Condições para uƟlizar o regime de reconhecimento e execução das decisões privilegiadas. É importante salientar que existem condições para se poder recorrer ao regime especial de reconhecimento das decisões privilegiadas. Estas constam do arƟgo 47.º, n.º 3:
+2. Condições para utilizar o regime de reconhecimento e execução das decisões privilegiadas. É importante salientar que existem condições para se poder recorrer ao regime especial de reconhecimento das decisões privilegiadas. Estas constam do artigo 47.º, n.º 3:
 
-1. O tribunal só emite a cerƟdão se esƟverem preenchidas as seguintes condições:
+1. O tribunal só emite a certidão se estiverem preenchidas as seguintes condições:
 
-2. Todas as partes implicadas Ɵverem Ɵdo a oportunidade de ser ouvidas;
+2. Todas as partes implicadas tiverem tido a oportunidade de ser ouvidas;
 
-3. A criança Ɵver Ɵdo a oportunidade de expressar a sua opinião em conformidade com o arƟgo 21.º;
+3. A criança tiver tido a oportunidade de expressar a sua opinião em conformidade com o artigo 21.º;
 
-4. A decisão Ɵver sido proferida à revelia e:
+4. A decisão tiver sido proferida à revelia e:
 
-(a) a parte revel Ɵver sido citada ou noƟﬁcada do ato introdutório da instância ou ato equivalente em tempo úƟl e de forma a poder deduzir a sua defesa, ou
+(a) a parte revel tiver sido citada ou notificada do ato introdutório da instância ou ato equivalente em tempo útil e de forma a poder deduzir a sua defesa, ou
 
-ii) se esƟver estabelecido que a parte revel aceitou a decisão de forma inequívoca.
+ii) se estiver estabelecido que a parte revel aceitou a decisão de forma inequívoca.
 
-Diz-se no caso que a Bianca apesar de regularmente citada, decidiu não parƟcipar. Isto signiﬁca que estamos dentro da al. d), subal. i), não sendo óbice à emissão da cerƟdão.
+Diz-se no caso que a Bianca apesar de regularmente citada, decidiu não participar. Isto significa que estamos dentro da al. d), subal. i), não sendo óbice à emissão da certidão.
 
 Terá de ter sido dada oportunidade às crianças de expressar a sua opinião, caso contrário não se poderá recorrer a este regime privilegiado.
 
-Salienta-se que é opção da parte uƟlizar este regime especial ou o regime normal. Embora este regime seja mais vantajoso, nada impede a parte de pedir o reconhecimento e execução segundo o regime normal.
+Salienta-se que é opção da parte utilizar este regime especial ou o regime normal. Embora este regime seja mais vantajoso, nada impede a parte de pedir o reconhecimento e execução segundo o regime normal.
 
-De igual modo também é possível recorrer ao regime normal de reconhecimento e execução quando não estejam previstas as condições para uƟlizar o regime especial.
+De igual modo também é possível recorrer ao regime normal de reconhecimento e execução quando não estejam previstas as condições para utilizar o regime especial.
 
-3. Conclusão. Parece que o tribunal português deve emiƟr a cerƟdão. Esta só pode ser atacada junto dos tribunais portugueses e com os fundamentos previstos no arƟgo 48.º (art. 47.º, n.º 6).
+3. Conclusão. Parece que o tribunal português deve emitir a certidão. Esta só pode ser atacada junto dos tribunais portugueses e com os fundamentos previstos no artigo 48.º (art. 47.º, n.º 6).
 
-Questão 6: AdmiƟndo que a cerƟdão foi emiƟda e que Aníbal requereu a execução da decisão portuguesa perante a autoridade competente espanhola, pronuncie-se sobre as seguintes alegações de Bianca, que entende que deve ser recusada a execução da decisão portuguesa porque:
+Questão 6: Admitindo que a certidão foi emitida e que Aníbal requereu a execução da decisão portuguesa perante a autoridade competente espanhola, pronuncie-se sobre as seguintes alegações de Bianca, que entende que deve ser recusada a execução da decisão portuguesa porque:
 
-1. Análise dos fundamentos de recusa do regime normal e do regime especial. Os fundamentos de recusa do regime normal estão previstos no arƟgo 39.º. Os fundamentos de recusa do regime especial estão previstos no arƟgo 50.º.
+1. Análise dos fundamentos de recusa do regime normal e do regime especial. Os fundamentos de recusa do regime normal estão previstos no artigo 39.º. Os fundamentos de recusa do regime especial estão previstos no artigo 50.º.
 
 De seguida analisam-se as alegações de Bianca, à luz dos dois regimes de reconhecimento e execução.
 
-2. Bianca não parƟcipou na mesma e a decisão obsta ao exercício das minhas responsabilidades parentais. Regime especial: alegação irrelevante, porque não é fundamento de recusa (art. 50.º). Poderia ser moƟvo de impugnação da cerƟdão, porque poderia estar em causa uma das condições necessárias para emissão da cerƟdão (art. 48.º, n.º 2). Regime normal: poderiam estar em causa dois fundamentos de recusa no regime normal (art. 39.º, al. b) e c)).
+2. Bianca não participou na mesma e a decisão obsta ao exercício das minhas responsabilidades parentais. Regime especial: alegação irrelevante, porque não é fundamento de recusa (art. 50.º). Poderia ser motivo de impugnação da certidão, porque poderia estar em causa uma das condições necessárias para emissão da certidão (art. 48.º, n.º 2). Regime normal: poderiam estar em causa dois fundamentos de recusa no regime normal (art. 39.º, al. b) e c)).
 
 Em qualquer caso, a alegação seria improcedente, porque Bianca foi regularmente citada, logo teve oportunidade para apresentar a sua defesa e para ser ouvida.
 
-3. Carlos e Dani não foram ouvidos. Situação semelhante à anterior. Regime especial: alegação irrelevante, porque não é fundamento de recusa (art. 50.º). Poderia ser moƟvo de impugnação da cerƟdão, porque poderia estar em causa uma das condições necessárias para emissão da cerƟdão (art. 48.º, n.º 2). Regime normal: poderiam estar em causa dois fundamentos de recusa no regime normal (art. 39.º, n.º 2).
+3. Carlos e Dani não foram ouvidos. Situação semelhante à anterior. Regime especial: alegação irrelevante, porque não é fundamento de recusa (art. 50.º). Poderia ser motivo de impugnação da certidão, porque poderia estar em causa uma das condições necessárias para emissão da certidão (art. 48.º, n.º 2). Regime normal: poderiam estar em causa dois fundamentos de recusa no regime normal (art. 39.º, n.º 2).
 
-A alegação só seria procedente se o tribunal português não Ɵvesse dado oportunidade às crianças de serem ouvidas. Não é decisivo que as crianças não tenham sido ouvidas; decisivo é que tenham (ou não) Ɵdo oportunidade de serem ouvidas.
+A alegação só seria procedente se o tribunal português não tivesse dado oportunidade às crianças de serem ouvidas. Não é decisivo que as crianças não tenham sido ouvidas; decisivo é que tenham (ou não) tido oportunidade de serem ouvidas.
 
-No regime normal assinala-se a diferente redação do arƟgo 39.º, n.º 2. Neste preceito estabelece-se que o tribunal do Estado-Membro requerido pode recusar (poder discricionário); nos casos do arƟgo 39.º, n.º 1, o tribunal do Estado-Membro requerido deve recusar (vinculaƟvidade).
+No regime normal assinala-se a diferente redação do artigo 39.º, n.º 2. Neste preceito estabelece-se que o tribunal do Estado-Membro requerido pode recusar (poder discricionário); nos casos do artigo 39.º, n.º 1, o tribunal do Estado-Membro requerido deve recusar (vinculatividade).
 
 4. A decisão não foi tomada atendendo ao superior interesse da criança. Regime especial: alegação irrelevante, não é fundamento de recusa. Regime normal: pode ser relevante, mas a alegação é incompleta. Só será fundamento de recusa se o reconhecimento for manifestamente contrário à ordem pública do Estado-Membro requerido, tendo em conta o superior interesse da criança (art. 39.º, n.º 1, al. a)).
 
-5. A decisão é incompaơvel com a decisão proferida pelos tribunais espanhóis de 7 de dezembro de 2022, que concedeu apenas a Aníbal o contacto com as crianças por telefone e Internet e um ﬁm de semana a cada dois meses. A alegação é fundamento de recusa quer no regime especial (art. 50.º), quer no regime normal (art. 39.º, n.º 1, al. d)). Esta alegação seria sempre procedente e seria fundamento de recusa. A lógica é simples: entende-se que uma decisão posterior é mais conforme o superior interesse da criança, pois atendeu às circunstâncias mais atuais da criança.
+5. A decisão é incompatível com a decisão proferida pelos tribunais espanhóis de 7 de dezembro de 2022, que concedeu apenas a Aníbal o contacto com as crianças por telefone e Internet e um fim de semana a cada dois meses. A alegação é fundamento de recusa quer no regime especial (art. 50.º), quer no regime normal (art. 39.º, n.º 1, al. d)). Esta alegação seria sempre procedente e seria fundamento de recusa. A lógica é simples: entende-se que uma decisão posterior é mais conforme o superior interesse da criança, pois atendeu às circunstâncias mais atuais da criança.
 
-7. Fundamentos de suspensão ou recusa adicionais. Para além do arƟgo 39.º (regime normal) e do art. 50.º (regime especial), há ainda a possibilidade de suspender ou recusar a execução de decisões em matéria de responsabilidade parental:
+7. Fundamentos de suspensão ou recusa adicionais. Para além do artigo 39.º (regime normal) e do art. 50.º (regime especial), há ainda a possibilidade de suspender ou recusar a execução de decisões em matéria de responsabilidade parental:
 
 - Quando execução expusesse a criança a um grave risco de danos físicos ou psicológicos devido a impedimentos temporários (suspensão) ou de carácter duradouro (recusa) que tenham surgido depois de a decisão ter sido proferida ou em virtude de qualquer outra alteração significativa das circunstâncias (art. 56.º, n.º 4 a 6);
 
 - Com base no restante Direito vigente no Estado-Membro de execução, desde que este não seja incompatível com os artigos 41.º, 50.º e 56.º (art. 57.º).
 
-6. Conclusão. Por força da úlƟma alegação, a execução da decisão portuguesa deveria ser recusada pelos tribunais espanhóis.
+6. Conclusão. Por força da última alegação, a execução da decisão portuguesa deveria ser recusada pelos tribunais espanhóis.
 
 ### 3. RAPTO INTERNACIONAL DE CRIANÇAS: CASOS PRÁTICOS. TÓPICOS DE RESOLUÇÃO
 
@@ -697,7 +697,7 @@ O tribunal irlandês profere, em 13 de dezembro de 2022 e após ouvir Ana, Benny
 
 ##### TÓPICOS DE RESOLUÇÃO
 
-Questão 1: Sabendo que Ana e Benny não são casados entre si e que, segundo o Direito material irlandês, o pai natural dos menores não beneﬁcia de pleno direito do direito de guarda, aprecie a admissibilidade da ação intentada por Benny.
+Questão 1: Sabendo que Ana e Benny não são casados entre si e que, segundo o Direito material irlandês, o pai natural dos menores não beneficia de pleno direito do direito de guarda, aprecie a admissibilidade da ação intentada por Benny.
 
 1. Âmbitos de aplicação. São quatro os âmbitos de aplicação do Regulamento Bruxelas II ter (doravante os considerandos e artigos indicados sem indicação de fonte pertencem a este Regulamento).
 
@@ -721,9 +721,9 @@ Em primeiro lugar a Convenção só se preocupa com a deslocação ou retenção
 
 Em segundo lugar a Convenção só se aplica nos casos em que a criança ilicitamente deslocada ou retida tinha residência habitual num Estado Contratante imediatamente antes dessa deslocação ou retenção (art. 4.º da Convenção da Haia de 1980). A criança tem de ter idade inferior a 16 anos. Em terceiro lugar, as regras da Convenção aplicam-se apenas as deslocações ou retenções ilícitas que ocorreram depois da entrada em vigor da Convenção nos dois Estados Contratantes envolvidos (o da residência habitual anterior e o da deslocação ou retenção ilícitas), nos termos do art. 35.º da Convenção da Haia de 1980. No seio da União Europeia, esta questão já não é relevante atendendo a que a Convenção se encontra em vigor há muito tempo (em Portugal desde 1 de dezembro de 1983 e na Irlanda desde 1 de outubro de 1991), mas a questão pode ser relevante para as relações com Estados Contratantes recentes (a Convenção entrou em vigor no Botswana no passado dia 1 de fevereiro).
 
-Em quarto lugar o âmbito de aplicação material é o da deslocação ou retenção ilícitas de crianças, conforme resulta dos arƟgos 1.º e 3.º da Convenção da Haia de 1980.
+Em quarto lugar o âmbito de aplicação material é o da deslocação ou retenção ilícitas de crianças, conforme resulta dos artigos 1.º e 3.º da Convenção da Haia de 1980.
 
-3. Relação entre a Convenção da Haia de 1980 e o Regulamento Bruxelas II ter. Aqui o Regulamento Bruxelas II ter torna mais claro o que já resultava do considerando n.º 17 do Regulamento Bruxelas II bis e dos pontos 77 e 78 do Parecer 1/13 do Tribunal de JusƟça da União Europeia:
+3. Relação entre a Convenção da Haia de 1980 e o Regulamento Bruxelas II ter. Aqui o Regulamento Bruxelas II ter torna mais claro o que já resultava do considerando n.º 17 do Regulamento Bruxelas II bis e dos pontos 77 e 78 do Parecer 1/13 do Tribunal de Justiça da União Europeia:
 
 ”(17) Em caso de deslocação ou de retenção ilícitas de uma criança, deve ser obtido sem demora o seu regresso; para o efeito, deverá continuar a aplicar-se a Convenção de Haia de 25 de Outubro de 1980, completada pelas disposições do presente regulamento, nomeadamente o artigo 11.º. (…)”
 
@@ -739,7 +739,7 @@ No Regulamento Bruxelas II ter consagrou-se esta ideia no artigo 96.º:
 
 Em suma, as regras do Regulamento Bruxelas II ter só serão aplicáveis nos casos em que a anterior residência habitual da criança e o local da sua deslocação ou retenção ilícitas sejam Estados-Membros da União Europeia vinculados ao Regulamento Bruxelas II ter (todos, com exceção da Dinamarca).
 
-4. Conceito de deslocação ou retenção ilícitas. Quer a Convenção da Haia de 1980, quer o Regulamento Bruxelas II ter, deﬁnem o conceito de deslocação ou retenção ilícita.
+4. Conceito de deslocação ou retenção ilícitas. Quer a Convenção da Haia de 1980, quer o Regulamento Bruxelas II ter, definem o conceito de deslocação ou retenção ilícita.
 
 A Convenção da Haia de 1980, no seu artigo 3.º:
 
@@ -761,7 +761,7 @@ O Regulamento Bruxelas II ter na alínea 11) do n.º 2 do artigo 2.º:
 
 As duas definições são, essencialmente, idênticas. Verifica-se uma aparente omissão na definição do Regulamento Bruxelas II ter, que não menciona a atribuição do direito de guarda por decisão administrativa. Dizemos aparente, porque o conceito de decisão judicial no Regulamento Bruxelas II ter permite também abarcar decisão de autoridades administrativas quando elas tenham competência em matéria de responsabilidade parental (cf. artigo 2.º, n.º 1 e n.º 2, alínea 1) do Regulamento Bruxelas II ter).
 
-No caso é mais próximo de uma situação de retenção do que de deslocação, pois parece que a deslocação pelo período das férias não Ɵnha merecido oposição do outro progenitor.
+No caso é mais próximo de uma situação de retenção do que de deslocação, pois parece que a deslocação pelo período das férias não tinha merecido oposição do outro progenitor.
 
 Mas para, neste caso, a retenção ser considerada ilícita têm de se verificar dois pressupostos:
 
@@ -791,7 +791,7 @@ A questão foi abordada pelo TJ no Acórdão de 5 de outubro de 2010, J. McB con
 
 O TJ concluiu, à semelhança do TEDH, que não há violação da carta na não atribuição ope legis ao pai natural não casado, desde que o Direito do Estado permite que ele peça a atribuição antes da deslocação ou retenção (cons. 52 a 64).
 
-Questão 2: Admita agora (e para as questões seguintes) que exisƟa uma decisão judicial irlandesa que atribuía o direito de guarda relaƟvo a Charles e a Diane conjuntamente a Ana e a Benny. A resposta alterava-se? E a data em que essa apreciação seria feita é de algum modo relevante?
+Questão 2: Admita agora (e para as questões seguintes) que existia uma decisão judicial irlandesa que atribuía o direito de guarda relativo a Charles e a Diane conjuntamente a Ana e a Benny. A resposta alterava-se? E a data em que essa apreciação seria feita é de algum modo relevante?
 
 5. Direito de guarda proveniente de decisão judicial. Nesta segunda questão, foi atribuído a Ana e a Benny, por decisão judicial irlandesa, um direito de guarda conjunto sobre as crianças.
 
@@ -857,7 +857,7 @@ Salvo casos excecionais, o tribunal de instância superior deve decidir no prazo
 
 1 Elisa Pérez-Vera, “Explanatory Report of the Hague 1980 Child Abduction Convention” (Haia: Bureau Permanent de la Conférence, 1980), 450, ponto 77.
 
-Questão 3: Ana alega que era víƟma de violência domésƟca levada a cabo por Benny, juntando vários relatórios de várias deslocações às urgências médicas para tratar ferimentos İsicos e declaração assinada por Ella, irlandesa vizinha do casal, em como Ɵnha presenciado Benny injuriar, ameaçar e agredir Ana. Diga se o tribunal português:
+Questão 3: Ana alega que era vítima de violência doméstica levada a cabo por Benny, juntando vários relatórios de várias deslocações às urgências médicas para tratar ferimentos físicos e declaração assinada por Ella, irlandesa vizinha do casal, em como tinha presenciado Benny injuriar, ameaçar e agredir Ana. Diga se o tribunal português:
 
 (i)
 
@@ -951,9 +951,9 @@ Pergunta aos formandos: o que acham? os elementos probatórios são suficientes 
 
 15. Medidas de proteção e comunicação. art. 27.º/3 a 5
 
-Questão 4: Admita agora, que na pendência do processo, Ana e Benny acordam que a melhor solução para as crianças é o não regresso e que o direito de guarda sobre as mesmas deve ser atribuído a Ana, sem prejuízo de ser necessário o consenƟmento de Benny para efetuar uma alteração de residência habitual, e que Benny teria o direito de visita uma vez por mês e 15 dias durante as férias de verão. O tribunal português pode atribuir efeitos vinculaƟvos a este acordo?
+Questão 4: Admita agora, que na pendência do processo, Ana e Benny acordam que a melhor solução para as crianças é o não regresso e que o direito de guarda sobre as mesmas deve ser atribuído a Ana, sem prejuízo de ser necessário o consentimento de Benny para efetuar uma alteração de residência habitual, e que Benny teria o direito de visita uma vez por mês e 15 dias durante as férias de verão. O tribunal português pode atribuir efeitos vinculativos a este acordo?
 
-16. A procura de uma solução e a possibilidade de concentração de competências em matéria de rapto e de responsabilidade parental. O Regulamento introduz no arƟgo 25.º a possibilidade de recorrer a meios alternativos de resolução de liơgios, em parƟcular a mediação. Esta possibilidade de recurso a mediação, desde que não protela o proferimento de uma decisão, é vista com bons olhos, uma vez que uma solução alcançada com o acordo de ambos os progenitores é uma solução com maiores probabilidades de ser por ambos cumprida.
+16. A procura de uma solução e a possibilidade de concentração de competências em matéria de rapto e de responsabilidade parental. O Regulamento introduz no artigo 25.º a possibilidade de recorrer a meios alternativos de resolução de litígios, em particular a mediação. Esta possibilidade de recurso a mediação, desde que não protela o proferimento de uma decisão, é vista com bons olhos, uma vez que uma solução alcançada com o acordo de ambos os progenitores é uma solução com maiores probabilidades de ser por ambos cumprida.
 
 Para além disso, há que referir que a solução acordada por Ana e Benny envolve não só a resolução da questão do rapto internacional, mas também a regulação das responsabilidades parentais, matéria para a qual seriam primariamente competentes os tribunais do Estado-Membro da residência habitual das crianças antes da deslocação ou retenção ilícitas (Irlanda; art. 9.º).
 
@@ -967,9 +967,9 @@ Aliás, para além dos casos de concentração da competência em matéria de a�
 
 O pacto só será admissível quando haja uma ligação estreita entre a criança e o Estado-Membro designado no pacto. No artigo 10.º, n.º 1, al. indica-se uma lista exemplificativa de situações em que há uma conexão estreita.
 
-No nosso caso, veriﬁca-se pelo menos uma das ligações indicadas (as crianças têm nacionalidade portuguesa).
+No nosso caso, verifica-se pelo menos uma das ligações indicadas (as crianças têm nacionalidade portuguesa).
 
-18. 2.ª condição cumulativa: existência de acordo entre as partes no processo (art. 10.º, n.º 1, al. b)). Resulta das duas subalíneas do arƟgo 10.º, n.º 1, al. b), que o acordo pode ser extrajudicial e, nesse caso, pode ser efetuado até à data da instauração do processo ou pode ser efetuado no decurso e dentro do processo. No nosso caso parece que o acordo seria feito durante o processo.
+18. 2.ª condição cumulativa: existência de acordo entre as partes no processo (art. 10.º, n.º 1, al. b)). Resulta das duas subalíneas do artigo 10.º, n.º 1, al. b), que o acordo pode ser extrajudicial e, nesse caso, pode ser efetuado até à data da instauração do processo ou pode ser efetuado no decurso e dentro do processo. No nosso caso parece que o acordo seria feito durante o processo.
 
 Validade formal do acordo: sendo o acordo efetuado durante e dentro do processo, as regras formais que devem ser seguidas são as do Estado- Membro do foro (art. 10.º, n.º 2 e considerando n.º 23), relevando-se que o tribunal deve assegurar que todas as partes foram informadas do seu direito de não aceitar a competência (art. 10.º, n.º 2). Trata-se de uma obrigação algo semelhante à que existe no artigo 26.º, n.º 2, do Regulamento Bruxelas I bis.
 
@@ -981,15 +981,15 @@ Identificação das partes: o acordo deve ser celebrado pelas pessoas que são (
 
 29 Há, portanto, que considerar que um procurador que, segundo o direito nacional, tem a qualidade de parte no processo em ações como a que está em causa no processo principal e que representa o interesse do menor, é uma parte no processo, na aceção do artigo 12.°, n.° 3, alínea b), do Regulamento n.° 2201/2003. Por conseguinte, a sua oposição a uma extensão de competência não pode ser ignorada.
 
-Pergunta aos formandos: atendendo à jurisprudência do caso Saponaro como deve ser caracterizada a parƟcipação do Ministério Público nos processos de responsabilidade parental que correm termos nos tribunais portugueses? Deve ser considerado, ou não, uma parte de pleno direito?
+Pergunta aos formandos: atendendo à jurisprudência do caso Saponaro como deve ser caracterizada a participação do Ministério Público nos processos de responsabilidade parental que correm termos nos tribunais portugueses? Deve ser considerado, ou não, uma parte de pleno direito?
 
-A resposta a esta questão é muito importante, porque nos termos do arƟgo 10.º, n.º 1, al. b), e n.º 2, 2.º parágrafo, as partes de pleno direito podem opor-se aos pactos de jurisdição; havendo oposição, o pacto não produz efeitos.
+A resposta a esta questão é muito importante, porque nos termos do artigo 10.º, n.º 1, al. b), e n.º 2, 2.º parágrafo, as partes de pleno direito podem opor-se aos pactos de jurisdição; havendo oposição, o pacto não produz efeitos.
 
 #### 19. 3.ª condição cumulativa: o exercício da competência pelo tribunal designado no pacto tem
 
 de ser no superior interesse da criança (art. 10.º, n.º 1, al. c)). Em primeiro lugar, chama-se a atenção para o considerando 19:
 
-As regras de competência em matéria de responsabilidade parental são deﬁnidas em função do superior interesse da criança e devem ser aplicadas em função desse interesse. Todas as referências ao superior interesse da criança deverão ser interpretadas à luz do arƟgo 24.º da Carta dos Direitos Fundamentais da União Europeia («Carta») e da Convenção das Nações Unidas sobre os Direitos da Criança, de 20 de novembro de 1989 («Convenção das Nações Unidas sobre os Direitos da Criança»), aplicadas ao abrigo do direito e dos procedimentos nacionais. (negritos aditados)
+As regras de competência em matéria de responsabilidade parental são definidas em função do superior interesse da criança e devem ser aplicadas em função desse interesse. Todas as referências ao superior interesse da criança deverão ser interpretadas à luz do artigo 24.º da Carta dos Direitos Fundamentais da União Europeia («Carta») e da Convenção das Nações Unidas sobre os Direitos da Criança, de 20 de novembro de 1989 («Convenção das Nações Unidas sobre os Direitos da Criança»), aplicadas ao abrigo do direito e dos procedimentos nacionais. (negritos aditados)
 
 O artigo 24.º da Carta estabelece:
 
@@ -1019,7 +1019,7 @@ O superior interesse da criança na jurisprudência do TJ:
 
 - No Acórdão de 12 de novembro de 2014, L, C-656/13, EU:C:2014:2364, o TJ esclareceu que a análise do superior interesse da criança tem de ser casuística:
 
-58 Importa acrescentar que, quando é submeƟdo um processo a um tribunal nos termos do arƟgo 12.°, n.° 3, do Regulamento n.° 2201/2003, o superior interesse da criança só pode ser assegurado através de uma análise, em cada caso concreto, da questão de saber se a extensão de competência pretendida é compatível com esse superior interesse, e que uma extensão de competência, nos termos do arƟgo 12.°, n.° 3, do Regulamento n.° 2201/2003, apenas produz efeitos para o processo especíﬁco submeƟdo ao tribunal cuja competência é objeto de extensão (v., neste sentido, acórdão E, EU:C:2014:2246, n.os 47 e 49).
+58 Importa acrescentar que, quando é submetido um processo a um tribunal nos termos do artigo 12.°, n.° 3, do Regulamento n.° 2201/2003, o superior interesse da criança só pode ser assegurado através de uma análise, em cada caso concreto, da questão de saber se a extensão de competência pretendida é compatível com esse superior interesse, e que uma extensão de competência, nos termos do artigo 12.°, n.° 3, do Regulamento n.° 2201/2003, apenas produz efeitos para o processo específico submetido ao tribunal cuja competência é objeto de extensão (v., neste sentido, acórdão E, EU:C:2014:2246, n.os 47 e 49).
 
 (negritos aditados)
 
@@ -1035,15 +1035,15 @@ Questão 5: Considere agora que não houve acordo entre os progenitores e que o 
 
 (i) O tribunal pode declará-la executória, independentemente de qualquer recurso?
 
-20. Direito processual civil internacional material: a possibilidade de declarar a decisão que ordena o regresso executoria. Sim. Essa possibilidade é expressamente consagrada no pelo arƟgo 27.º, n.º 6:
+20. Direito processual civil internacional material: a possibilidade de declarar a decisão que ordena o regresso executoria. Sim. Essa possibilidade é expressamente consagrada no pelo artigo 27.º, n.º 6:
 
-“Uma decisão que ordene o regresso da criança pode ser declarada executória a ơtulo provisório, não obstante qualquer recurso, se o regresso da criança antes da decisão sobre o recurso for exigido pelo superior interesse da criança.”
+“Uma decisão que ordene o regresso da criança pode ser declarada executória a título provisório, não obstante qualquer recurso, se o regresso da criança antes da decisão sobre o recurso for exigido pelo superior interesse da criança.”
 
 (ii) Quid iuris se Ana, antecipando que a decisão lhe seria desfavorável, se deslocou, com as crianças, para França.
 
 21. A possibilidade de execução noutros Estados-Membros das decisões que ordenam o regresso. A decisão portuguesa de regresso pode ser executada em França (arts. 2.º, n.º 1, alínea a), 35.º, n.º 1 e 36.º, n.º 1, alínea c)).
 
-Tal signiﬁca que Benny tem dois caminhos alternaƟvos que pode seguir:
+Tal significa que Benny tem dois caminhos alternativos que pode seguir:
 
 (i) pedir a execução da decisão de regresso portuguesa em França; ou
 
@@ -1063,9 +1063,9 @@ A certidão não é objeto de impugnação (art. 36.º, n.º 3), só podendo ser
 
 Questão 6: Admita agora que, após ouvir Ana, Benny, Charles e Diane o tribunal português proferiu uma decisão de não regresso. Durante a pendência do processo, Benny informou o tribunal português de que se encontra pendente, desde 1 de dezembro de 2022, em tribunal irlandês, uma ação relativa a regulação das responsabilidades parentais de Charles e Diane.
 
-Determine quais os tribunais que Ɵnham competência internacional para regular o exercício das responsabilidades parentais.
+Determine quais os tribunais que tinham competência internacional para regular o exercício das responsabilidades parentais.
 
-22. Competência em matéria de responsabilidades parentais nos casos de rapto internacional de crianças. Sobre esta matéria dispõe o arƟgo 9.º do Regulamento Bruxelas II ter.
+22. Competência em matéria de responsabilidades parentais nos casos de rapto internacional de crianças. Sobre esta matéria dispõe o artigo 9.º do Regulamento Bruxelas II ter.
 
 Sem prejuízo de um pacto de jurisdição – que nesta questão não foi celebrado – são internacionalmente competentes os tribunais do Estado-Membro da residência habitual da criança antes da deslocação ou retenção ilícitas (Irlanda; art. 9.º), pois na hipótese não se verifica nenhuma das exceções previstas nas alíneas a) e b) do referido preceito.
 
@@ -1081,7 +1081,7 @@ Resposta: não. O TJ já esclareceu, em sede da regra paralela do Regulamento Br
 
 criança. Como deve atuar o tribunal português?
 
-23. Procedimento no caso de decisão de recusa fundamentada exclusivamente em risco grave da criança ou na oposição da criança. O arƟgo 29.º do Regulamento Bruxelas II ter desenvolve as regras operacionais que já exisƟam no arƟgo 11.º, n.ºs 6 a 8, embora com algumas diferenças. Em primeiro lugar, o procedimento apenas é aplicável nos casos em que a decisão de não regresso se baseie no artigo 13.º, alínea b) (risco grave da criança) ou no artigo 13.º, segundo parágrafo
+23. Procedimento no caso de decisão de recusa fundamentada exclusivamente em risco grave da criança ou na oposição da criança. O artigo 29.º do Regulamento Bruxelas II ter desenvolve as regras operacionais que já existiam no artigo 11.º, n.ºs 6 a 8, embora com algumas diferenças. Em primeiro lugar, o procedimento apenas é aplicável nos casos em que a decisão de não regresso se baseie no artigo 13.º, alínea b) (risco grave da criança) ou no artigo 13.º, segundo parágrafo
 
 (oposição da criança). Embora não resulte do artigo, diremos que também se aplica quando a decisão de não regresso se baseie exclusiva e cumulativamente nestes dois fundamentos (neste sentido, cf. título do Anexo I do Regulamento).
 
@@ -1109,11 +1109,11 @@ e
 
 Pergunta aos formandos: o que sucede se a ação estiver pendente num tribunal de um Estado-Membro que não é o da residência habitual da criança antes da deslocação ou retenção ilícitas (por exemplo, porque os progenitores fizeram um pacto de jurisdição, art. 10.º)?
 
-Resposta: questão diİcil, mas eu diria que aí não lugar a reconhecimento privilegiado; só há lugar a reconhecimento nos termos normais.
+Resposta: questão difícil, mas eu diria que aí não lugar a reconhecimento privilegiado; só há lugar a reconhecimento nos termos normais.
 
 Nos casos em que não esteja ainda pendente ação de regulação das responsabilidades parentais, o prazo alarga para três meses e o quem deve informar e apresentar os documentos é a parte que instaurar a ação (art. 29.º, n.º 5).
 
-Pergunta para os formandos: será que estamos perante um ónus ou não atendendo à redação do arƟgo 29.º, n.º 6? Se não for cumprido o art. 29.º, n.º 3 ou n.º 5, pode haver uma decisão em matéria de responsabilidades parentais que pode beneﬁciar do regime de reconhecimento e execução de decisões privilegiadas?
+Pergunta para os formandos: será que estamos perante um ónus ou não atendendo à redação do artigo 29.º, n.º 6? Se não for cumprido o art. 29.º, n.º 3 ou n.º 5, pode haver uma decisão em matéria de responsabilidades parentais que pode beneficiar do regime de reconhecimento e execução de decisões privilegiadas?
 
 “Não obstante uma decisão a que se refere o n.º 1, qualquer decisão sobre o mérito do direito de guarda resultante dos processos referidos nos n.ºs 3 e 5 que implique o regresso da criança é executória noutro Estado-Membro, em conformidade com o capítulo IV.” (negritos aditados)
 
@@ -1171,23 +1171,23 @@ Tópicos de resolução
 
 FACTOS
 
-Anita e Luc são ex-companheiros. Anita é nacional da Hungria e trabalhou para a União Europeia, Luc é nacional francês. Conheceram-se em Bruxelas, onde moraram juntos e a sua ﬁlha comum Julie nasceu em Bruxelas. Separaram-se quando a ﬁlha Ɵnha um mês.
+Anita e Luc são ex-companheiros. Anita é nacional da Hungria e trabalhou para a União Europeia, Luc é nacional francês. Conheceram-se em Bruxelas, onde moraram juntos e a sua filha comum Julie nasceu em Bruxelas. Separaram-se quando a filha tinha um mês.
 
-Anita e Luc têm sérias discussões sobre a residência habitual da ﬁlha de dois meses. Anita gostaria de deixar Bruxelas, pois não trabalha mais na cidade e argumenta que sempre manteve a sua 'residência habitual' na Hungria. Ela argumenta que nunca esteve realmente integrada na Bélgica, pois não gosta da língua francesa, falava com a sua ﬁlha sempre em húngaro e Ɵnha um emprego por tempo determinado em Bruxelas. A propósito, a sua mãe e irmã moraram temporariamente com ela e com a criança, em Bruxelas, para ajudá-la a cuidar de Julie. Julie ouviu muito húngaro e não está integrada em nenhum lugar da Bélgica.
+Anita e Luc têm sérias discussões sobre a residência habitual da filha de dois meses. Anita gostaria de deixar Bruxelas, pois não trabalha mais na cidade e argumenta que sempre manteve a sua 'residência habitual' na Hungria. Ela argumenta que nunca esteve realmente integrada na Bélgica, pois não gosta da língua francesa, falava com a sua filha sempre em húngaro e tinha um emprego por tempo determinado em Bruxelas. A propósito, a sua mãe e irmã moraram temporariamente com ela e com a criança, em Bruxelas, para ajudá-la a cuidar de Julie. Julie ouviu muito húngaro e não está integrada em nenhum lugar da Bélgica.
 
-Luc invoca que a residência habitual da ﬁlha é na Bélgica. Ele não Ɵnha muito contacto com a ﬁlha, pois trabalhava como soldado e na verdade só esteve uma vez com a ﬁlha, quando ela nasceu. Ele morou com Anita em Bruxelas apenas seis meses, antes de Julie nascer. Ele gostaria que o tribunal belga interviesse na questão das responsabilidades parentais.
+Luc invoca que a residência habitual da filha é na Bélgica. Ele não tinha muito contacto com a filha, pois trabalhava como soldado e na verdade só esteve uma vez com a filha, quando ela nasceu. Ele morou com Anita em Bruxelas apenas seis meses, antes de Julie nascer. Ele gostaria que o tribunal belga interviesse na questão das responsabilidades parentais.
 
 QUESTÃO
 
 1) Qual é o tribunal competente para decidir as responsabilidades parentais relativamente a Julie?
 
-O instrumento jurídico aplicável para determinar o tribunal competente para decidir as responsabilidades parentais numa situação plurilocalizada, como a que está presente no caso práƟco é o Regulamento 2019/1111 de 25 de junho de 2019 sobre competência, reconhecimento e execução de decisões em matéria matrimonial e em matéria de responsabilidade parental e ao rapto internacional de crianças (Bruxelas II ter). Este Regulamento veio revogar o Regulamento n.º 2201/2003 relaƟvo à competência, ao reconhecimento e à execução de decisões em matéria matrimonial e em matéria de responsabilidade parental (Bruxelas II bis), com efeitos a parƟr de
+O instrumento jurídico aplicável para determinar o tribunal competente para decidir as responsabilidades parentais numa situação plurilocalizada, como a que está presente no caso prático é o Regulamento 2019/1111 de 25 de junho de 2019 sobre competência, reconhecimento e execução de decisões em matéria matrimonial e em matéria de responsabilidade parental e ao rapto internacional de crianças (Bruxelas II ter). Este Regulamento veio revogar o Regulamento n.º 2201/2003 relativo à competência, ao reconhecimento e à execução de decisões em matéria matrimonial e em matéria de responsabilidade parental (Bruxelas II bis), com efeitos a partir de
 
 ∗ Professora Associada da Escola de Direito da Universidade do Minho.
 
-1 de agosto de 2022 (art. 10.º, n.º 1, do Regulamento Bruxelas II ter), data a parƟr da qual é aplicável o Regulamento Bruxelas II ter (art. 105º, n.º 2).
+1 de agosto de 2022 (art. 10.º, n.º 1, do Regulamento Bruxelas II ter), data a partir da qual é aplicável o Regulamento Bruxelas II ter (art. 105º, n.º 2).
 
-Nos termos do art. 1º, n.º 1, al. b), o Regulamento Bruxelas II ter aplica-se às questões cíveis que envolvam a responsabilidade parental, desde a sua atribuição, o seu exercício, delegação, limitação até à cessação [al. b)]. De acordo com a deﬁnição estabelecida no art. 2º, n.º 2 (7), o conceito de responsabilidade parental integra «o conjunto dos direitos e obrigações relaƟvo à pessoa ou aos bens de uma criança, conferido a uma pessoa singular ou coleƟva por decisão judicial, por atribuição de pleno direito ou por acordo em vigor, nomeadamente o direito de guarda e o direito de visita».
+Nos termos do art. 1º, n.º 1, al. b), o Regulamento Bruxelas II ter aplica-se às questões cíveis que envolvam a responsabilidade parental, desde a sua atribuição, o seu exercício, delegação, limitação até à cessação [al. b)]. De acordo com a definição estabelecida no art. 2º, n.º 2 (7), o conceito de responsabilidade parental integra «o conjunto dos direitos e obrigações relativo à pessoa ou aos bens de uma criança, conferido a uma pessoa singular ou coletiva por decisão judicial, por atribuição de pleno direito ou por acordo em vigor, nomeadamente o direito de guarda e o direito de visita».
 
 O art. 7º do Regulamento Bruxelas II ter estabelece a norma de competência geral no âmbito da responsabilidade parental, atribuindo jurisdição aos tribunais da residência habitual da criança no momento em que o processo é instaurado em tribunal O Considerando 19 do Regulamento fundamenta as regras de competência internacional em matéria de responsabilidade parental no princípio do superior interesse da criança e, consequentemente, no princípio de proximidade.
 
@@ -1215,7 +1215,7 @@ Anita quer mudar a sua residência para Portugal quando a criança tem um mês e
 
 2) A residência habitual da criança pode ser alterada legalmente?
 
-A criança só pode mudar a sua residência habitual com os dos Ɵtulares das responsabilidades parentais ou autorização destes. Na falta da aprovação de um dos pais, pode ocorrer um rapto de criança com consequências desvantajosas. Neste caso, Luc concordou com a mudança da criança para Portugal e, consequentemente, a residência habitual de Julie mudou licitamente.
+A criança só pode mudar a sua residência habitual com os dos titulares das responsabilidades parentais ou autorização destes. Na falta da aprovação de um dos pais, pode ocorrer um rapto de criança com consequências desvantajosas. Neste caso, Luc concordou com a mudança da criança para Portugal e, consequentemente, a residência habitual de Julie mudou licitamente.
 
 6 Também neste sentido, v. Marc-Philippe Weller & Bettina Rentsch, «’Habitual residence’: A Plea for ‘Seettled Intention’» in General Principles of Private International Law, Edited by Stefan Leible, Wolters Kluwer, The Netherlands, 2016, p. 184.
 
@@ -1225,23 +1225,23 @@ A criança só pode mudar a sua residência habitual com os dos Ɵtulares das re
 
 9 TJUE, W, V c. X, Processo C‑499/15, de 17.02.2017, ECLI:EU:C:2017:118, § 61.
 
-3) Luc reconhece repenƟnamente que não pode manter contato com Julie depois da mudança para Portugal. Por essa razão, quer mudar o regime de direitos de visita que Ɵnha sido anteriormente ﬁxado por um tribunal de Bruxelas. Qual o país que tem competência para decidir sobre os direitos de visita de forma a que o pai possa manter contacto com a ﬁlha?
+3) Luc reconhece repentinamente que não pode manter contato com Julie depois da mudança para Portugal. Por essa razão, quer mudar o regime de direitos de visita que tinha sido anteriormente fixado por um tribunal de Bruxelas. Qual o país que tem competência para decidir sobre os direitos de visita de forma a que o pai possa manter contacto com a filha?
 
-Nos termos do arƟgo 8º do Regulamento Bruxelas II ter, Luc pode recorrer ao tribunal em Bruxelas. Quando uma criança se desloca legalmente de um Estado-Membro para outro e aí adquire uma nova residência habitual, os tribunais do Estado-Membro da anterior residência habitual da criança mantêm, a ơtulo de exceção ao arƟgo 7º, a competência durante um período de três meses após a deslocação, para efeitos de alteração de uma decisão sobre o direito de visita proferida nesse Estado-Membro antes da deslocação da criança, quando o Ɵtular do direito de visita, nos termos da decisão sobre o direito de visita, conƟnuar a ter a sua residência habitual no Estado-Membro da anterior residência habitual da criança. Todavia, de acordo com o art. 8º, n.º 2, Ɵtular do direito de visita pode aceitar a competência dos tribunais portugueses, Estado da nova residência habitual da criança, parƟcipando no processo instaurado nesses tribunais, sem contestar a sua competência.
+Nos termos do artigo 8º do Regulamento Bruxelas II ter, Luc pode recorrer ao tribunal em Bruxelas. Quando uma criança se desloca legalmente de um Estado-Membro para outro e aí adquire uma nova residência habitual, os tribunais do Estado-Membro da anterior residência habitual da criança mantêm, a título de exceção ao artigo 7º, a competência durante um período de três meses após a deslocação, para efeitos de alteração de uma decisão sobre o direito de visita proferida nesse Estado-Membro antes da deslocação da criança, quando o titular do direito de visita, nos termos da decisão sobre o direito de visita, continuar a ter a sua residência habitual no Estado-Membro da anterior residência habitual da criança. Todavia, de acordo com o art. 8º, n.º 2, titular do direito de visita pode aceitar a competência dos tribunais portugueses, Estado da nova residência habitual da criança, participando no processo instaurado nesses tribunais, sem contestar a sua competência.
 
-Por isso, caso Luc conƟnue a ter a sua residência habitual na Bélgica, o tribunal de Bruxelas manterá a sua competência para decidir a alteração dos direitos de visita, durante um período de três meses após a deslocação da criança para Portugal. Caso contrário, a competência é do tribunal da residência habitual da criança, no caso o tribunal português, nos termos do art. 7º do Regulamento Bruxelas II ter.
+Por isso, caso Luc continue a ter a sua residência habitual na Bélgica, o tribunal de Bruxelas manterá a sua competência para decidir a alteração dos direitos de visita, durante um período de três meses após a deslocação da criança para Portugal. Caso contrário, a competência é do tribunal da residência habitual da criança, no caso o tribunal português, nos termos do art. 7º do Regulamento Bruxelas II ter.
 
 VARIAÇÃO N.º 2
 
 Agora assuma que Julie não é uma criança pequena, mas tem quatro anos.
 
-Os pais separaram-se quando a criança Ɵnha um mês de idade. Luc manteve sempre contato com Julie, no entanto, como é soldado, muito raramente consegue estar com a ﬁlha.
+Os pais separaram-se quando a criança tinha um mês de idade. Luc manteve sempre contato com Julie, no entanto, como é soldado, muito raramente consegue estar com a filha.
 
 Questões Relacionadas
 
 4) Anita pode argumentar ter estabelecido a residência habitual dela e de Julie na Hungria? A opinião de Julie é relevante?
 
-Os dados relevantes para o estabelecimento da residência habitual da criança não se alteram nesta hipótese. Não é relevante se os pais viviam juntos ou se, entretanto, se separaram; se um dos pais mantém ou não um contacto regular com a criança; a opinião da criança para a deﬁnição da sua residência habitual…. Perante a situação fácƟca é diİcil argumentar que a criança tem residência habitual na Hungria, ou em qualquer outro lugar, que não a Bélgica.
+Os dados relevantes para o estabelecimento da residência habitual da criança não se alteram nesta hipótese. Não é relevante se os pais viviam juntos ou se, entretanto, se separaram; se um dos pais mantém ou não um contacto regular com a criança; a opinião da criança para a definição da sua residência habitual…. Perante a situação fáctica é difícil argumentar que a criança tem residência habitual na Hungria, ou em qualquer outro lugar, que não a Bélgica.
 
 VARIAÇÃO N.º 3
 
@@ -1249,9 +1249,9 @@ Anita e Luc são casados e ambos têm nacionalidade húngara. Julie tem quatro a
 
 Questões Relacionadas
 
-5) É possível que o tribunal húngaro com competência em divórcio decida também as questões relaƟvas às responsabilidades parentais? Quais são os requisitos?
+5) É possível que o tribunal húngaro com competência em divórcio decida também as questões relativas às responsabilidades parentais? Quais são os requisitos?
 
-O tribunal húngaro tem competência para decidir o divórcio enquanto tribunal da nacionalidade de ambos os cônjuges, nos termos do art. 3º, al. b), do Regulamento Bruxelas II ter. A possibilidade de o tribunal húngaro decidir as questões relaƟvas às responsabilidades parentais decorrerá do art. 10º, que estabelece a possibilidade de as partes poderem escolher o tribunal competente, através de um pacto de jurisdição. A jurisdição resultante desta norma permite a concentração de jurisdições.
+O tribunal húngaro tem competência para decidir o divórcio enquanto tribunal da nacionalidade de ambos os cônjuges, nos termos do art. 3º, al. b), do Regulamento Bruxelas II ter. A possibilidade de o tribunal húngaro decidir as questões relativas às responsabilidades parentais decorrerá do art. 10º, que estabelece a possibilidade de as partes poderem escolher o tribunal competente, através de um pacto de jurisdição. A jurisdição resultante desta norma permite a concentração de jurisdições.
 
 Nos termos do art. 10º, n.º 1, os tribunais de um Estado-Membro são competentes em matéria de responsabilidade parental quando:
 
@@ -1265,7 +1265,7 @@ b)];
 
 – e o exercício da competência atender ao superior interesse da criança [al. c)].
 
-O Regulamento ajuda a concreƟzar o que se deve entender por ligação estreita, enumerando algumas situações. A ligação substancial com um Estado-Membro, de acordo com a al. a), do n.º 1, do art. 10º, pode resultar do facto de, pelo menos:
+O Regulamento ajuda a concretizar o que se deve entender por ligação estreita, enumerando algumas situações. A ligação substancial com um Estado-Membro, de acordo com a al. a), do n.º 1, do art. 10º, pode resultar do facto de, pelo menos:
 
 – um dos titulares da responsabilidade parental ter a residência habitual nesse Estado-
 
@@ -1283,21 +1283,21 @@ Quanto ao requisito do acordo, o art. 10º, n.º 1, al. b), do Regulamento Bruxe
 
 informação por parte do tribunal às partes de que têm o direito de não aceitar a competência (ii).
 
-Por ﬁm, o art. 10º estabelece que o exercício da jurisdição deve corresponder ao superior interesse da criança, que tem de ser valorado em função das circunstâncias do caso concreto, devendo-se aferir que a competência do tribunal eleito não tenha um impacto negaƟvo na situação da criança.
+Por fim, o art. 10º estabelece que o exercício da jurisdição deve corresponder ao superior interesse da criança, que tem de ser valorado em função das circunstâncias do caso concreto, devendo-se aferir que a competência do tribunal eleito não tenha um impacto negativo na situação da criança.
 
 #### CASO PRÁTICO 2
 
 FACTOS
 
-António e Beatriz são um casal português, com residência em Paris, que está a divorciar-se (a ação já foi proposta, mas ainda não está decidida). António é gestor de recursos humanos numa empresa de grande dimensão e Beatriz não trabalha, ﬁcando em casa a tomar conta do ﬁlho.
+António e Beatriz são um casal português, com residência em Paris, que está a divorciar-se (a ação já foi proposta, mas ainda não está decidida). António é gestor de recursos humanos numa empresa de grande dimensão e Beatriz não trabalha, ficando em casa a tomar conta do filho.
 
-Beatriz resolve levar o ﬁlho de ambos, de quarto anos, Mathieu, para Portugal, para visitar os seus familiares, durante umas férias que estavam previstas durar duas semanas. Mathieu, apesar de ter nascido em Paris, Ɵnha nacionalidade portuguesa.
+Beatriz resolve levar o filho de ambos, de quarto anos, Mathieu, para Portugal, para visitar os seus familiares, durante umas férias que estavam previstas durar duas semanas. Mathieu, apesar de ter nascido em Paris, tinha nacionalidade portuguesa.
 
-António concordou com a visita do ﬁlho a Portugal.
+António concordou com a visita do filho a Portugal.
 
 Passadas duas semanas, Beatriz e Mathieu não regressaram como planeado.
 
-António telefona repeƟdamente a Beatriz, que não lhe atende as chamadas. Finalmente, quando o faz, informa António que pretende ﬁcar a residir com Mathieu em Portugal. Adicionalmente, informa António que não irá permiƟr que Mathieu regresse a Paris, nem sequer em férias. Finalmente, caso António queira ver o seu ﬁlho, terá de o fazer em Portugal, na casa que arrendou, sob supervisão dos familiares de Beatriz.
+António telefona repetidamente a Beatriz, que não lhe atende as chamadas. Finalmente, quando o faz, informa António que pretende ficar a residir com Mathieu em Portugal. Adicionalmente, informa António que não irá permitir que Mathieu regresse a Paris, nem sequer em férias. Finalmente, caso António queira ver o seu filho, terá de o fazer em Portugal, na casa que arrendou, sob supervisão dos familiares de Beatriz.
 
 Beatriz, entretanto, arranjou um emprego e matriculou Mathieu numa escola.
 
@@ -1305,15 +1305,15 @@ Beatriz, entretanto, arranjou um emprego e matriculou Mathieu numa escola.
 
 1) A situação configura um rapto internacional de crianças?
 
-A situação conﬁgura um rapto internacional de crianças para efeito de aplicação do Regulamento 2019/1111 do Conselho, de 25 de junho de 2019, relativo à competência, ao reconhecimento e à execução de decisões em matéria matrimonial e em matéria de responsabilidade parental e ao rapto internacional de crianças (Bruxelas II ter). De acordo com o art. 2º, n.º 2 (11), que acompanha a noção presente no art. 3º da Convenção de Haia, rapto internacional de crianças é deﬁnido como como aquela situação em que a retenção ou deslocação da criança noutro Estado-Membro:
+A situação configura um rapto internacional de crianças para efeito de aplicação do Regulamento 2019/1111 do Conselho, de 25 de junho de 2019, relativo à competência, ao reconhecimento e à execução de decisões em matéria matrimonial e em matéria de responsabilidade parental e ao rapto internacional de crianças (Bruxelas II ter). De acordo com o art. 2º, n.º 2 (11), que acompanha a noção presente no art. 3º da Convenção de Haia, rapto internacional de crianças é definido como como aquela situação em que a retenção ou deslocação da criança noutro Estado-Membro:
 
-«a) viole o direito de guarda conferido por decisão judicial, por atribuição de pleno direito ou por acordo em vigor nos termos do direito do Estado-Membro onde a criança Ɵnha a sua residência habitual imediatamente antes da deslocação ou retenção; e
+«a) viole o direito de guarda conferido por decisão judicial, por atribuição de pleno direito ou por acordo em vigor nos termos do direito do Estado-Membro onde a criança tinha a sua residência habitual imediatamente antes da deslocação ou retenção; e
 
-b) no momento da deslocação ou retenção, o direito de guarda esƟvesse a ser efeƟvamente exercido, quer conjunta, quer separadamente, ou devesse estar a sê-lo, caso não Ɵvesse ocorrido a deslocação ou retenção».
+b) no momento da deslocação ou retenção, o direito de guarda estivesse a ser efetivamente exercido, quer conjunta, quer separadamente, ou devesse estar a sê-lo, caso não tivesse ocorrido a deslocação ou retenção».
 
-Ou seja, é necessário: a violação do direito de guarda conferido pelo direito do Estado da residência habitual da criança antes da deslocação; e que o direito de guarda esteja efeƟvamente a ser exercido, ou devesse estar, não fosse a situação de rapto. Estes pressupostos estão preenchidos no caso concreto.
+Ou seja, é necessário: a violação do direito de guarda conferido pelo direito do Estado da residência habitual da criança antes da deslocação; e que o direito de guarda esteja efetivamente a ser exercido, ou devesse estar, não fosse a situação de rapto. Estes pressupostos estão preenchidos no caso concreto.
 
-O direito de guarda é entendido, para efeitos do Regulamento Bruxelas II ter, nos termos do art. 2º, n.º 2 (9), como compreendendo «os direitos e as obrigações relaƟvos aos cuidados devidos à criança e, em parƟcular, o direito de decidir sobre o seu lugar de residência», equivalendo à noção prevista no art. 5º, al. a) da Convenção de Haia de 1980.
+O direito de guarda é entendido, para efeitos do Regulamento Bruxelas II ter, nos termos do art. 2º, n.º 2 (9), como compreendendo «os direitos e as obrigações relativos aos cuidados devidos à criança e, em particular, o direito de decidir sobre o seu lugar de residência», equivalendo à noção prevista no art. 5º, al. a) da Convenção de Haia de 1980.
 
 2) O que pode António fazer e quais os documentos a apresentar?
 
@@ -1509,15 +1509,15 @@ Resposta: não. Uma deslocação temporária como a descrita não tem a capacida
 
 QUESTÃO 2B: ADMITA AGORA QUE A GRAVIDEZ FOI DE RISCO E, POR CAUSA DISSO, A BEATRIZ DESLOCOU-SE À ALEMANHA PARA DAR À LUZ A CRIANÇA. QUANDO A CARLA NASCEU, MERCÊ DE ALGUMAS COMPLICAÇÕES E DE TER NASCIDO PREMATURA, CARLA NÃO TEVE ALTA MÉDICA E PERMANECE SOB VIGILÂNCIA MÉDICA NO ESTABELECIMENTO HOSPITALAR ALEMÃO ATÉ À DATA EM QUE A AÇÃO DE REGULAÇÃO DAS RESPONSABILIDADES PARENTAIS FOI INTENTADA. A RESPOSTA À QUESTÃO 2 SERIA A MESMA NESTE CASO?
 
-Resposta: não. Neste caso não se pode dizer que Carla tenha residência habitual no Luxemburgo (que é o Estado da residência habitual da mãe), uma vez que nunca esteve nesse Estado. Esta foi a conclusão a que o Tribunal de JusƟça chegou no Acórdão UD contra XB (proc. C-393/18 PPU):
+Resposta: não. Neste caso não se pode dizer que Carla tenha residência habitual no Luxemburgo (que é o Estado da residência habitual da mãe), uma vez que nunca esteve nesse Estado. Esta foi a conclusão a que o Tribunal de Justiça chegou no Acórdão UD contra XB (proc. C-393/18 PPU):
 
-53 Resulta das considerações expostas nos n.os 45 a 52 do presente acórdão que uma presença İsica no Estado-Membro no qual a criança está supostamente integrada é uma condição necessariamente prévia à apreciação da estabilidade dessa presença e que a «residência habitual», na aceção do Regulamento n.º 2201/2003, não pode, portanto, ser ﬁxada num Estado-Membro no qual a criança nunca tenha estado.
+53 Resulta das considerações expostas nos n.os 45 a 52 do presente acórdão que uma presença física no Estado-Membro no qual a criança está supostamente integrada é uma condição necessariamente prévia à apreciação da estabilidade dessa presença e que a «residência habitual», na aceção do Regulamento n.º 2201/2003, não pode, portanto, ser fixada num Estado-Membro no qual a criança nunca tenha estado.
 
-É muito discuơvel que a criança tenha residência habitual na Alemanha, uma vez que a deslocação para esse Estado teve carácter temporário ou ocasional. Parece mais correto entender que a criança não tem residência habitual, devendo a competência para a ação de regulação das responsabilidades parentais ser determinada nos seguintes termos: (i) veriﬁcar se é possível celebrar um pacto de jurisdição nos termos do arƟgo 10.º; não sendo possível, recorrer ao arƟgo 11.º, n.º 1, e atribuir competência com base na presença da criança, o que signiﬁcaria neste caso que os tribunais competentes seriam os alemães; em casos em que a criança não tenha presença em qualquer Estado-Membro, pode recorrer-se às restantes normas de competência internacional vigentes no Estado-Membro do foro (art. 14.º).
+É muito discutível que a criança tenha residência habitual na Alemanha, uma vez que a deslocação para esse Estado teve carácter temporário ou ocasional. Parece mais correto entender que a criança não tem residência habitual, devendo a competência para a ação de regulação das responsabilidades parentais ser determinada nos seguintes termos: (i) verificar se é possível celebrar um pacto de jurisdição nos termos do artigo 10.º; não sendo possível, recorrer ao artigo 11.º, n.º 1, e atribuir competência com base na presença da criança, o que significaria neste caso que os tribunais competentes seriam os alemães; em casos em que a criança não tenha presença em qualquer Estado-Membro, pode recorrer-se às restantes normas de competência internacional vigentes no Estado-Membro do foro (art. 14.º).
 
 QUESTÃO 3: SERIA POSSÍVEL ATRIBUIR COMPETÊNCIA EXCLUSIVA AOS TRIBUNAIS PORTUGUESES PARA REGULAREM A MATÉRIA DAS RESPONSABILIDADES PARENTAIS SOBRE CARLA?
 
-Resposta: 1. Análise do arƟgo 10.º e da natureza dos pactos ﬁrmados dentro e fora do processo.
+Resposta: 1. Análise do artigo 10.º e da natureza dos pactos firmados dentro e fora do processo.
 
 QUESTÃO 4: E SE O TRIBUNAL PORTUGUÊS CONSIDERAR QUE OS TRIBUNAIS MELHOR COLOCADOS SÃO OS DO LUXEMBURGO, PODE PEDIR-LHES QUE SEJAM ELES A JULGAR A AÇÃO DE DIVÓRCIO E A REGULAÇÃO DAS RESPONSABILIDADES PARENTAIS SOBRE CARLA? NA RESPOSTA A ESTA QUESTÃO PONDERE AS SEGUINTES SUBHIPÓTESES: (I) FOI CELEBRADO DENTRO DO PROCESSO PACTO DE JURISDIÇÃO A FAVOR DOS TRIBUNAIS PORTUGUESES; (II) FOI CELEBRADO FORA DO PROCESSO E CONSIDERADO VÁLIDO PACTO DE JURISDIÇÃO NÃO EXCLUSIVO A FAVOR DOS TRIBUNAIS PORTUGUESES; (III) NÃO FOI CELEBRADO QUALQUER PACTO DE JURISDIÇÃO A FAVOR DOS TRIBUNAIS PORTUGUESES.
 
@@ -1533,23 +1533,23 @@ Subhipítese (iii): o tribunal português não é internacionalmente competente,
 
 QUESTÃO 5: OS TRIBUNAIS PORTUGUESES SÃO INTERNACIONALMENTE COMPETENTES PARA JULGAR A AÇÃO DE ANULAÇÃO DO CASAMENTO?
 
-Interpretação do arƟgo 3.º, n.º 1, alíneas v e vi (no caso seria aplicável a alínea vi). O Tribunal de JusƟça, no Acórdão Mikołajczyk (proc. C-294/15) esclareceu que:
+Interpretação do artigo 3.º, n.º 1, alíneas v e vi (no caso seria aplicável a alínea vi). O Tribunal de Justiça, no Acórdão Mikołajczyk (proc. C-294/15) esclareceu que:
 
-51 Daqui decorre que, embora uma ação de anulação do casamento intentada por um terceiro seja abrangida pelo âmbito de aplicação do Regulamento n.º 2201/2003, esse terceiro deve permanecer vinculado pelas regras de competência deﬁnidas em beneİcio dos cônjuges. Por outro lado, esta interpretação não priva o referido terceiro do acesso aos tribunais, na medida em que este pode invocar outros critérios de competência previstos no arƟgo 3.º desse regulamento.
+51 Daqui decorre que, embora uma ação de anulação do casamento intentada por um terceiro seja abrangida pelo âmbito de aplicação do Regulamento n.º 2201/2003, esse terceiro deve permanecer vinculado pelas regras de competência definidas em benefício dos cônjuges. Por outro lado, esta interpretação não priva o referido terceiro do acesso aos tribunais, na medida em que este pode invocar outros critérios de competência previstos no artigo 3.º desse regulamento.
 
-52 Por este moƟvo, o conceito de «requerente» na aceção do arƟgo 3.º, n.º 1, alínea a), quinto e sexto travessões, do Regulamento n.º 2201/2003 [atual art. 3.º, n.º 1, alíneas v e vi do RB II ter] não engloba pessoas diferentes dos cônjuges.
+52 Por este motivo, o conceito de «requerente» na aceção do artigo 3.º, n.º 1, alínea a), quinto e sexto travessões, do Regulamento n.º 2201/2003 [atual art. 3.º, n.º 1, alíneas v e vi do RB II ter] não engloba pessoas diferentes dos cônjuges.
 
 QUESTÃO 6: É POSSÍVEL RECONHECER O DIVÓRCIO POR MÚTUO CONSENTIMENTO CELEBRADO PERANTE NOTÁRIO FRANCÊS EM PORTUGAL?
 
-Resposta: não, porque os tribunais franceses não Ɵnham competência internacional para decretar o divórcio nos termos do arƟgo 3.º do Reg. Bruxelas II ter (cf. arƟgo 65.º, n.º 1).
+Resposta: não, porque os tribunais franceses não tinham competência internacional para decretar o divórcio nos termos do artigo 3.º do Reg. Bruxelas II ter (cf. artigo 65.º, n.º 1).
 
 QUESTÃO 6A: A RESPOSTA À QUESTÃO 6 SERIA A MESMA SE BEATRIZ TIVESSE RESIDÊNCIA HABITUAL EM FRANÇA À DATA EM QUE FOI CELEBRADO O DIVÓRCIO POR MÚTUO CONSENTIMENTO CELEBRADO PERANTE NOTÁRIO FRANCÊS?
 
-Resposta: a reposta não seria a mesma, porque nesta variante os tribunais franceses seriam internacionalmente competentes nos termos do art. 3.º, n.º 1, alínea iv. Desta forma, o ato autênƟco que decreta o divórcio por mútuo consenƟmento beneﬁcia de reconhecimento automáƟco (art. 65.º, n.º 1). A autoridade de origem deve emiƟr a cerƟdão a pedido de uma das partes (art. 66.º). Não se veriﬁcam, no caso, fundamentos de recusa (art. 68.º).
+Resposta: a reposta não seria a mesma, porque nesta variante os tribunais franceses seriam internacionalmente competentes nos termos do art. 3.º, n.º 1, alínea iv. Desta forma, o ato autêntico que decreta o divórcio por mútuo consentimento beneficia de reconhecimento automático (art. 65.º, n.º 1). A autoridade de origem deve emitir a certidão a pedido de uma das partes (art. 66.º). Não se verificam, no caso, fundamentos de recusa (art. 68.º).
 
 QUESTÃO 6B: A RESPOSTA À QUESTÃO 6 SERIA A MESMA SE BEATRIZ TIVESSE RESIDÊNCIA HABITUAL EM FRANÇA À DATA EM QUE FOI CELEBRADO O DIVÓRCIO POR MÚTUO CONSENTIMENTO CELEBRADO PERANTE NOTÁRIO FRANCÊS E EM PORTUGAL TIVESSE SIDO PROFERIDA DECISÃO DE ANULAÇÃO DO CASAMENTO?
 
-Resposta: neste caso não seria possível reconhecer o ato autênƟco, mas por moƟvo diferente do da questão 6. O ato autênƟco beneﬁcia do regime de reconhecimento automáƟco (art. 65.º, n.º 1), mas há um fundamento de recusa uma vez que a decisão de anulação do casamento proferida pelos tribunais portugueses é uma decisão incompaơvel com o ato autênƟco, uma vez que a anulação destrói o casamento com efeitos retroaƟvos, não é possível reconhecer um divórcio de um casamento que deixou de exisƟr na ordem jurídica portuguesa.
+Resposta: neste caso não seria possível reconhecer o ato autêntico, mas por motivo diferente do da questão 6. O ato autêntico beneficia do regime de reconhecimento automático (art. 65.º, n.º 1), mas há um fundamento de recusa uma vez que a decisão de anulação do casamento proferida pelos tribunais portugueses é uma decisão incompatível com o ato autêntico, uma vez que a anulação destrói o casamento com efeitos retroativos, não é possível reconhecer um divórcio de um casamento que deixou de existir na ordem jurídica portuguesa.
 
 ### 8. RAPTO INTERNACIONAL DE CRIANÇAS: CASOS PRÁTICOS. TÓPICOS DE RESOLUÇÃO
 
@@ -1565,21 +1565,21 @@ Tópicos de resolução
 
 ##### ENUNCIADO
 
-Júlio e Ana, ambos nacionais espanhóis, são os progenitores de duas crianças, Vasco e Maria. Em 2018 instalaram-se em Portugal e em 2021, ainda conƟnuando a residir em Portugal, as crianças foram inscritas numa escola espanhola, realizando diariamente o trajeto entre a habitação familiar em Portugal e a sua nova escola em Espanha. As crianças comunicam com os seus pais e avós em castelhano e têm apenas conhecimentos rudimentares da língua portuguesa.
+Júlio e Ana, ambos nacionais espanhóis, são os progenitores de duas crianças, Vasco e Maria. Em 2018 instalaram-se em Portugal e em 2021, ainda continuando a residir em Portugal, as crianças foram inscritas numa escola espanhola, realizando diariamente o trajeto entre a habitação familiar em Portugal e a sua nova escola em Espanha. As crianças comunicam com os seus pais e avós em castelhano e têm apenas conhecimentos rudimentares da língua portuguesa.
 
-Em julho de 2024, o casal desentendeu-se e Ana levou as crianças para viverem consigo em Espanha, sem o consenƟmento de Júlio. Em setembro de 2024, Júlio apresentou um pedido de regresso junto dos tribunais espanhóis e, paralelamente, uma ação de regulação das responsabilidades parentais das crianças, intentada nos tribunais portugueses, pedindo que lhe fosse atribuída a guarda exclusiva das crianças.
+Em julho de 2024, o casal desentendeu-se e Ana levou as crianças para viverem consigo em Espanha, sem o consentimento de Júlio. Em setembro de 2024, Júlio apresentou um pedido de regresso junto dos tribunais espanhóis e, paralelamente, uma ação de regulação das responsabilidades parentais das crianças, intentada nos tribunais portugueses, pedindo que lhe fosse atribuída a guarda exclusiva das crianças.
 
 ##### QUESTÕES
 
-Questão 1: Ana pede aos tribunais portugueses que transﬁram a competência para os tribunais espanhóis, alegando que (i) as crianças nunca esƟveram socialmente integradas em Portugal (ii) que, para além do processo de regresso pendente, existem outros processos pendentes intentados pelos progenitores com reﬂexos na proximidade em matéria probatória e (iii) que o deﬁciente conhecimento da língua portuguesa diﬁcultaria a tramitação do processo em tribunais portugueses e o cumprimento do direito das crianças a serem ouvidas. Por seu lado, Júlio opõe-se a este pedido, aﬁrmando que não é possível efetuar uma transferência de competência para os tribunais do Estado-Membro para que foram ilicitamente deslocadas as crianças, numa situação de rapto internacional. Quid iuris?
+Questão 1: Ana pede aos tribunais portugueses que transfiram a competência para os tribunais espanhóis, alegando que (i) as crianças nunca estiveram socialmente integradas em Portugal (ii) que, para além do processo de regresso pendente, existem outros processos pendentes intentados pelos progenitores com reflexos na proximidade em matéria probatória e (iii) que o deficiente conhecimento da língua portuguesa dificultaria a tramitação do processo em tribunais portugueses e o cumprimento do direito das crianças a serem ouvidas. Por seu lado, Júlio opõe-se a este pedido, afirmando que não é possível efetuar uma transferência de competência para os tribunais do Estado-Membro para que foram ilicitamente deslocadas as crianças, numa situação de rapto internacional. Quid iuris?
 
-Questão 3: Admita agora que Júlio Ɵnha intentado apenas o pedido de regresso junto dos tribunais espanhóis e que o mesmo foi indeferido com fundamento apenas no risco grave para a criança, uma vez que Júlio admiƟu ter sido violento, por uma vez, contra a Ana. A decisão foi proferida sem audição das crianças, com fundamento na necessidade de cumprir o prazo de seis semanas.
+Questão 3: Admita agora que Júlio tinha intentado apenas o pedido de regresso junto dos tribunais espanhóis e que o mesmo foi indeferido com fundamento apenas no risco grave para a criança, uma vez que Júlio admitiu ter sido violento, por uma vez, contra a Ana. A decisão foi proferida sem audição das crianças, com fundamento na necessidade de cumprir o prazo de seis semanas.
 
 (i): Aprecie a decisão.
 
 ∗ Professor Auxiliar da Faculdade de Direito da Universidade de Lisboa.
 
-(ii): Imagine que, durante a tramitação do processo, Júlio apresenta cópia de providência cautelar proferida pelos tribunais portugueses na qual se estabelece que, até à regulação deﬁniƟva das responsabilidades parentais, as crianças viverão com Ana e Júlio só poderá visitar as crianças de 15 em 15 dias, e sempre acompanhado e sob supervisão de um adulto da família materna. Ainda assim, os tribunais espanhois poderiam manter a decisão de recusar o regresso?
+(ii): Imagine que, durante a tramitação do processo, Júlio apresenta cópia de providência cautelar proferida pelos tribunais portugueses na qual se estabelece que, até à regulação definitiva das responsabilidades parentais, as crianças viverão com Ana e Júlio só poderá visitar as crianças de 15 em 15 dias, e sempre acompanhado e sob supervisão de um adulto da família materna. Ainda assim, os tribunais espanhois poderiam manter a decisão de recusar o regresso?
 
 (iii): Júlio pretende ainda que os tribunais portugueses decidam sobre a regulação das responsabilidades parentais sobre as crianças. Os tribunais portugueses ainda são internacionalmente competentes para julgar essa matéria?
 
@@ -1589,43 +1589,43 @@ Questão 3: Admita agora que Júlio Ɵnha intentado apenas o pedido de regresso 
 
 QUESTÃO 1: ANA PEDE AOS TRIBUNAIS PORTUGUESES QUE TRANSFIRAM A COMPETÊNCIA PARA OS TRIBUNAIS ESPANHÓIS, ALEGANDO QUE (I) AS CRIANÇAS NUNCA ESTIVERAM SOCIALMENTE INTEGRADAS EM PORTUGAL (II) QUE, PARA ALÉM DO PROCESSO DE REGRESSO PENDENTE, EXISTEM OUTROS PROCESSOS PENDENTES INTENTADOS PELOS PROGENITORES COM REFLEXOS NA PROXIMIDADE EM MATÉRIA PROBATÓRIA E (III) QUE O DEFICIENTE CONHECIMENTO DA LÍNGUA PORTUGUESA DIFICULTARIA A TRAMITAÇÃO DO PROCESSO EM TRIBUNAIS PORTUGUESES E O CUMPRIMENTO DO DIREITO DAS CRIANÇAS A SEREM OUVIDAS. POR SEU LADO, JÚLIO OPÕE-SE A ESTE PEDIDO, AFIRMANDO QUE NÃO É POSSÍVEL EFETUAR UMA TRANSFERÊNCIA DE COMPETÊNCIA PARA OS TRIBUNAIS DO ESTADO-MEMBRO PARA QUE FORAM ILICITAMENTE DESLOCADAS AS CRIANÇAS, NUMA SITUAÇÃO DE RAPTO INTERNACIONAL. QUID IURIS?
 
-Resposta: Análise do arƟgo 12.º do Regulamento Bruxelas II ter1. A principal questão é a de saber se o tribunal do Estado-Membro da residência habitual da criança imediatamente antes da deslocação ou retenção ilícitas pode, oﬁcialmente ou a pedido de uma das partes, “transferir” a competência para regular as responsabilidades parentais para os tribunais do Estado-Membro em que a criança foi ilicitamente deslocada ou reƟda.
+Resposta: Análise do artigo 12.º do Regulamento Bruxelas II ter1. A principal questão é a de saber se o tribunal do Estado-Membro da residência habitual da criança imediatamente antes da deslocação ou retenção ilícitas pode, oficialmente ou a pedido de uma das partes, “transferir” a competência para regular as responsabilidades parentais para os tribunais do Estado-Membro em que a criança foi ilicitamente deslocada ou retida.
 
-A questão é algo complexa, uma vez que o princípio da Convenção da Haia de 1980 é a tramitação rápida dos pedidos de regresso para, em regra geral, haver uma reposição célere do status quo anterior à deslocação ou retenção ilícitas, de modo a não beneﬁciar o progenitor infrator.
+A questão é algo complexa, uma vez que o princípio da Convenção da Haia de 1980 é a tramitação rápida dos pedidos de regresso para, em regra geral, haver uma reposição célere do status quo anterior à deslocação ou retenção ilícitas, de modo a não beneficiar o progenitor infrator.
 
 A questão foi colocada ao TJ em sede do Regulamento Bruxelas II bis no Acórdão de 13 de julho de 2013, TT contra AK, proc. C-87/22, que concluiu que a transferência era possível nestes casos:
 
-46 De resto, resulta da jurisprudência do Tribunal de JusƟça que a exigência prevista no arƟgo 15.º, vn.º 1, do Regulamento n.º 2201/2003, segundo a qual a remessa de um processo a um tribunal de outro Estado-Membro deve servir o superior interesse da criança, consƟtui uma expressão do princípio orientador que guiou o legislador da União na conceção deste regulamento e que deve estruturar a sua aplicação nos processos de responsabilidade parental
+46 De resto, resulta da jurisprudência do Tribunal de Justiça que a exigência prevista no artigo 15.º, vn.º 1, do Regulamento n.º 2201/2003, segundo a qual a remessa de um processo a um tribunal de outro Estado-Membro deve servir o superior interesse da criança, constitui uma expressão do princípio orientador que guiou o legislador da União na conceção deste regulamento e que deve estruturar a sua aplicação nos processos de responsabilidade parental
 
 1 Doravante, os artigos referidos sem indicação de fonte pertencem a este Regulamento.
 
-por ele abrangidos (v., neste senƟdo, Acórdão de 27 de outubro de 2016, D., C-428/15, EU:C:2016:819, n.ºs 43 e 63).
+por ele abrangidos (v., neste sentido, Acórdão de 27 de outubro de 2016, D., C-428/15, EU:C:2016:819, n.ºs 43 e 63).
 
-47 Esta exigência signiﬁca necessariamente que deve ser Ɵdo em consideração o direito fundamental da criança, enunciado no arƟgo 24.º, n.º 3, da Carta dos Direitos Fundamentais, de manter regularmente relações pessoais e contactos diretos com ambos os progenitores (v., neste senƟdo, Acórdão de 23 de dezembro de 2009, DeƟček, C-403/09 PPU, EU:C:2009:810, n.º 56).
+47 Esta exigência significa necessariamente que deve ser tido em consideração o direito fundamental da criança, enunciado no artigo 24.º, n.º 3, da Carta dos Direitos Fundamentais, de manter regularmente relações pessoais e contactos diretos com ambos os progenitores (v., neste sentido, Acórdão de 23 de dezembro de 2009, Detiček, C-403/09 PPU, EU:C:2009:810, n.º 56).
 
-48 É verdade que a deslocação ilícita de uma criança, na sequência de uma decisão unilateral de um dos seus progenitores, priva essa criança, na maior parte dos casos, da possibilidade de manter regularmente relações pessoais e contactos diretos com o outro progenitor (v., neste senƟdo, Acórdão de 1 de julho de 2010, Povse, C-211/10 PPU, EU:C:2010:400, n.º 64 e jurisprudência referida).
+48 É verdade que a deslocação ilícita de uma criança, na sequência de uma decisão unilateral de um dos seus progenitores, priva essa criança, na maior parte dos casos, da possibilidade de manter regularmente relações pessoais e contactos diretos com o outro progenitor (v., neste sentido, Acórdão de 1 de julho de 2010, Povse, C-211/10 PPU, EU:C:2010:400, n.º 64 e jurisprudência referida).
 
-49 Todavia, esta circunstância não implica que o tribunal competente nos termos do arƟgo 10.º do Regulamento n.º 2201/2003 não consiga ilidir, tendo em conta o superior interessa da criança, a forte presunção a favor da manutenção da sua própria competência que decorre deste regulamento (v., neste senƟdo, Acórdão de 27 de outubro de 2016, D., C-428/15, EU:C:2016:819, n.º 49) e deva sistemaƟcamente renunciar a exercer a faculdade de pedir a transferência prevista no arƟgo 15.º, n.º 1, alínea b), desse regulamento quando o tribunal para quem a equaciona fazer se encontra no Estado-Membro para o qual a criança foi deslocada ilicitamente por um dos pais.
+49 Todavia, esta circunstância não implica que o tribunal competente nos termos do artigo 10.º do Regulamento n.º 2201/2003 não consiga ilidir, tendo em conta o superior interessa da criança, a forte presunção a favor da manutenção da sua própria competência que decorre deste regulamento (v., neste sentido, Acórdão de 27 de outubro de 2016, D., C-428/15, EU:C:2016:819, n.º 49) e deva sistematicamente renunciar a exercer a faculdade de pedir a transferência prevista no artigo 15.º, n.º 1, alínea b), desse regulamento quando o tribunal para quem a equaciona fazer se encontra no Estado-Membro para o qual a criança foi deslocada ilicitamente por um dos pais.
 
-50 Implica, em contraparƟda, que o tribunal competente para conhecer do mérito, nos termos do arƟgo 10.º do Regulamento n.º 2201/2003 se cerƟﬁque, à luz das circunstâncias concretas do processo, de que a transferência equacionada não é susceơvel de ter um impacto negaƟvo nas relações afeƟvas, familiares e sociais da criança em causa ou na sua situação material (v., neste senƟdo, Acórdão de 27 de outubro de 2016, D., C-428/15, EU:C:2016:819, n.os 58 e 59), e pondere, de forma equilibrada e razoável, no superior interesse da criança, todos os interesses em jogo, com base em considerações objeƟvas relaƟvas à própria pessoa da criança e ao seu meio social (v., neste senƟdo, Acórdão de 23 de dezembro de 2009, DeƟček, C-403/09 PPU, EU:C:2009:810, n.º 60). Assim, se este tribunal chegar à conclusão de que a remessa do processo a um tribunal de outro Estado-Membro é contrária ao superior interesse da criança, deverá excluí-la.
+50 Implica, em contrapartida, que o tribunal competente para conhecer do mérito, nos termos do artigo 10.º do Regulamento n.º 2201/2003 se certifique, à luz das circunstâncias concretas do processo, de que a transferência equacionada não é suscetível de ter um impacto negativo nas relações afetivas, familiares e sociais da criança em causa ou na sua situação material (v., neste sentido, Acórdão de 27 de outubro de 2016, D., C-428/15, EU:C:2016:819, n.os 58 e 59), e pondere, de forma equilibrada e razoável, no superior interesse da criança, todos os interesses em jogo, com base em considerações objetivas relativas à própria pessoa da criança e ao seu meio social (v., neste sentido, Acórdão de 23 de dezembro de 2009, Detiček, C-403/09 PPU, EU:C:2009:810, n.º 60). Assim, se este tribunal chegar à conclusão de que a remessa do processo a um tribunal de outro Estado-Membro é contrária ao superior interesse da criança, deverá excluí-la.
 
-51 Logo, não é contrário aos objeƟvos prosseguidos pelo Regulamento n.º 2201/2003 que um tribunal competente em matéria de responsabilidade parental com base no arƟgo 10.º desse regulamento possa, a ơtulo excecional e após ter devidamente em conta, de forma equilibrada e razoável, o superior interesse da criança, pedir a remessa do processo que lhe foi submeƟdo a um tribunal do Estado-Membro para o qual a criança em causa foi deslocada ilicitamente por um dos pais.
+51 Logo, não é contrário aos objetivos prosseguidos pelo Regulamento n.º 2201/2003 que um tribunal competente em matéria de responsabilidade parental com base no artigo 10.º desse regulamento possa, a título excecional e após ter devidamente em conta, de forma equilibrada e razoável, o superior interesse da criança, pedir a remessa do processo que lhe foi submetido a um tribunal do Estado-Membro para o qual a criança em causa foi deslocada ilicitamente por um dos pais.
 
-Em suma, o TJ admiƟu a possibilidade de “transferência”, mas não deixou de assinalar que esta possibilidade, que tem já um carácter excecional (veriﬁcar início do arƟgo 12.º, n.º 1) é, neste caso concreto - “transferência” de competência para o tribunal do Estado-Membro da deslocação ou retenção ilícitas -, de uma excecionalidade acrescida, resultante da “forte presunção a favor da manutenção da sua própria competência” (cons. 49 do Acórdão).
+Em suma, o TJ admitiu a possibilidade de “transferência”, mas não deixou de assinalar que esta possibilidade, que tem já um carácter excecional (verificar início do artigo 12.º, n.º 1) é, neste caso concreto - “transferência” de competência para o tribunal do Estado-Membro da deslocação ou retenção ilícitas -, de uma excecionalidade acrescida, resultante da “forte presunção a favor da manutenção da sua própria competência” (cons. 49 do Acórdão).
 
 QUESTÃO 2: IMAGINE AGORA QUE SÃO OS TRIBUNAIS ESPANHÓIS QUEM SE CONSIDERAM MELHOR COLOCADOS PARA AVALIAR O SUPERIOR INTERESSE DA CRIANÇA NO CASO CONCRETO E PRETENDEM REQUERER AOS TRIBUNAIS PORTUGUESES (TRIBUNAIS DA RESIDÊNCIA HABITUAL DA CRIANÇA ANTES DA DESLOCAÇÃO ILÍCITA) A TRANSFERÊNCIA DE COMPETÊNCIA. PODEM FAZÊ-LO?
 
-Resposta: Análise do arƟgo 13.º. À primeira vista a resposta seria a mesma, até porque no contexto do Regulamento Bruxelas II bis, no qual foi proferido o Acórdão TT contra AK, a questão da “transferência” de competência a pedido de um tribunal de outro Estado-Membro que não é competente estava regulada no mesmo arƟgo 15.º do Regulamento Bruxelas II bis.
+Resposta: Análise do artigo 13.º. À primeira vista a resposta seria a mesma, até porque no contexto do Regulamento Bruxelas II bis, no qual foi proferido o Acórdão TT contra AK, a questão da “transferência” de competência a pedido de um tribunal de outro Estado-Membro que não é competente estava regulada no mesmo artigo 15.º do Regulamento Bruxelas II bis.
 
-Todavia, o Regulamento Bruxelas II ter separou em dois arƟgos a matéria da “transferência”:
+Todavia, o Regulamento Bruxelas II ter separou em dois artigos a matéria da “transferência”:
 
-(i) quando a transferência é iniciada por um tribunal de um Estado-Membro que tem competência para regular as responsabilidades parentais, é aplicável o arƟgo 12.º;
+(i) quando a transferência é iniciada por um tribunal de um Estado-Membro que tem competência para regular as responsabilidades parentais, é aplicável o artigo 12.º;
 
-(ii) quando a transferência é iniciada através de um pedido de um tribunal de um Estado-Membro que não tem competência para regular as responsabilidades parentais, é aplicável o arƟgo 13.º.
+(ii) quando a transferência é iniciada através de um pedido de um tribunal de um Estado-Membro que não tem competência para regular as responsabilidades parentais, é aplicável o artigo 13.º.
 
-O arƟgo 13.º estabelece que o regime de transferência, quando iniciado através de um pedido de um tribunal de um Estado-Membro que não tem competência para regular as responsabilidades parentais, é aplicável “(…) sem prejuízo do arƟgo 9.º (…)” (cf. arƟgo 13.º, n.º 1).
+O artigo 13.º estabelece que o regime de transferência, quando iniciado através de um pedido de um tribunal de um Estado-Membro que não tem competência para regular as responsabilidades parentais, é aplicável “(…) sem prejuízo do artigo 9.º (…)” (cf. artigo 13.º, n.º 1).
 
-O que se deve entender por este “sem prejuízo do arƟgo 9.º”? Parece que, nos casos de rapto internacional de crianças, o tribunal do Estado-Membro para onde a criança foi ilicitamente deslocada ou reƟda não pode requerer a transferência de competência ao tribunal do Estado-Membro da residência habitual da criança imediatamente anterior à deslocação ou retenção ilícitas.
+O que se deve entender por este “sem prejuízo do artigo 9.º”? Parece que, nos casos de rapto internacional de crianças, o tribunal do Estado-Membro para onde a criança foi ilicitamente deslocada ou retida não pode requerer a transferência de competência ao tribunal do Estado-Membro da residência habitual da criança imediatamente anterior à deslocação ou retenção ilícitas.
 
 QUESTÃO 3: ADMITA AGORA QUE JÚLIO TINHA INTENTADO APENAS O PEDIDO DE REGRESSO JUNTO DOS TRIBUNAIS ESPANHÓIS E QUE O MESMO FOI INDEFERIDO COM FUNDAMENTO APENAS NO RISCO GRAVE PARA A CRIANÇA, UMA VEZ QUE JÚLIO ADMITIU TER SIDO VIOLENTO, POR UMA VEZ, CONTRA A ANA. A DECISÃO FOI PROFERIDA SEM AUDIÇÃO DAS CRIANÇAS, COM FUNDAMENTO NA NECESSIDADE DE CUMPRIR O PRAZO DE SEIS SEMANAS.
 
@@ -1633,39 +1633,39 @@ QUESTÃO 3: ADMITA AGORA QUE JÚLIO TINHA INTENTADO APENAS O PEDIDO DE REGRESSO 
 
 Resposta: Pretende-se que os formandos ponderem duas coisas:
 
-(1) Análise do arƟgo 13.º, n.º 1, alínea b), da Convenção da Haia de 1980. Estamos perante uma situação de risco grave para a criança?
+(1) Análise do artigo 13.º, n.º 1, alínea b), da Convenção da Haia de 1980. Estamos perante uma situação de risco grave para a criança?
 
-(2) A necessidade de audição da criança. O fundamento indicado (cumprimento do prazo previsto no art. 24.º, n.º 2) não parece admissível para não dar à criança a oportunidade real e efeƟva de expressar as suas opiniões.
+(2) A necessidade de audição da criança. O fundamento indicado (cumprimento do prazo previsto no art. 24.º, n.º 2) não parece admissível para não dar à criança a oportunidade real e efetiva de expressar as suas opiniões.
 
-(ii): Imagine que, durante a tramitação do processo, Júlio apresenta cópia de providência cautelar proferida pelos tribunais portugueses na qual se estabelece que, até à regulação deﬁniƟva das responsabilidades parentais, as crianças viverão com Ana e Júlio só poderá visitar as crianças de 15 em 15 dias, e sempre acompanhado e sob supervisão de um adulto da família materna. Ainda assim, os tribunais espanhóis poderiam manter a decisão de recusar o regresso?
+(ii): Imagine que, durante a tramitação do processo, Júlio apresenta cópia de providência cautelar proferida pelos tribunais portugueses na qual se estabelece que, até à regulação definitiva das responsabilidades parentais, as crianças viverão com Ana e Júlio só poderá visitar as crianças de 15 em 15 dias, e sempre acompanhado e sob supervisão de um adulto da família materna. Ainda assim, os tribunais espanhóis poderiam manter a decisão de recusar o regresso?
 
-Resposta: Análise do arƟgo 27.º, em especial os n.ºs 3 e 4.
+Resposta: Análise do artigo 27.º, em especial os n.ºs 3 e 4.
 
-A decisão ﬁnal caberia sempre aos tribunais espanhóis, que só deixariam de poder proferir uma decisão de recusa de regresso com base no arƟgo 13.º, n.º 1, al. b) da Convenção da Haia de 1980, se formarem a convicção de que foram tomadas providências adequadas para garanƟr a proteção da criança após o seu regresso.
+A decisão final caberia sempre aos tribunais espanhóis, que só deixariam de poder proferir uma decisão de recusa de regresso com base no artigo 13.º, n.º 1, al. b) da Convenção da Haia de 1980, se formarem a convicção de que foram tomadas providências adequadas para garantir a proteção da criança após o seu regresso.
 
 (iii): Júlio pretende ainda que os tribunais portugueses decidam sobre a regulação das responsabilidades parentais sobre as crianças. Os tribunais portugueses ainda são internacionalmente competentes para julgar essa matéria?
 
-Resposta: Análise do arƟgo 29.º, em especial n.ºs 3 e 5 e arƟgo 10.º.
+Resposta: Análise do artigo 29.º, em especial n.ºs 3 e 5 e artigo 10.º.
 
-Se em momento anterior ao proferimento da decisão que recusa o regresso da criança já esƟver intentada ação de regulação das responsabilidades parentais nos tribunais portugueses e o tribunal que proferiu a decisão de recusa Ɵver conhecimento disso, esse tribunal é obrigado a transmiƟr ao tribunal português, no prazo de um mês a contar da data da decisão de recusa, (i) cópia da decisão, (ii) cerƟdão emiƟda nos termos do n.º 2 e (iii) se for caso disso, uma transcrição, resumo ou atas das audições perante o tribunal e quaisquer outros documentos que considere perƟnentes (art. 29.º, n.º 3).
+Se em momento anterior ao proferimento da decisão que recusa o regresso da criança já estiver intentada ação de regulação das responsabilidades parentais nos tribunais portugueses e o tribunal que proferiu a decisão de recusa tiver conhecimento disso, esse tribunal é obrigado a transmitir ao tribunal português, no prazo de um mês a contar da data da decisão de recusa, (i) cópia da decisão, (ii) certidão emitida nos termos do n.º 2 e (iii) se for caso disso, uma transcrição, resumo ou atas das audições perante o tribunal e quaisquer outros documentos que considere pertinentes (art. 29.º, n.º 3).
 
-Se não esƟver intentada ação de regulação das responsabilidades parentais nos tribunais portugueses, Júlio tem um prazo de 3 meses, a contar da data de noƟﬁcação da decisão que recusa o regresso da criança, para instaurar a ação de regulação das responsabilidade parentais nos tribunais portugueses, devendo juntar os seguintes documentos: (i) cópia da decisão, (ii) cerƟdão emiƟda nos termos do n.º 2 e (iii) se for caso disso, uma transcrição, resumo ou atas das audições perante o tribunal que recusou o regresso das crianças.
+Se não estiver intentada ação de regulação das responsabilidades parentais nos tribunais portugueses, Júlio tem um prazo de 3 meses, a contar da data de notificação da decisão que recusa o regresso da criança, para instaurar a ação de regulação das responsabilidade parentais nos tribunais portugueses, devendo juntar os seguintes documentos: (i) cópia da decisão, (ii) certidão emitida nos termos do n.º 2 e (iii) se for caso disso, uma transcrição, resumo ou atas das audições perante o tribunal que recusou o regresso das crianças.
 
-Em suma, nestes casos a decisão deﬁnitiva acaba por ﬁcar nos tribunais do Estado-Membro da residência habitual da criança imediatamente antes da deslocação ou retenção ilícitas, pois se a decisão da ação de regulação das responsabilidades parentais implicar o regresso da criança, essa decisão sobrepõe-se à decisão que recusou o regresso (art. 29.º, n.º 6).
+Em suma, nestes casos a decisão definitiva acaba por ficar nos tribunais do Estado-Membro da residência habitual da criança imediatamente antes da deslocação ou retenção ilícitas, pois se a decisão da ação de regulação das responsabilidades parentais implicar o regresso da criança, essa decisão sobrepõe-se à decisão que recusou o regresso (art. 29.º, n.º 6).
 
 #### Caso n.º 2
 
 ##### ENUNCIADO
 
-Luís nasceu em novembro de 2019 na Suíça e tem a dupla nacionalidade alemã e portuguesa. O seu pai, nacional alemão, reside na Suíça desde junho de 2013 por moƟvos proﬁssionais, enquanto a sua mãe, nacional portuguesa, viveu com o ﬁlho entre 2020 e 2023 na Alemanha, país onde os pais se casaram.
+Luís nasceu em novembro de 2019 na Suíça e tem a dupla nacionalidade alemã e portuguesa. O seu pai, nacional alemão, reside na Suíça desde junho de 2013 por motivos profissionais, enquanto a sua mãe, nacional portuguesa, viveu com o filho entre 2020 e 2023 na Alemanha, país onde os pais se casaram.
 
-O pai visitava regularmente a mãe e o ﬁlho. Os pais acordaram que a mãe e o ﬁlho visitariam a família do lado materno, residente em Portugal, durante as férias de verão de 2023. Em setembro de 2023, a mãe informa o pai de que permaneceria em Portugal com o ﬁlho e que não permiƟria contactos nem visitas por parte do pai.
+O pai visitava regularmente a mãe e o filho. Os pais acordaram que a mãe e o filho visitariam a família do lado materno, residente em Portugal, durante as férias de verão de 2023. Em setembro de 2023, a mãe informa o pai de que permaneceria em Portugal com o filho e que não permitiria contactos nem visitas por parte do pai.
 
 ##### QUESTÕES
 
-Questão 1: Admita que, em janeiro de 2024, o pai apresentou à autoridade central suíça um pedido de regresso da criança para a Suíça ao abrigo da Convenção da Haia de 1980. O tribunal português inclina-se, embora com dúvidas, a considerar que o arƟgo 9.º do Regulamento Bruxelas II ter não é aplicável a este caso, uma vez que o pedido foi efetuado junto de uma autoridade central de um Estado terceiro. Este pedido de regresso, efetuado junto da autoridade central de Estado terceiro, tem reﬂexos no funcionamento das regras de competência internacional aplicáveis ao caso concreto?
+Questão 1: Admita que, em janeiro de 2024, o pai apresentou à autoridade central suíça um pedido de regresso da criança para a Suíça ao abrigo da Convenção da Haia de 1980. O tribunal português inclina-se, embora com dúvidas, a considerar que o artigo 9.º do Regulamento Bruxelas II ter não é aplicável a este caso, uma vez que o pedido foi efetuado junto de uma autoridade central de um Estado terceiro. Este pedido de regresso, efetuado junto da autoridade central de Estado terceiro, tem reflexos no funcionamento das regras de competência internacional aplicáveis ao caso concreto?
 
-Questão 2: O pedido de regresso das crianças para a Suíça, efetuado pelo pai pode ser considerado um pedido de regresso, em parƟcular para os efeitos do arƟgo 9.º, n.º 1, al. b), subal. i), do Regulamento Bruxelas II ter?
+Questão 2: O pedido de regresso das crianças para a Suíça, efetuado pelo pai pode ser considerado um pedido de regresso, em particular para os efeitos do artigo 9.º, n.º 1, al. b), subal. i), do Regulamento Bruxelas II ter?
 
 Questão 3: Admita agora que o pai efetua um novo pedido de regresso da criança, desta feita para a Alemanha e que o tribunal português, durante a pendência desse processo, pretende estabelecer um regime de visitas entre a criança e o pai. Pode fazê-lo?
 
@@ -1673,9 +1673,9 @@ Questão 4: Admita agora que o tribunal português profere decisão de não regr
 
 (i): A decisão podia ser proferida sem audição do pai?
 
-(ii): A decisão pode ser reverƟda pelos tribunais do Estado-Membro da residência habitual imediatamente antes da deslocação ilícita?
+(ii): A decisão pode ser revertida pelos tribunais do Estado-Membro da residência habitual imediatamente antes da deslocação ilícita?
 
-(iii): Admita agora que a decisão de recusa foi fundada simultaneamente na oposição da criança e no risco grave para a mesma. A decisão pode ser reverƟda pelos tribunais do Estado-Membro da residência habitual imediatamente antes da deslocação ilícita?
+(iii): Admita agora que a decisão de recusa foi fundada simultaneamente na oposição da criança e no risco grave para a mesma. A decisão pode ser revertida pelos tribunais do Estado-Membro da residência habitual imediatamente antes da deslocação ilícita?
 
 ##### TÓPICOS DE RESOLUÇÃO
 
@@ -1683,39 +1683,39 @@ Questão 4: Admita agora que o tribunal português profere decisão de não regr
 
 QUESTÃO 1: ADMITA QUE, EM JANEIRO DE 2024, O PAI APRESENTOU À AUTORIDADE CENTRAL SUÍÇA UM PEDIDO DE REGRESSO DA CRIANÇA PARA A SUÍÇA AO ABRIGO DA CONVENÇÃO DA HAIA DE 1980. O TRIBUNAL PORTUGUÊS INCLINA-SE, EMBORA COM DÚVIDAS, A CONSIDERAR QUE O ARTIGO 9.º DO REGULAMENTO BRUXELAS II TER NÃO É APLICÁVEL A ESTE CASO, UMA VEZ QUE O PEDIDO FOI EFETUADO JUNTO DE UMA AUTORIDADE CENTRAL DE UM ESTADO TERCEIRO. ESTE PEDIDO DE REGRESSO, EFETUADO JUNTO DA AUTORIDADE CENTRAL DE ESTADO TERCEIRO, TEM REFLEXOS NO FUNCIONAMENTO DAS REGRAS DE COMPETÊNCIA INTERNACIONAL APLICÁVEIS AO CASO CONCRETO?
 
-Resposta: A questão que aqui se coloca é a de saber se o facto de o pedido de regresso ao abrigo da Convenção da Haia de 1980 ter sido feito por uma autoridade central de Estado terceiro (i.e., que não é um Estado-Membro) tem como consequência a inaplicabilidade ao caso do arƟgo 9.º (manutenção da competência dos tribunais do Estado-Membro da residência habitual da criança imediatamente antes da deslocação ou retenção ilícitas).
+Resposta: A questão que aqui se coloca é a de saber se o facto de o pedido de regresso ao abrigo da Convenção da Haia de 1980 ter sido feito por uma autoridade central de Estado terceiro (i.e., que não é um Estado-Membro) tem como consequência a inaplicabilidade ao caso do artigo 9.º (manutenção da competência dos tribunais do Estado-Membro da residência habitual da criança imediatamente antes da deslocação ou retenção ilícitas).
 
 A questão foi colocada ao TJ no Acórdão de 20 de junho de 2024, Pai contra Mãe, proc. C-32/23, no qual o TJ concluiu que:
 
-59 Deste modo, a mera circunstância de o progenitor cujo direito de guarda foi violado ter instaurado, sem sucesso, um processo nos termos da Convenção da Haia de 1980 a ﬁm de obter o regresso da criança deslocada ou reƟda ilicitamente por intermédio de uma autoridade central de um país terceiro e transmiƟdo, posteriormente, às autoridades competentes de um Estado- -Membro, não tem incidência na aplicação, em tal situação, da regra de competência especial prevista no arƟgo 10.o do Regulamento n.º 2201/2003.
+59 Deste modo, a mera circunstância de o progenitor cujo direito de guarda foi violado ter instaurado, sem sucesso, um processo nos termos da Convenção da Haia de 1980 a fim de obter o regresso da criança deslocada ou retida ilicitamente por intermédio de uma autoridade central de um país terceiro e transmitido, posteriormente, às autoridades competentes de um Estado- -Membro, não tem incidência na aplicação, em tal situação, da regra de competência especial prevista no artigo 10.o do Regulamento n.º 2201/2003.
 
-Resulta, assim, que a intervenção da autoridade central de Estado terceiro, que é Estado Contratante da Convenção da Haia de 1980, não tem reﬂexos na aferição de critérios de aplicabilidade do arƟgo 9.º.
+Resulta, assim, que a intervenção da autoridade central de Estado terceiro, que é Estado Contratante da Convenção da Haia de 1980, não tem reflexos na aferição de critérios de aplicabilidade do artigo 9.º.
 
 QUESTÃO 2: O PEDIDO DE REGRESSO DAS CRIANÇAS PARA A SUÍÇA, EFETUADO PELO PAI PODE SER CONSIDERADO UM PEDIDO DE REGRESSO, EM PARTICULAR PARA OS EFEITOS DO ARTIGO 9.º, N.º 1, AL. B), SUBAL. I), DO REGULAMENTO BRUXELAS II TER?
 
-Resposta: Pretende-se aqui que os formandos reﬂictam sobre o conceito de pedido de regresso, expresso no arƟgo 9.º e que é relevante para aferir da aplicabilidade desta norma atribuƟva de competência internacional.
+Resposta: Pretende-se aqui que os formandos reflictam sobre o conceito de pedido de regresso, expresso no artigo 9.º e que é relevante para aferir da aplicabilidade desta norma atributiva de competência internacional.
 
 O ponto decisivo é que foi pedido o regresso para um Estado (Suíça) diferente daquele no qual a criança residia habitualmente antes da deslocação ou retenção ilícitas (Alemanha).
 
 O TJ já esclareceu no Acórdão de 20 de junho de 2024, Pai contra Mãe, proc. C-32/23, que:
 
-67 Segundo jurisprudência constante, na interpretação de uma disposição do direito da União, há que ter em conta não só os seus termos, mas também o seu contexto e os objeƟvos prosseguidos pela regulamentação de que faz parte [v., neste senƟdo, Acórdão de 13 de julho de 2023, TT (Deslocação da criança), C-87/22, EU:C:2023:571, n.º 39 e jurisprudência referida].
+67 Segundo jurisprudência constante, na interpretação de uma disposição do direito da União, há que ter em conta não só os seus termos, mas também o seu contexto e os objetivos prosseguidos pela regulamentação de que faz parte [v., neste sentido, Acórdão de 13 de julho de 2023, TT (Deslocação da criança), C-87/22, EU:C:2023:571, n.º 39 e jurisprudência referida].
 
 (…)
 
-70 Por conseguinte, é lógico e conforme à sistemáƟca das regras de competência em matéria de responsabilidade parental previstas pelo Regulamento n.º 2201/2003 que, por um lado, o «pedido de regresso», referido no arƟgo 10.o deste regulamento, deve ser dirigido às autoridades competentes do Estado-Membro no território do qual a criança foi deslocada ilicitamente e se encontra ﬁsicamente e, por outro, este mesmo pedido visa obter o regresso dessa criança ao Estado-Membro em cujo território Ɵnha a sua residência imediatamente antes da deslocação ao ilícita, e cujos órgãos jurisdicionais estão, como o Tribunal de JusƟça já declarou, devido à sua proximidade geográﬁca, geralmente mais bem colocados para apreciar as medidas a adotar no interesse da criança [v., neste senƟdo, Acórdão de 13 de julho de 2023, TT (Deslocação da criança), C-87/22, EU:C:2023:571, n.º 33 e jurisprudência referida]. Ora, um pedido desƟnado a que a criança seja levada para outro Estado, que seja um país terceiro, no território do qual não residiu de forma habitual antes da sua deslocação ilícita, não cumpre esta lógica.
+70 Por conseguinte, é lógico e conforme à sistemática das regras de competência em matéria de responsabilidade parental previstas pelo Regulamento n.º 2201/2003 que, por um lado, o «pedido de regresso», referido no artigo 10.o deste regulamento, deve ser dirigido às autoridades competentes do Estado-Membro no território do qual a criança foi deslocada ilicitamente e se encontra fisicamente e, por outro, este mesmo pedido visa obter o regresso dessa criança ao Estado-Membro em cujo território tinha a sua residência imediatamente antes da deslocação ao ilícita, e cujos órgãos jurisdicionais estão, como o Tribunal de Justiça já declarou, devido à sua proximidade geográfica, geralmente mais bem colocados para apreciar as medidas a adotar no interesse da criança [v., neste sentido, Acórdão de 13 de julho de 2023, TT (Deslocação da criança), C-87/22, EU:C:2023:571, n.º 33 e jurisprudência referida]. Ora, um pedido destinado a que a criança seja levada para outro Estado, que seja um país terceiro, no território do qual não residiu de forma habitual antes da sua deslocação ilícita, não cumpre esta lógica.
 
-Por úlƟmo, esta interpretação ao é corroborada pelo objeƟvo do Regulamento n.º 2201/2003. Com efeito, este visa dissuadir os raptos de crianças entre Estados e, em caso de tal, obter o regresso imediato da criança ao Estado da sua residência habitual (Acórdão de 19 de setembro de 2018, C.E. e N.E., C-325/18 PPU e C-375/18 PPU, EU:C:2018:739, n.º 47).
+Por último, esta interpretação ao é corroborada pelo objetivo do Regulamento n.º 2201/2003. Com efeito, este visa dissuadir os raptos de crianças entre Estados e, em caso de tal, obter o regresso imediato da criança ao Estado da sua residência habitual (Acórdão de 19 de setembro de 2018, C.E. e N.E., C-325/18 PPU e C-375/18 PPU, EU:C:2018:739, n.º 47).
 
-Em conclusão: o pedido efetuado não pode ser considerado um pedido de regresso para efeitos do arƟgo 9.º.
+Em conclusão: o pedido efetuado não pode ser considerado um pedido de regresso para efeitos do artigo 9.º.
 
 QUESTÃO 3: ADMITA AGORA QUE O PAI EFETUA UM NOVO PEDIDO DE REGRESSO DA CRIANÇA, DESTA FEITA PARA A ALEMANHA E QUE O TRIBUNAL PORTUGUÊS, DURANTE A PENDÊNCIA DESSE PROCESSO, PRETENDE ESTABELECER UM REGIME DE VISITAS ENTRE A CRIANÇA E O PAI. PODE FAZÊ-LO?
 
-Resposta: Análise do arƟgo 27.º, n.º 2. O tribunal pode (mas não tem de) regular o contacto entre a criança e o progenitor que pede o regresso. O princípio retor é o superior interesse da criança. Trata-se de uma faculdade importante, porque:
+Resposta: Análise do artigo 27.º, n.º 2. O tribunal pode (mas não tem de) regular o contacto entre a criança e o progenitor que pede o regresso. O princípio retor é o superior interesse da criança. Trata-se de uma faculdade importante, porque:
 
-(…) a deslocação ilícita [ou retenção ilícita] de uma criança, na sequência de uma decisão unilateral de um dos seus progenitores, priva essa criança, na maior parte dos casos, da possibilidade de manter regularmente relações pessoais e contactos diretos com o outro progenitor (v., neste senƟdo, Acórdão de 1 de julho de 2010, Povse, C-211/10 PPU, EU:C:2010:400, n.º 64 e jurisprudência referida). (Ac. TT contra AK, proc. C-87/22, considerando n.º 48)
+(…) a deslocação ilícita [ou retenção ilícita] de uma criança, na sequência de uma decisão unilateral de um dos seus progenitores, priva essa criança, na maior parte dos casos, da possibilidade de manter regularmente relações pessoais e contactos diretos com o outro progenitor (v., neste sentido, Acórdão de 1 de julho de 2010, Povse, C-211/10 PPU, EU:C:2010:400, n.º 64 e jurisprudência referida). (Ac. TT contra AK, proc. C-87/22, considerando n.º 48)
 
-O estabelecimento desse contacto segue o disposto no arƟgo 15.º.
+O estabelecimento desse contacto segue o disposto no artigo 15.º.
 
 QUESTÃO 4: ADMITA AGORA QUE O TRIBUNAL PORTUGUÊS PROFERE DECISÃO DE NÃO REGRESSO DA CRIANÇA À ALEMANHA, UNICAMENTE FUNDADA NA OPOSIÇÃO DA CRIANÇA A REGRESSAR.
 
@@ -1723,15 +1723,15 @@ QUESTÃO 4: ADMITA AGORA QUE O TRIBUNAL PORTUGUÊS PROFERE DECISÃO DE NÃO REGR
 
 Resposta: não (art. 27.º, n.º 1).
 
-(ii): A decisão pode ser reverƟda pelos tribunais do Estado-Membro da residência habitual imediatamente antes da deslocação ilícita?
+(ii): A decisão pode ser revertida pelos tribunais do Estado-Membro da residência habitual imediatamente antes da deslocação ilícita?
 
 Resposta: sim (arts. 29.º, n.ºs 3, 5 e 6)
 
-(iii): Admita agora que a decisão de recusa foi fundada simultaneamente na oposição da criança e no risco grave para a mesma. A decisão pode ser reverƟda pelos tribunais do Estado-Membro da residência habitual imediatamente antes da deslocação ilícita?
+(iii): Admita agora que a decisão de recusa foi fundada simultaneamente na oposição da criança e no risco grave para a mesma. A decisão pode ser revertida pelos tribunais do Estado-Membro da residência habitual imediatamente antes da deslocação ilícita?
 
-Resposta: apesar da letra do arƟgo 29.º, n.º 1, entendo que este regime de “overruling” dos tribunais de Estados-Membros da residência habitual das crianças antes da deslocação ou retenção ilícitas se aplica também quando se uƟlizam cumulativamente os fundamentos de risco grave para criança e oposição da criança ao regresso e não apenas quando se fundamenta exclusivamente num destes dois fundamentos.
+Resposta: apesar da letra do artigo 29.º, n.º 1, entendo que este regime de “overruling” dos tribunais de Estados-Membros da residência habitual das crianças antes da deslocação ou retenção ilícitas se aplica também quando se utilizam cumulativamente os fundamentos de risco grave para criança e oposição da criança ao regresso e não apenas quando se fundamenta exclusivamente num destes dois fundamentos.
 
-Este regime só não é aplicável, na minha opinião, se a decisão de recusa se fundar também num outro moƟvo de recusa previsto na Convenção da Haia de 1980 que não seja um destes dois.
+Este regime só não é aplicável, na minha opinião, se a decisão de recusa se fundar também num outro motivo de recusa previsto na Convenção da Haia de 1980 que não seja um destes dois.
 
 ## II. Lei tutelar educativa
 
@@ -1745,21 +1745,21 @@ Casos práticos
 
 Proposta de resolução
 
-– Ação de Formação Workshop Lei Tutelar EducaƟva – 17 de março de 2023
+– Ação de Formação Workshop Lei Tutelar Educativa – 17 de março de 2023
 
 Notas prévias
 
-* Importa sublinhar que este “novo” modelo tutelar educaƟvo, com uma nova perspeƟva – que fundamenta a sua legiƟmação, os ﬁns e pressupostos da intervenção – tem implicações no processo tutelar, desde logo a sua “semelhança com o processo penal” (ponto 11, da Exposição de MoƟvos, da LTE1).
+* Importa sublinhar que este “novo” modelo tutelar educativo, com uma nova perspetiva – que fundamenta a sua legitimação, os fins e pressupostos da intervenção – tem implicações no processo tutelar, desde logo a sua “semelhança com o processo penal” (ponto 11, da Exposição de Motivos, da LTE1).
 
-“Há, todavia, que precisar os termos desta aﬁnidade” (ponto 11, da Exposição de MoƟvos, da LTE):
+“Há, todavia, que precisar os termos desta afinidade” (ponto 11, da Exposição de Motivos, da LTE):
 
-– o DPP serve de fonte – por consƟtuir um ordenamento que realiza as garanƟas da pessoa em face de pretensões de pretensões estaduais na esfera dos direitos fundamentais;
+– o DPP serve de fonte – por constituir um ordenamento que realiza as garantias da pessoa em face de pretensões de pretensões estaduais na esfera dos direitos fundamentais;
 
-– na medida em que a intervenção tutelar pode limitar os DF – ainda que com a ﬁnalidade de promover outros DF dos jovens – dota-se o processo de garanƟas que realizam o conteúdo essencial de princípios consagrados na CRP;
+– na medida em que a intervenção tutelar pode limitar os DF – ainda que com a finalidade de promover outros DF dos jovens – dota-se o processo de garantias que realizam o conteúdo essencial de princípios consagrados na CRP;
 
 – “[e]m qualquer caso, as disposições são invariavelmente modeladas por princípios ordenados em que releva o interesse do menor”.
 
-* O superior interesse do jovem (arƟgo 3.º da CDC)2 deve ser sempre elemento-chave nesta ponderação dos interesses conﬂituantes, que devem ser oƟmizados (se possível), apelando, nomeadamente, ao estado de desenvolvimento psíquico e intelectual do jovem e à salvaguarda da sua dignidade.
+* O superior interesse do jovem (artigo 3.º da CDC)2 deve ser sempre elemento-chave nesta ponderação dos interesses conflituantes, que devem ser otimizados (se possível), apelando, nomeadamente, ao estado de desenvolvimento psíquico e intelectual do jovem e à salvaguarda da sua dignidade.
 
 ∗ Professora Associada da Escola de Direito da Universidade do Minho.
 
@@ -1769,19 +1769,19 @@ Notas prévias
 
 https://gfcj.ministeriopublico.pt/sites/default/files/documentos/pdf/relatorio_cdc_setembro_2019.pdf: “17. The Committee welcomes the translation into Portuguese and the dissemination of its general comment No. 11(2013) on the right of the child to have his or her best interests taken as a primary consideration, as well as the integration of the best interests of the child into legislation on adoption, self-determination of gender identity and on custody in case of divorce. It is concerned, however, at the continued absence of legislation on and guidelines for the determination and application of the best interests of the child in justice, health care, child protection, care placement, immigration, asylum procedures and education. The Committee is moreover concerned that this lack of guidance may result in contradicting interpretations of the law and decisions by different instances”.
 
-* Ponto 13, da Exposição de MoƟvos, da LTE:
+* Ponto 13, da Exposição de Motivos, da LTE:
 
-– “… o processo perﬁlha uma orientação (…) na procura de uma eﬁcácia permanentemente ligada a três noções: a da dignidade do menor [garanƟas]; a de tempo processual [personalidade em rápida transformação] e a da intercorrência entre exigências de educação e necessidades de proteção [intercomunicabilidade entre os sistemas]”.
+– “… o processo perfilha uma orientação (…) na procura de uma eficácia permanentemente ligada a três noções: a da dignidade do menor [garantias]; a de tempo processual [personalidade em rápida transformação] e a da intercorrência entre exigências de educação e necessidades de proteção [intercomunicabilidade entre os sistemas]”.
 
-– os princípios de humanização constantes do CPP “foram reelaborados à luz da natureza e das ﬁnalidades do processo e deram lugar a regras de elevada densidade tutelar…”.
+– os princípios de humanização constantes do CPP “foram reelaborados à luz da natureza e das finalidades do processo e deram lugar a regras de elevada densidade tutelar…”.
 
-* O princípio da obtenção da verdade material, de acordo com o qual o Tribunal deve esclarecer-se autonomamente, de forma processualmente válida, no senƟdo reconhecido pelo direito processual penal, é igualmente um dos fundamentos do processo tutelar educaƟvo3. Daí que sejam aplicáveis ao processo tutelar educaƟvo as proibições de produção e de valoração da prova constantes do CPP, que no caso visam proteger a dignidade do jovem4.
+* O princípio da obtenção da verdade material, de acordo com o qual o Tribunal deve esclarecer-se autonomamente, de forma processualmente válida, no sentido reconhecido pelo direito processual penal, é igualmente um dos fundamentos do processo tutelar educativo3. Daí que sejam aplicáveis ao processo tutelar educativo as proibições de produção e de valoração da prova constantes do CPP, que no caso visam proteger a dignidade do jovem4.
 
-– As especiﬁcidades que se introduzem visam defender o interesse do jovem, num contexto em que podem pesar situações ou estados psicológicos diferentes dos que habitualmente caracterizam a fase adulta (cf. ponto 16, da Exposição de MoƟvos, da LTE).
+– As especificidades que se introduzem visam defender o interesse do jovem, num contexto em que podem pesar situações ou estados psicológicos diferentes dos que habitualmente caracterizam a fase adulta (cf. ponto 16, da Exposição de Motivos, da LTE).
 
-3 Assim, Anabela Miranda Rodrigues/António Carlos Duarte-Fonseca, Comentário da Lei Tutelar Educativa, Coimbra, Coimbra Editora, 2003, p. 170. Aliás, vale notar que a possibilidade de leitura dos autos é (agora atenuada desde a revisão de 2013 ao CPP) prevista nos arƟgos 356.º e 357.º do CPP
+3 Assim, Anabela Miranda Rodrigues/António Carlos Duarte-Fonseca, Comentário da Lei Tutelar Educativa, Coimbra, Coimbra Editora, 2003, p. 170. Aliás, vale notar que a possibilidade de leitura dos autos é (agora atenuada desde a revisão de 2013 ao CPP) prevista nos artigos 356.º e 357.º do CPP
 
-– “reforçando o facto de que no âmbito da justiça juvenil se quis, e bem, facilitar a prova dos factos para chegar àquilo que realmente interessa – a efectiva intervenção tutelar educaƟva baseada na verdade material e não na verdade possível, escudada em formalismos desprovidos de lógica percepơvel” – Júlio Barbosa e Silva, Lei Tutelar Educativa Comentada – no âmbito das principais orientações internacionais, da jurisprudência nacional e do Tribunal Europeu dos Direitos do Homem, Coimbra, Almedina, 2013, p. 354.
+– “reforçando o facto de que no âmbito da justiça juvenil se quis, e bem, facilitar a prova dos factos para chegar àquilo que realmente interessa – a efectiva intervenção tutelar educativa baseada na verdade material e não na verdade possível, escudada em formalismos desprovidos de lógica perceptível” – Júlio Barbosa e Silva, Lei Tutelar Educativa Comentada – no âmbito das principais orientações internacionais, da jurisprudência nacional e do Tribunal Europeu dos Direitos do Homem, Coimbra, Almedina, 2013, p. 354.
 
 4 Idem, pp. 170 e 133
 
@@ -1789,29 +1789,29 @@ QUESTÃO
 
 1) Em inquérito tutelar educativo será lícito o recurso aos meios de obtenção de prova consagrados no CPP, designadamente revistas, buscas e escutas telefónicas?
 
-– No ponto 16, da Exposição de MoƟvos, da LTE, estabelece-se que “Aos meios de obtenção da prova previstos no processo penal adita-se o relatório social. Esta especialidade jusƟﬁca-se pela natureza da prova – compreendendo simultaneamente o facto e a personalidade – e pela conveniência em não se dispersarem as fontes e em rodear da necessária discrição”5.
+– No ponto 16, da Exposição de Motivos, da LTE, estabelece-se que “Aos meios de obtenção da prova previstos no processo penal adita-se o relatório social. Esta especialidade justifica-se pela natureza da prova – compreendendo simultaneamente o facto e a personalidade – e pela conveniência em não se dispersarem as fontes e em rodear da necessária discrição”5.
 
-– Especiﬁcamente valem como meio de obtenção de prova a informação e o relatório social – arƟgo 71.º LTE.
+– Especificamente valem como meio de obtenção de prova a informação e o relatório social – artigo 71.º LTE.
 
-– A doutrina6 tem largamente vindo a aceitar a admissibilidade de aplicação dos meios de obtenção de prova especíﬁcos do regime processual penal no domínio do processo tutelar educaƟvo.
+– A doutrina6 tem largamente vindo a aceitar a admissibilidade de aplicação dos meios de obtenção de prova específicos do regime processual penal no domínio do processo tutelar educativo.
 
-– “Embora o processo tutelar esteja gizado no interesse do menor autor da práƟca de factos qualiﬁcados como crime, importa não esquecer que, muitas vezes, as víƟmas desses factos são também crianças, a quem serão igualmente aplicáveis as orientações internacionais e nacionais sobre a audição de crianças, designadamente as que determinam que se tenha em conta a sua idade, maturidade, necessidades, pontos de vista, fragilidades e suscepƟbilidades, garanƟndo-se que nenhum destes factores consƟtua um entrave à efecƟva parƟcipação na produção e relevo da prova que os mesmos podem facultar”7.
+– “Embora o processo tutelar esteja gizado no interesse do menor autor da prática de factos qualificados como crime, importa não esquecer que, muitas vezes, as vítimas desses factos são também crianças, a quem serão igualmente aplicáveis as orientações internacionais e nacionais sobre a audição de crianças, designadamente as que determinam que se tenha em conta a sua idade, maturidade, necessidades, pontos de vista, fragilidades e susceptibilidades, garantindo-se que nenhum destes factores constitua um entrave à efectiva participação na produção e relevo da prova que os mesmos podem facultar”7.
 
 #### CASO PRÁTICO 18
 
-Foi requerida a abertura da fase jurisdicional do processo tutelar educaƟvo contra Abel, nascido em Braga, em 3-3-2008, ﬁlho de Ana e de António, residente na Av. da Liberdade, n.º 5, em Braga, estando em causa factos subsumíveis à práƟca de um crime de importunação sexual (p.e p. pelo arƟgo 170.º, do Código Penal) e de um crime de roubo (p.e p. pelo arƟgo 210, n.º 1, do Código Penal), que, no entendimento do magistrado do Ministério Público (MP), atendendo às fortes necessidades de educação do jovem para o direito, jusƟﬁcam a aplicação da medida tutelar educaƟva de prestação de tarefas a favor da comunidade, pelo período de 40 horas (arƟgos 4.º, n.º1, alínea d), 6.º, 7.º, 12.º, n.º1, da LTE).
+Foi requerida a abertura da fase jurisdicional do processo tutelar educativo contra Abel, nascido em Braga, em 3-3-2008, filho de Ana e de António, residente na Av. da Liberdade, n.º 5, em Braga, estando em causa factos subsumíveis à prática de um crime de importunação sexual (p.e p. pelo artigo 170.º, do Código Penal) e de um crime de roubo (p.e p. pelo artigo 210, n.º 1, do Código Penal), que, no entendimento do magistrado do Ministério Público (MP), atendendo às fortes necessidades de educação do jovem para o direito, justificam a aplicação da medida tutelar educativa de prestação de tarefas a favor da comunidade, pelo período de 40 horas (artigos 4.º, n.º1, alínea d), 6.º, 7.º, 12.º, n.º1, da LTE).
 
 5 A exigência de prova do facto para desencadear a intervenção tutelar educativa constituiu uma novidade em relação ao direito anterior, na medida em que o facto praticado pelo menor não tinha qualquer repercussão na medida aplicada, relevando apenas como índice ou sintoma de inadaptação.
 
-6 Cf. Miranda Rodrigues/Duarte Fonseca, Comentário da Lei Tutelar…. cit., p. 171: “Aos meios de obtenção de prova previstos no processo penal aditam-se (...)”; também Barbosa e Silva, Lei Tutelar Educativa comentada…cit., pp. 225-226, ao afirmar que “São, assim, meios de obtenção de prova no âmbito da LTE, uns por si, outros por força do disposto no artigo 128.º da LTE (...)” e António José Fialho, “Anotação ao arƟgo 65.º”, in Cristina Dias, Margarida Santos, Rui do Carmo, Lei Tutelar Educativa Anotada, Coimbra, Almedina, 2018, p. 243.
+6 Cf. Miranda Rodrigues/Duarte Fonseca, Comentário da Lei Tutelar…. cit., p. 171: “Aos meios de obtenção de prova previstos no processo penal aditam-se (...)”; também Barbosa e Silva, Lei Tutelar Educativa comentada…cit., pp. 225-226, ao afirmar que “São, assim, meios de obtenção de prova no âmbito da LTE, uns por si, outros por força do disposto no artigo 128.º da LTE (...)” e António José Fialho, “Anotação ao artigo 65.º”, in Cristina Dias, Margarida Santos, Rui do Carmo, Lei Tutelar Educativa Anotada, Coimbra, Almedina, 2018, p. 243.
 
 7 Idem, ibidem.
 
 8 Inspirado em caso verídico, aproveitando-se aqui a oportunidade para agradecer à Sra. Dra. Chandra Gracias o ter remetido a Sentença que proferiu.
 
-Foi declarada aberta a fase jurisdicional e designada data para a realização da Audiência Prévia (arƟgo 93.º, n.º 1, al. c), da LTE).
+Foi declarada aberta a fase jurisdicional e designada data para a realização da Audiência Prévia (artigo 93.º, n.º 1, al. c), da LTE).
 
-Nesta sede, não tendo havido aceitação da medida tutelar educaƟva por parte do jovem, procedeu-se à produção da prova indicada pelo Ministério Público (cf. art. 104.º, n.º 5, da LTE). DiscuƟda a causa, resultaram provados os seguintes factos:
+Nesta sede, não tendo havido aceitação da medida tutelar educativa por parte do jovem, procedeu-se à produção da prova indicada pelo Ministério Público (cf. art. 104.º, n.º 5, da LTE). Discutida a causa, resultaram provados os seguintes factos:
 
 1.
 
@@ -1855,7 +1855,7 @@ Ao surpreender e ao constranger Bianca por forma a conseguir tocar as suas zonas
 
 1. Imagine que em audiência o juiz determinou que ficasse a constar em ata que o tribunal considerava que os factos descritos no requerimento de abertura da fase jurisdicional eram constitutivos não de um crime de importunação sexual, mas de coação sexual (artigo 163.º, n.ºs 1 e 3, do CP). De seguida perguntou ao jovem Abel se queria acrescentar alguma coisa, tendo o mesmo respondido que não. O defensor nada requereu, invocando, depois, em recurso, a nulidade da decisão, com fundamento na violação do princípio do contraditório.
 
-– AQJ – foi comunicada ao jovem (arƟgo 358.º, n.ºs 1 e 3, do CPP, ex vi arƟgo 128.º LTE)9. O jovem/defensor poderia ter requerido prazo para preparação da defesa, mas não o fez, não havendo qualquer nulidade ou irregularidade da decisão.
+– AQJ – foi comunicada ao jovem (artigo 358.º, n.ºs 1 e 3, do CPP, ex vi artigo 128.º LTE)9. O jovem/defensor poderia ter requerido prazo para preparação da defesa, mas não o fez, não havendo qualquer nulidade ou irregularidade da decisão.
 
 2. Imagine, em hipótese autónoma, que o Ministério Publico requer a abertura da fase jurisdicional com base em indícios suficientes da prática de factos constitutivos de um crime de coação sexual (artigo 163.º, n.ºs 1 e 3, do CP). No entanto, em audiência
 
@@ -1877,9 +1877,9 @@ Esta alteração não deve ser tomada em conta pelo Tribunal para o efeito de pr
 
 É nula a decisão que dê como provados factos que constituam alteração substancial dos factos descritos no requerimento para abertura da fase jurisdicional – al. b) do artigo 111.º da LTE.
 
-9 Devemos socorrermo-nos da deﬁnição de “alteração substancial dos factos”, com as devidas adaptações
+9 Devemos socorrermo-nos da definição de “alteração substancial dos factos”, com as devidas adaptações
 
-– Assim Miranda Rodrigues/Duarte-Fonseca, Comentário da Lei Tutelar … cit., p. 227: “São razões substanciais, que se prendem com a própria natureza da intervenção tutelar, aliadas a razões processuais, que o jusƟﬁcam. Assim, por um lado (…) o facto assume no processo tutelar um relevo que decorre da circunstância de ser um pressuposto da aplicação de uma medida e que significa que nenhuma medida será aplicada se não se provar a existência de facto ou se de facto não houver indícios suficientes (…). Por outro lado, intervêm aqui exigências de respeito pelos direitos do menor, designadamente, o direito de não lhe ser aplicada uma medida em função de factos que representam uma alteração substancial dos factos descritos no requerimento para abertura da fase jurisdicional e relaƟvamente aos quais não pode exercer o seu direito de defesa”.
+– Assim Miranda Rodrigues/Duarte-Fonseca, Comentário da Lei Tutelar … cit., p. 227: “São razões substanciais, que se prendem com a própria natureza da intervenção tutelar, aliadas a razões processuais, que o justificam. Assim, por um lado (…) o facto assume no processo tutelar um relevo que decorre da circunstância de ser um pressuposto da aplicação de uma medida e que significa que nenhuma medida será aplicada se não se provar a existência de facto ou se de facto não houver indícios suficientes (…). Por outro lado, intervêm aqui exigências de respeito pelos direitos do menor, designadamente, o direito de não lhe ser aplicada uma medida em função de factos que representam uma alteração substancial dos factos descritos no requerimento para abertura da fase jurisdicional e relativamente aos quais não pode exercer o seu direito de defesa”.
 
 10 Remete-se para a nota de rodapé anterior.
 
@@ -1897,7 +1897,7 @@ Refira-se ao valor probatório a atribuir em audiência ao reconhecimento efetua
 
 12 Idem, p. 367.
 
-– Ao longo de todo o procedimento, os órgãos de polícia criminal deverão respeitar os direitos pessoais e a dignidade do jovem/adolescente, tendo em especial atenção a sua idade e maturidade, vulnerabilidade, bem como outras necessidades especiais daqueles que possam estar com alguma incapacidade İsica ou mental ou tenham dificuldade de comunicação (Diretriz 27 das Guidelines do Comité de Ministros do Conselho da Europa para uma Justiça Amiga das Crianças de 17 de novembro de 2010).
+– Ao longo de todo o procedimento, os órgãos de polícia criminal deverão respeitar os direitos pessoais e a dignidade do jovem/adolescente, tendo em especial atenção a sua idade e maturidade, vulnerabilidade, bem como outras necessidades especiais daqueles que possam estar com alguma incapacidade física ou mental ou tenham dificuldade de comunicação (Diretriz 27 das Guidelines do Comité de Ministros do Conselho da Europa para uma Justiça Amiga das Crianças de 17 de novembro de 2010).
 
 – É necessário ter em conta que a vítima também é adolescente/jovem, pelo que se aplicam igualmente as orientações internacionais/nacionais (“duplicidade de proteção”13).
 
@@ -1919,7 +1919,7 @@ no valor de 300€, de um MP3 de marca Sony no valor de 100€, de uns óculos r
 
 13 Barbosa e Silva, Lei Tutelar Educativa …cit., p. 227.
 
-14 Cf. Acórdão do TRL de 30.06.2011, Proc. n.º 4752/10.1T3AMD-A.L1-9, disponível em htp://www.dgsi.pt/jtrl.nsf/33182fc732316039802565fa00497eec/3f7dd1ddf61043f3802578d200560 73d? OpenDocument. Em senƟdo diferente ver a posição de Júlio Barbosa e Silva, Lei Tutelar Educativa … cit., pp. 226 e ss.; 236/237; 354 e ss.
+14 Cf. Acórdão do TRL de 30.06.2011, Proc. n.º 4752/10.1T3AMD-A.L1-9, disponível em htp://www.dgsi.pt/jtrl.nsf/33182fc732316039802565fa00497eec/3f7dd1ddf61043f3802578d200560 73d? OpenDocument. Em sentido diferente ver a posição de Júlio Barbosa e Silva, Lei Tutelar Educativa … cit., pp. 226 e ss.; 236/237; 354 e ss.
 
 Pode o Tribunal considerar a validade desta apreensão, uma vez que a busca domiciliária efetuada ao quarto de dormir do jovem pelo agente da PSP apenas obteve o consentimento da sua mãe, mas não do jovem, que não se encontrava em casa? Para o efeito, foi elaborado um documento de autorização de busca domiciliária assinado pela mãe de Abel. Imagine que o defensor do jovem arguiu a nulidade da busca efetuada ao quarto deste.
 
@@ -1939,9 +1939,9 @@ Como se sintetiza no Acórdão do TC n.º 101/2022, chamando à colação o teor
 
 Vale a pena tomar de empréstimo as palavras de Costa Andrade, nas quais a jurisprudência citada se tem igualmente socorrido, nomeadamente a propósito dos eventuais d i stanciamentos do direito penal e do processo penal, “dada a consabida e indispensável separação das águas entre o ilícito penal substantivo17 e o ilícito processual penal18”.
 
-17 Costa Andrade, “Anotação ao Art. 378.º”, in Figueiredo Dias (dir.), Comentário Conimbricense do Código Penal, Parte Especial, Tomo III, Artigos 308.º a 386.º, Coimbra, Coimbra Editora, 2001, p. 743. Assim, por ex., no plano substantivo, “pertencendo” a casa a várias pessoas, o “consenƟmento” de qualquer dos “Ɵtulares” (e.g. consenƟmento da filha) é “bastante para – só por si e mesmo com a oposição do outro ou outros – legiƟmar a entrada de terceiro” (p. 1016), sendo que para este “acordo” ser eﬁcaz tem de conﬁgurar uma manifestação de liberdade e de autonomia em relação à habitação, por parte do portador do bem jurídico (p. 1021 e, desenvolvidamente, Costa Andrade, Consentimento e Acordo em Direito Penal, Coimbra, Coimbra Editora, 2004 (reimpressão), nomeadamente pp. 507 e ss. Ou seja, nestes casos, com o “consenƟmento” – rectius acordo – a conduta não seria ơpica (assim também, por exemplo, Figueiredo Dias (com a colaboração de Maria João Antunes et al.), Direito Penal, Parte Geral, Tomo I, Questões Fundamentais, A doutrina Geral do Crime, 3.ª Edição, 2019, especialmente pp. 556 e ss. Miguez Garcia, Castela Rio, “Anotação ao art. 38.º”, Código Penal, Parte geral e especial, com notas e comentários, Coimbra, Almedina, 2015, 2.ª Edição, p. 289, entre outros. Em síntese, atendendo à natureza do bem jurídico protegido, por ex., nos arƟgos 190.º, 191.º e 378.º, “a concordância do portador concreto assume a natureza, o estatuto dogmáƟco e o regime jurídico do acordo- que-exclui-a-tipicidade. Não vale, por isso, como um consenƟmento jusƟﬁcante” (destacado do Autor) – Costa Andrade, “Anotação ao Art. 378.º”, in Figueiredo Dias (dir.), Comentário Conimbricense … cit., p. 742. Ora, para o que nos importaria, pensando, por exemplo na hipótese contemplada no art. 190.º do CP, sempre se diria que o acordo não está sujeito à cláusula dos “bons costumes” (ver já Costa Andrade, Consentimento e acordo… cit., pp. 556 e ss.), nem ao limite da idade do portador do bem jurídico (assim, Pinto de Albuquerque, “Anotação ao art. 38.º”, Comentário do Código Penal à luz da Constituição da República e da Convenção Europeia dos Direitos do Homem, 4.ª Edição atualizada, Universidade Católica Editora, 2021, p. 289). Como sublinha Costa Andrade, a propósito do art. 156.º CP, também aqui, ainda em sede de tipo, se colocam as questões relaƟvas ao tratamento de menores. Ora, na esteira do Autor, estando em causa menores ou incapazes sem o discernimento bastante para compreender o sentido e alcance da intervenção, cabe normalmente ao representante legal o consenƟmento. Nas situações em que o representante legal recusa o consenƟmento para um ato necessário, deve entender-se que ao proceder como deve (intervindo), não incorre o médico em responsabilidade criminal a ơtulo de tratamento arbitrário. Numa palavra, “[a] liberdade de dispor do corpo ou da própria vida é uma liberdade pessoal, que não se comunica ao representante legal, nem é violada só por se contrariar a vontade do representante” – cf. Costa Andrade, “Anotação ao Art. 156.º”, in Figueiredo Dias (dir.), Comentário Conimbricense … cit., em especial p. 603 (destacado do Autor). No mesmo senƟdo vão os artigos 1918.º do Código Civil, 91.º (Procedimentos urgentes na ausência de consentimento) e 92.º (Procedimentos judiciais urgentes) da Lei de Proteção de Crianças e Jovens em Perigo.
+17 Costa Andrade, “Anotação ao Art. 378.º”, in Figueiredo Dias (dir.), Comentário Conimbricense do Código Penal, Parte Especial, Tomo III, Artigos 308.º a 386.º, Coimbra, Coimbra Editora, 2001, p. 743. Assim, por ex., no plano substantivo, “pertencendo” a casa a várias pessoas, o “consentimento” de qualquer dos “titulares” (e.g. consentimento da filha) é “bastante para – só por si e mesmo com a oposição do outro ou outros – legitimar a entrada de terceiro” (p. 1016), sendo que para este “acordo” ser eficaz tem de configurar uma manifestação de liberdade e de autonomia em relação à habitação, por parte do portador do bem jurídico (p. 1021 e, desenvolvidamente, Costa Andrade, Consentimento e Acordo em Direito Penal, Coimbra, Coimbra Editora, 2004 (reimpressão), nomeadamente pp. 507 e ss. Ou seja, nestes casos, com o “consentimento” – rectius acordo – a conduta não seria típica (assim também, por exemplo, Figueiredo Dias (com a colaboração de Maria João Antunes et al.), Direito Penal, Parte Geral, Tomo I, Questões Fundamentais, A doutrina Geral do Crime, 3.ª Edição, 2019, especialmente pp. 556 e ss. Miguez Garcia, Castela Rio, “Anotação ao art. 38.º”, Código Penal, Parte geral e especial, com notas e comentários, Coimbra, Almedina, 2015, 2.ª Edição, p. 289, entre outros. Em síntese, atendendo à natureza do bem jurídico protegido, por ex., nos artigos 190.º, 191.º e 378.º, “a concordância do portador concreto assume a natureza, o estatuto dogmático e o regime jurídico do acordo- que-exclui-a-tipicidade. Não vale, por isso, como um consentimento justificante” (destacado do Autor) – Costa Andrade, “Anotação ao Art. 378.º”, in Figueiredo Dias (dir.), Comentário Conimbricense … cit., p. 742. Ora, para o que nos importaria, pensando, por exemplo na hipótese contemplada no art. 190.º do CP, sempre se diria que o acordo não está sujeito à cláusula dos “bons costumes” (ver já Costa Andrade, Consentimento e acordo… cit., pp. 556 e ss.), nem ao limite da idade do portador do bem jurídico (assim, Pinto de Albuquerque, “Anotação ao art. 38.º”, Comentário do Código Penal à luz da Constituição da República e da Convenção Europeia dos Direitos do Homem, 4.ª Edição atualizada, Universidade Católica Editora, 2021, p. 289). Como sublinha Costa Andrade, a propósito do art. 156.º CP, também aqui, ainda em sede de tipo, se colocam as questões relativas ao tratamento de menores. Ora, na esteira do Autor, estando em causa menores ou incapazes sem o discernimento bastante para compreender o sentido e alcance da intervenção, cabe normalmente ao representante legal o consentimento. Nas situações em que o representante legal recusa o consentimento para um ato necessário, deve entender-se que ao proceder como deve (intervindo), não incorre o médico em responsabilidade criminal a título de tratamento arbitrário. Numa palavra, “[a] liberdade de dispor do corpo ou da própria vida é uma liberdade pessoal, que não se comunica ao representante legal, nem é violada só por se contrariar a vontade do representante” – cf. Costa Andrade, “Anotação ao Art. 156.º”, in Figueiredo Dias (dir.), Comentário Conimbricense … cit., em especial p. 603 (destacado do Autor). No mesmo sentido vão os artigos 1918.º do Código Civil, 91.º (Procedimentos urgentes na ausência de consentimento) e 92.º (Procedimentos judiciais urgentes) da Lei de Proteção de Crianças e Jovens em Perigo.
 
-Nesta medida, apenas nas situações em que a concordância assuma a forma de consentimento (que exclui a ilicitude) e não de acordo, é que faz senƟdo equacionar-se a aplicação do artigo 38.º do CP (Consentimento). Na verdade, para que o consenƟmento previsto no arƟgo 38.º do CP seja válido, é necessário que quem consente seja capaz, não podendo ser esta capacidade avaliada à luz das normas civis (ver Figueiredo Dias, com a colaboração de Maria João Antunes et al., Direito Penal, Parte … cit., 2019, p. 568 e Autores citados). Neste senƟdo, à luz do artigo 38.º, n.º 3, do CP, “O consentimento só é eficaz se for prestado por quem Ɵver mais de 16 anos e possuir o discernimento necessário para avaliar o seu sentido e alcance no momento em que o presta”. É certo que a idade relevante para a prestação do consenƟmento foi elevada dos 14 anos para os 16 anos, com a revisão do CP operada pela Lei n.º 59/2007, de 4 de setembro, mas não nos parece que este critério seja, por si só, suﬁciente, para afastar a possibilidade de ser equacionada a necessidade de “consenƟmento” do menor. Concordamos com Figueiredo Dias quando refere que nas situações em que o jovem tem 14 ou 15 e possui o discernimento necessário para avaliar o senƟdo e alcance do consentimento “… não se vê razão (…) para lhe ser negada, de plano, capacidade para dispor sobre os seus próprios interesses livremente disponíveis”, sendo que, como sublinha o Autor “Em caso de incapacidade penal, o princípio será o de que a legitimidade para consenƟr em nome do incapaz cabe ao seu representante legal. Mas este princípio não se afirmará sem limitações ou exceções, nomeadamente em matéria de ofensas corporais graves, e, de forma parƟcular, de intervenções médico-cirúrgicas fora dos pressupostos do art.
+Nesta medida, apenas nas situações em que a concordância assuma a forma de consentimento (que exclui a ilicitude) e não de acordo, é que faz sentido equacionar-se a aplicação do artigo 38.º do CP (Consentimento). Na verdade, para que o consentimento previsto no artigo 38.º do CP seja válido, é necessário que quem consente seja capaz, não podendo ser esta capacidade avaliada à luz das normas civis (ver Figueiredo Dias, com a colaboração de Maria João Antunes et al., Direito Penal, Parte … cit., 2019, p. 568 e Autores citados). Neste sentido, à luz do artigo 38.º, n.º 3, do CP, “O consentimento só é eficaz se for prestado por quem tiver mais de 16 anos e possuir o discernimento necessário para avaliar o seu sentido e alcance no momento em que o presta”. É certo que a idade relevante para a prestação do consentimento foi elevada dos 14 anos para os 16 anos, com a revisão do CP operada pela Lei n.º 59/2007, de 4 de setembro, mas não nos parece que este critério seja, por si só, suficiente, para afastar a possibilidade de ser equacionada a necessidade de “consentimento” do menor. Concordamos com Figueiredo Dias quando refere que nas situações em que o jovem tem 14 ou 15 e possui o discernimento necessário para avaliar o sentido e alcance do consentimento “… não se vê razão (…) para lhe ser negada, de plano, capacidade para dispor sobre os seus próprios interesses livremente disponíveis”, sendo que, como sublinha o Autor “Em caso de incapacidade penal, o princípio será o de que a legitimidade para consentir em nome do incapaz cabe ao seu representante legal. Mas este princípio não se afirmará sem limitações ou exceções, nomeadamente em matéria de ofensas corporais graves, e, de forma particular, de intervenções médico-cirúrgicas fora dos pressupostos do art.
 
 Nas palavras do Autor, “[t]ambém a atipicidade duma conduta ou a sua justificação estão longe de se projetar invariável e necessariamente sobre o processo penal, determinando, sem mais, a admissibilidade do correspondente meio de prova”19.
 
@@ -1953,9 +1953,9 @@ A matéria da “menoridade” e decisão em representação é matéria difíci
 
 Nesta medida, não havendo norma específica na LTE, sempre se dirá, numa visão de conjunto da própria intervenção tutelar educativa, vertida na LTE, que apesar de a legitimidade para
 
-150.º” (p. 568). Este arƟgo 38.º do CP não releva para a resolução do nosso caso (referente a matérias processuais), mas permite-nos compreender a fragmentaridade com que as matérias da incapacidade são tratadas (ou não tratadas), quer em termos penais, quer processuais (quer, ainda, no contexto da intervenção tutelar educaƟva).
+150.º” (p. 568). Este artigo 38.º do CP não releva para a resolução do nosso caso (referente a matérias processuais), mas permite-nos compreender a fragmentaridade com que as matérias da incapacidade são tratadas (ou não tratadas), quer em termos penais, quer processuais (quer, ainda, no contexto da intervenção tutelar educativa).
 
-18 Quanto, por exemplo, à intromissão das instâncias formais de controlo, as mesmas só serão legíƟmas se cumpridos os pressupostos (reserva de lei, reserva de juiz, proporcionalidade, subsidiariedade, …), sob pena de as intromissões serem ilegíƟmas e inadmissíveis de um ponto de vista processual (p. 1018). Neste caso, a propósito da conduta criminal, a entrada na habitação regulada no arƟgo 177.º do CPP consƟtuiria uma forma especíﬁca de justificação e não de causa de exclusão da Ɵpicidade (Costa Andrade, “Anotação ao Art. 378.º”, in Figueiredo Dias (dir.), Comentário Conimbricense do … cit., p. 745.
+18 Quanto, por exemplo, à intromissão das instâncias formais de controlo, as mesmas só serão legítimas se cumpridos os pressupostos (reserva de lei, reserva de juiz, proporcionalidade, subsidiariedade, …), sob pena de as intromissões serem ilegítimas e inadmissíveis de um ponto de vista processual (p. 1018). Neste caso, a propósito da conduta criminal, a entrada na habitação regulada no artigo 177.º do CPP constituiria uma forma específica de justificação e não de causa de exclusão da tipicidade (Costa Andrade, “Anotação ao Art. 378.º”, in Figueiredo Dias (dir.), Comentário Conimbricense do … cit., p. 745.
 
 19 Costa Andrade, Sobre as Proibições de Prova em Processo Penal, Coimbra, 2.ª edição, Gestlegal, 2022, p. 50.
 
@@ -1981,9 +1981,9 @@ De resto, é certo que a audição (em sentido estrito), em termos de direito vi
 
 25 Cf. Miranda Rodrigues/Duarte-Fonseca, Comentário da Lei … cit., p. 141.
 
-26 Cf. art. 12.º e o Comentário Geral n.º 12 (2009) ao artigo 12.º da Convenção sobre os Direitos das Crianças da ONU, sobre “O Direito das Crianças a Serem Ouvidas”. Na esteira deste comentário, “57. Em processos penais, o direito da criança a exprimir livremente a sua opinião em todas as questões que lhe respeitem deve ser totalmente respeitado e observado escrupulosamente em todas as fases do processo de justiça de menores. 58. O arƟgo 12.º, número 2, da Convenção implica que uma criança suspeita, acusada ou reconhecida como tendo infringido o direito penal goza do direito a ser ouvida. Este direito deve ser totalmente respeitado em todas as fases do processo judicial, desde a fase de instrução
+26 Cf. art. 12.º e o Comentário Geral n.º 12 (2009) ao artigo 12.º da Convenção sobre os Direitos das Crianças da ONU, sobre “O Direito das Crianças a Serem Ouvidas”. Na esteira deste comentário, “57. Em processos penais, o direito da criança a exprimir livremente a sua opinião em todas as questões que lhe respeitem deve ser totalmente respeitado e observado escrupulosamente em todas as fases do processo de justiça de menores. 58. O artigo 12.º, número 2, da Convenção implica que uma criança suspeita, acusada ou reconhecida como tendo infringido o direito penal goza do direito a ser ouvida. Este direito deve ser totalmente respeitado em todas as fases do processo judicial, desde a fase de instrução
 
-Noutras palavras, a consideração de sujeitos de direito em desenvolvimento reclama que se renove a reﬂexão em torno da incapacidade por menoridade.
+Noutras palavras, a consideração de sujeitos de direito em desenvolvimento reclama que se renove a reflexão em torno da incapacidade por menoridade.
 
 – Cumpre ainda sublinhar que deve colher-se o entendimento de que está em causa a presença obrigatória de defensor28 (artigos 46.º e 46.º-A da LTE, em linha com o disposto no artigo 64.º, n.º 1, al d), do CPP)29.
 
@@ -1991,9 +1991,9 @@ Noutras palavras, a consideração de sujeitos de direito em desenvolvimento rec
 
 – Na falta de “adesão”/ oposição do jovem, deve equacionar-se se a autorização é (in)eficaz e a busca realizada pelo órgão de policial criminal (i)legal e, consequentemente, um meio proibido de prova, não podendo ser utilizada a obtida através dela, nos termos do disposto nos artigos 125.º e 126.º, n.º 3, do CPP (ex vi artigo 128.º da LTE).
 
-em que a criança goza do direito de manter silêncio, até ao direito a ser ouvida pela polícia, pelo delegado do ministério público e pelo juiz de instrução. Também se aplica na de conclusão do processo judicial e de decisão ﬁnal, bem como durante a aplicação das medidas impostas” (destacado nosso). 27 Barbosa e Silva, Lei Tutelar Educativa … cit., p. 165. O Autor dá o exemplo dos exames e perícias, referindo que, por exemplo, no contexto da reconstituição do facto seria necessário que a diligência fosse presidida por magistrados (pp. 165 e 166).
+em que a criança goza do direito de manter silêncio, até ao direito a ser ouvida pela polícia, pelo delegado do ministério público e pelo juiz de instrução. Também se aplica na de conclusão do processo judicial e de decisão final, bem como durante a aplicação das medidas impostas” (destacado nosso). 27 Barbosa e Silva, Lei Tutelar Educativa … cit., p. 165. O Autor dá o exemplo dos exames e perícias, referindo que, por exemplo, no contexto da reconstituição do facto seria necessário que a diligência fosse presidida por magistrados (pp. 165 e 166).
 
-28 Assim Conde Correia, “Anotação ao art. 174.º do CPP”, in Comentário Judiciário do Código de Processo penal, Tomo II, ArƟgos 124.º a 190.º, 3.ª Edição, Coimbra, Almedina, 2021, p. 595, a propósito das situações em que o visado é menor de 21 anos (artigo 64.º, n.º 1, al d), do CPP). Na esteira do Autor, “o visado não tem autonomia suficiente parta poder consenƟr validamente”. Ver, neste senƟdo, Acórdão do TRL de 14-1-2016. De acordo com este aresto, “Trata-se de casos de parƟcular vulnerabilidade do arguido em que o legislador entendeu que se impunha, por uma questão de equilíbrio no processo, a obrigatoriedade de assistência por defensor. No presente caso, sendo o arguido menor de 21 anos impunha-se que o consenƟmento para a realização da busca domiciliária fosse dado na presença de defensor. A ausência de defensor – constituído ou nomeado – nos casos em que a assistência é obrigatória, consƟtui nulidade insanável, nos termos do disposto na al. c), do art. 119.º, do CPP”.
+28 Assim Conde Correia, “Anotação ao art. 174.º do CPP”, in Comentário Judiciário do Código de Processo penal, Tomo II, Artigos 124.º a 190.º, 3.ª Edição, Coimbra, Almedina, 2021, p. 595, a propósito das situações em que o visado é menor de 21 anos (artigo 64.º, n.º 1, al d), do CPP). Na esteira do Autor, “o visado não tem autonomia suficiente parta poder consentir validamente”. Ver, neste sentido, Acórdão do TRL de 14-1-2016. De acordo com este aresto, “Trata-se de casos de particular vulnerabilidade do arguido em que o legislador entendeu que se impunha, por uma questão de equilíbrio no processo, a obrigatoriedade de assistência por defensor. No presente caso, sendo o arguido menor de 21 anos impunha-se que o consentimento para a realização da busca domiciliária fosse dado na presença de defensor. A ausência de defensor – constituído ou nomeado – nos casos em que a assistência é obrigatória, constitui nulidade insanável, nos termos do disposto na al. c), do art. 119.º, do CPP”.
 
 29 Ainda que que não deva considerar-se obrigatória a presença do defensor “em qualquer ato processual do processo tutelar”, como já aludimos noutro escrito. Assim ver as nossas anotações em “Anotação ao artigo 46.º da Lei Tutelar Educativa Anotada”, in Cristina Dias, Margarida Santos, Rui do Carmo (coord.), Lei Tutelar Educativa … cit., e “Anotação ao artigo 46.º-A da Lei Tutelar Educativa Anotada”, in Cristina Dias, Margarida Santos, Rui do Carmo (coord.), Lei Tutelar Educativa Anotada, … cit.
 
@@ -2031,7 +2031,7 @@ E na LTE?
 
 Margarida Santos∗
 
-– Ação de Formação Workshop Lei Tutelar EducaƟva – 9 de abril de 2024
+– Ação de Formação Workshop Lei Tutelar Educativa – 9 de abril de 2024
 
 Apresentação Power Point
 
@@ -5767,41 +5767,41 @@ cúmulo jurídico, mas com a inserção de
 
 regras específicas
 
-– Ação de Formação Workshop Lei Tutelar EducaƟva – 9 de abril de 2024
+– Ação de Formação Workshop Lei Tutelar Educativa – 9 de abril de 2024
 
 CASOS PRÁTICOS
 
-I. Por decisão datada de 04.01.2023, proferida nos autos de Processo Tutelar EducaƟvo, que correu termos no Juízo de Família e Menores de Almada, foi aplicada a favor do jovem António, nascido a 24.12.2007, a medida tutelar educaƟva de acompanhamento educaƟvo, por um período de treze meses, na sequência da práƟca pelo mesmo de factos qualiﬁcados pela lei penal como crime de ofensa à integridade İsica, p. e p. pelo art. 143.º n.º 1 e crime de recetação, p. e p. pelo art. 231.º n.º 1, ambos do Código Penal.
+I. Por decisão datada de 04.01.2023, proferida nos autos de Processo Tutelar Educativo, que correu termos no Juízo de Família e Menores de Almada, foi aplicada a favor do jovem António, nascido a 24.12.2007, a medida tutelar educativa de acompanhamento educativo, por um período de treze meses, na sequência da prática pelo mesmo de factos qualificados pela lei penal como crime de ofensa à integridade física, p. e p. pelo art. 143.º n.º 1 e crime de recetação, p. e p. pelo art. 231.º n.º 1, ambos do Código Penal.
 
-Do Projeto EducaƟvo Pessoal (PEP), cuja decisão de homologação transitou em julgado a 4 de março de 2023, constava, entre outras, a obrigação de cumprir com os seus deveres escolares, designadamente de frequentar as aulas com assiduidade e pontualidade na Escola Secundária Emídio Navarro, onde se encontra matriculado no 9.º ano de escolaridade, e de tratar com urbanidade e respeito os pares, professores e restante comunidade escolar.
+Do Projeto Educativo Pessoal (PEP), cuja decisão de homologação transitou em julgado a 4 de março de 2023, constava, entre outras, a obrigação de cumprir com os seus deveres escolares, designadamente de frequentar as aulas com assiduidade e pontualidade na Escola Secundária Emídio Navarro, onde se encontra matriculado no 9.º ano de escolaridade, e de tratar com urbanidade e respeito os pares, professores e restante comunidade escolar.
 
-A 04/07/2023 a DGRSP remeteu aos autos o relatório de acompanhamento de execução de medida, do qual consta que o jovem tem Ɵdo uma assiduidade escolar muito irregular, com aproveitamento posiƟvo apenas a Educação Física e Inglês, tendo sido já alvo de um processo disciplinar, com suspensão das aƟvidades leƟvas, durante cinco dias, em virtude de se ter envolvido em agressões com outros colegas. Mais se refere que o António tem revelado apetência pela fotograﬁa, sendo frequente vê-lo a parƟcipar, voluntariamente, nas aƟvidades desenvolvidas pela escola no âmbito dos percursos curriculares alternaƟvos, por ela ministrados, no caso concreto no âmbito do CEF desta área (Curso de Educação e Formação de Fotograﬁa).
+A 04/07/2023 a DGRSP remeteu aos autos o relatório de acompanhamento de execução de medida, do qual consta que o jovem tem tido uma assiduidade escolar muito irregular, com aproveitamento positivo apenas a Educação Física e Inglês, tendo sido já alvo de um processo disciplinar, com suspensão das atividades letivas, durante cinco dias, em virtude de se ter envolvido em agressões com outros colegas. Mais se refere que o António tem revelado apetência pela fotografia, sendo frequente vê-lo a participar, voluntariamente, nas atividades desenvolvidas pela escola no âmbito dos percursos curriculares alternativos, por ela ministrados, no caso concreto no âmbito do CEF desta área (Curso de Educação e Formação de Fotografia).
 
 O António foi sujeito a advertência solene em 04/09/2023.
 
-A 04.11.2023 a DGRSP juntou aos autos nova informação dando conta de que, após a advertência solene, o jovem conƟnuou a não aderir à intervenção por parte daqueles serviços, tendo até agravado o seu comportamento uma vez que não vai à escola desde o início do ano leƟvo (não tendo transitado de ano) e gere o seu quoƟdiano sem qualquer ocupação e de forma autónoma e disfuncional.
+A 04.11.2023 a DGRSP juntou aos autos nova informação dando conta de que, após a advertência solene, o jovem continuou a não aderir à intervenção por parte daqueles serviços, tendo até agravado o seu comportamento uma vez que não vai à escola desde o início do ano letivo (não tendo transitado de ano) e gere o seu quotidiano sem qualquer ocupação e de forma autónoma e disfuncional.
 
-Nesta sequência, a DGRSP propõe a subsƟtuição da medida de acompanhamento educaƟvo pela medida de internamento em Centro EducaƟvo.
+Nesta sequência, a DGRSP propõe a substituição da medida de acompanhamento educativo pela medida de internamento em Centro Educativo.
 
 #### 1. Analise juridicamente o caso, comente a proposta feita pela DGRSP e diga qual a solução que preconiza para o mesmo.
 
-#### 2. Para efeitos de revisão da medida teria que proceder à audição do jovem ou bastaria noƟﬁcá-lo para se pronunciar?
+#### 2. Para efeitos de revisão da medida teria que proceder à audição do jovem ou bastaria notificá-lo para se pronunciar?
 
-II. Suponha agora que os factos que deram origem à aplicação da medida tutelar se integravam no crime de violência domésƟca, p. e p. pelo art. 152.º, n.º 1, a. b) do CP (ao qual cabe a moldura penal abstrata de pena de prisão de 1 a 5 anos).
+II. Suponha agora que os factos que deram origem à aplicação da medida tutelar se integravam no crime de violência doméstica, p. e p. pelo art. 152.º, n.º 1, a. b) do CP (ao qual cabe a moldura penal abstrata de pena de prisão de 1 a 5 anos).
 
-#### 1. A proposta da DGRSP de subsƟtuição da medida de acompanhamento educaƟvo pela medida de internamento seria viável?
+#### 1. A proposta da DGRSP de substituição da medida de acompanhamento educativo pela medida de internamento seria viável?
 
-Na aﬁrmaƟva, qual o prazo de duração da medida?
+Na afirmativa, qual o prazo de duração da medida?
 
-III. Entretanto, no âmbito de inquérito tutelar educaƟvo que corria termos, foi requerida a abertura da fase jurisdicional, imputando-se a António a práƟca de factos qualiﬁcados como crime de roubo, p. e p. pelo art. 210.º, n.º 1 CP (pena de prisão de 1 a 8 anos).
+III. Entretanto, no âmbito de inquérito tutelar educativo que corria termos, foi requerida a abertura da fase jurisdicional, imputando-se a António a prática de factos qualificados como crime de roubo, p. e p. pelo art. 210.º, n.º 1 CP (pena de prisão de 1 a 8 anos).
 
 Em 05.02.2024 realizou-se a audiência de julgamento tendo sido proferido acórdão que aplicou ao António a medida de internamento, em regime semiaberto, pelo período de 18 meses. Finda a leitura do acórdão, o defensor do jovem interpôs recurso da decisão, por declaração em ata.
 
-Não obstante, o juiz emiƟu mandados de condução do António ao Centro EducaƟvo para iniciar de imediato o cumprimento da medida.
+Não obstante, o juiz emitiu mandados de condução do António ao Centro Educativo para iniciar de imediato o cumprimento da medida.
 
-#### 1. Aﬁgura-se-lhe correta a decisão do juiz face ao que dispõe o art. 129.º da LTE?
+#### 1. Afigura-se-lhe correta a decisão do juiz face ao que dispõe o art. 129.º da LTE?
 
-IV. No âmbito de dois outros Processos Tutelares EducaƟvos, que corriam termos nos Juízos de Família e Menores de Lisboa e de Sintra, o António foi julgado pela práƟca, em coautoria com outros jovens, de factos qualiﬁcados como crimes de roubo, vindo a ser-lhe aplicada, no primeiro, a medida de internamento em regime semiaberto, pelo prazo de 20 meses e no segundo, a medida de internamento em regime fechado, pelo prazo de 2 anos e 5 meses.
+IV. No âmbito de dois outros Processos Tutelares Educativos, que corriam termos nos Juízos de Família e Menores de Lisboa e de Sintra, o António foi julgado pela prática, em coautoria com outros jovens, de factos qualificados como crimes de roubo, vindo a ser-lhe aplicada, no primeiro, a medida de internamento em regime semiaberto, pelo prazo de 20 meses e no segundo, a medida de internamento em regime fechado, pelo prazo de 2 anos e 5 meses.
 
 Em 09.04.2024, quando o António havia já cumprido cerca de dois meses da medida tutelar de internamento referida em III, o PTE é presente ao magistrado nos termos e para os efeitos do art. 8º da LTE.
 
@@ -5809,7 +5809,7 @@ Em 09.04.2024, quando o António havia já cumprido cerca de dois meses da medid
 
 #### 2. Poderá a medida única resultante do cúmulo ser reduzida por força do disposto no art. 18.º LTE?
 
-V. Suponha agora que nos três Processos Tutelares EducaƟvos supra referidos lhe Ɵnham sido aplicadas medidas tutelares educaƟvas com o mesmo regime de execução (internamento em regime semiaberto: 18 meses; 20 meses e 24 meses).
+V. Suponha agora que nos três Processos Tutelares Educativos supra referidos lhe tinham sido aplicadas medidas tutelares educativas com o mesmo regime de execução (internamento em regime semiaberto: 18 meses; 20 meses e 24 meses).
 
 #### 1. Qual o tribunal competente para a realização do cúmulo?
 
@@ -5817,13 +5817,13 @@ V. Suponha agora que nos três Processos Tutelares EducaƟvos supra referidos lh
 
 #### 3. E qual o limite máximo do cúmulo jurídico das medidas com o mesmo regime de execução? Aplica-se o mecanismo corretor previsto para o cumprimento sucessivo (art. 8.º, n.º 6) e para o cúmulo de medidas tutelares com diferentes regimes de execução (art. 8.º, n.º 7)?
 
-#### 4. O tribunal pode determinar a medida única de internamento resultante do cúmulo jurídico em regime mais restriƟvo do que o aplicado em quaisquer das medidas parcelares que o integrem?
+#### 4. O tribunal pode determinar a medida única de internamento resultante do cúmulo jurídico em regime mais restritivo do que o aplicado em quaisquer das medidas parcelares que o integrem?
 
 #### 5. Atendendo à data de nascimento do jovem, até que data pode o tribunal realizar o cúmulo jurídico das medidas de internamento?
 
-VI. Admita agora que o jovem Ɵnha cumprido já metade do tempo de duração do internamento resultante da medida do cúmulo jurídico e que o tribunal, com base em parecer favorável emiƟdo pelos serviços de reinserção social, determinou que o internamento incluiria um período de supervisão intensiva, a executar em meio natural de vida. Para o efeito, foi imposto ao jovem o cumprimento de obrigações e regras de conduta.
+VI. Admita agora que o jovem tinha cumprido já metade do tempo de duração do internamento resultante da medida do cúmulo jurídico e que o tribunal, com base em parecer favorável emitido pelos serviços de reinserção social, determinou que o internamento incluiria um período de supervisão intensiva, a executar em meio natural de vida. Para o efeito, foi imposto ao jovem o cumprimento de obrigações e regras de conduta.
 
-Quando faltavam 9 meses para terminar o período de supervisão intensiva, o jovem subtraiu objetos em ouro e um computador portáƟl no valor global de cinco mil euros de uma residência na qual se introduziu por escalamento.
+Quando faltavam 9 meses para terminar o período de supervisão intensiva, o jovem subtraiu objetos em ouro e um computador portátil no valor global de cinco mil euros de uma residência na qual se introduziu por escalamento.
 
 #### 1. Pode e deve o tribunal rever a medida aplicada ao jovem?
 
@@ -5837,15 +5837,15 @@ I.
 
 #### II. Enquadramento: a medida de acompanhamento educativo
 
-O acompanhamento educaƟvo é a medida não insƟtucional mais limitaƟva dos direitos do menor, embora o grau de limitação dos seus direitos possa variar consoante o projeto educaƟvo pessoal – nomeadamente, atendendo às áreas de intervenção ﬁxadas pelo tribunal e ao tempo de duração da medida, que tem um mínimo de três meses e um máximo de dois anos.
+O acompanhamento educativo é a medida não institucional mais limitativa dos direitos do menor, embora o grau de limitação dos seus direitos possa variar consoante o projeto educativo pessoal – nomeadamente, atendendo às áreas de intervenção fixadas pelo tribunal e ao tempo de duração da medida, que tem um mínimo de três meses e um máximo de dois anos.
 
-É uma medida muito ﬂexível, que permite atender às necessidades concretas de educação para o direito que o menor revele com a práƟca do facto e que subsistam no momento da deﬁnição da medida (arƟgos 1.º, 2.º, 6.º e 7.º), alinhada com os instrumentos internacionais e europeus, que privilegiam as medidas na comunidade, as medidas centradas na formação e acompanhamento do menor e as medidas ﬂexíveis e consensuais. Há, nesta medida, vários aspetos a destacar: é uma medida não privaƟva da liberdade, centrada no menor, nas suas necessidades concretas, na sua formação e acompanhamento e procura obter a adesão do menor e dos seus pais, representantes legais ou cuidadores, envolvendo-os na própria elaboração e execução do projeto educaƟvo pessoal, como sinteƟza Conceição Cunha1.
+É uma medida muito flexível, que permite atender às necessidades concretas de educação para o direito que o menor revele com a prática do facto e que subsistam no momento da definição da medida (artigos 1.º, 2.º, 6.º e 7.º), alinhada com os instrumentos internacionais e europeus, que privilegiam as medidas na comunidade, as medidas centradas na formação e acompanhamento do menor e as medidas flexíveis e consensuais. Há, nesta medida, vários aspetos a destacar: é uma medida não privativa da liberdade, centrada no menor, nas suas necessidades concretas, na sua formação e acompanhamento e procura obter a adesão do menor e dos seus pais, representantes legais ou cuidadores, envolvendo-os na própria elaboração e execução do projeto educativo pessoal, como sintetiza Conceição Cunha1.
 
-O projeƟvo educaƟvo pessoal é elaborado pelos serviços de reinserção social2, que também deverão supervisionar e acompanhar o menor durante a sua execução (arƟgo 16.º, n.os 3 e 4), devendo moƟvar o menor e os seus pais, representante legal ou pessoa que tenha a sua guarda de facto a parƟcipar na elaboração de tal projeto (arƟgo 142.º, n.º 2 e 3); de sublinhar que os pais ou representantes serão também associados à execução da medida, sempre que tal seja possível e adequado (arƟgo 22.º).
+O projetivo educativo pessoal é elaborado pelos serviços de reinserção social2, que também deverão supervisionar e acompanhar o menor durante a sua execução (artigo 16.º, n.os 3 e 4), devendo motivar o menor e os seus pais, representante legal ou pessoa que tenha a sua guarda de facto a participar na elaboração de tal projeto (artigo 142.º, n.º 2 e 3); de sublinhar que os pais ou representantes serão também associados à execução da medida, sempre que tal seja possível e adequado (artigo 22.º).
 
-Na elaboração do projeto educaƟvo pessoal os serviços de reinserção social têm necessariamente de “acolher as áreas de intervenção ﬁxadas pelo tribunal”; “Por outro lado, o projeto educaƟvo, enquanto intervenção intensiva junto do jovem, tem de adaptar-se às suas potencialidades e caracterísƟcas e responder às necessidades de melhorar as suas competências pessoais e sociais que o facto criminoso praƟcado evidenciou”, como sublinha Norberto MarƟns3.
+Na elaboração do projeto educativo pessoal os serviços de reinserção social têm necessariamente de “acolher as áreas de intervenção fixadas pelo tribunal”; “Por outro lado, o projeto educativo, enquanto intervenção intensiva junto do jovem, tem de adaptar-se às suas potencialidades e características e responder às necessidades de melhorar as suas competências pessoais e sociais que o facto criminoso praticado evidenciou”, como sublinha Norberto Martins3.
 
-O projeto educaƟvo pessoal tem de ser homologado judicialmente, após prévia audição do Ministério Público, que emite parecer obrigatório sobre este projeto (arƟgo 40.º, n.º 1, e)), apelando-se igualmente à adesão do menor e dos seus pais (arƟgo 6.º, n.º 1).
+O projeto educativo pessoal tem de ser homologado judicialmente, após prévia audição do Ministério Público, que emite parecer obrigatório sobre este projeto (artigo 40.º, n.º 1, e)), apelando-se igualmente à adesão do menor e dos seus pais (artigo 6.º, n.º 1).
 
 1 Conceição Cunha, “Anotação ao Artigo 16.º”, Lei Tutelar Educativa Anotada, Coimbra, Almedina, 2018, p. 89.
 
@@ -5853,35 +5853,35 @@ O projeto educaƟvo pessoal tem de ser homologado judicialmente, após prévia a
 
 3 Norberto Martins, “Anotação ao artigo 142.º”, op cit., p. 411.
 
-Compete exclusivamente à DGRSP a execução desta medida (n.º 4, do art 16.º), pelo que não pode o Tribunal solicitar a outra enƟdade, pública ou privada, a elaboração do projeto educaƟvo pessoal do jovem4.
+Compete exclusivamente à DGRSP a execução desta medida (n.º 4, do art 16.º), pelo que não pode o Tribunal solicitar a outra entidade, pública ou privada, a elaboração do projeto educativo pessoal do jovem4.
 
-A elaboração do projeto e o seu envio ao tribunal para homologação não deve exceder o prazo de um mês (arƟgo 142.º, n.º 2), tendo a Lei n.º 4/2015 esclarecido que o prazo de duração da medida se conta desde o trânsito em julgado da decisão de homologação judicial prevista no n.º 3 do arƟgo 16.º (arƟgo 16.º, n.º 5).
+A elaboração do projeto e o seu envio ao tribunal para homologação não deve exceder o prazo de um mês (artigo 142.º, n.º 2), tendo a Lei n.º 4/2015 esclarecido que o prazo de duração da medida se conta desde o trânsito em julgado da decisão de homologação judicial prevista no n.º 3 do artigo 16.º (artigo 16.º, n.º 5).
 
-É de sublinhar que, a par da medida de internamento, é a única medida não insƟtucional que impõe a elaboração de um projeto educaƟvo pessoal, tendo cada menor um dossier individual, de onde consta toda a informação que lhe diz respeito (arƟgo 132.º). Estes aspetos enfaƟzam o facto de ser esta, de entre as medidas não insƟtucionais, a medida que acompanha mais de perto a evolução do menor5.
+É de sublinhar que, a par da medida de internamento, é a única medida não institucional que impõe a elaboração de um projeto educativo pessoal, tendo cada menor um dossier individual, de onde consta toda a informação que lhe diz respeito (artigo 132.º). Estes aspetos enfatizam o facto de ser esta, de entre as medidas não institucionais, a medida que acompanha mais de perto a evolução do menor5.
 
 #### III. Problemática
 
-No caso concreto está sobretudo em causa a problemáƟca da revisão das medidas tutelares educaƟvas não insƟtucionais – no caso da medida de acompanhamento educaƟvo (arƟgo 16º LTE).
+No caso concreto está sobretudo em causa a problemática da revisão das medidas tutelares educativas não institucionais – no caso da medida de acompanhamento educativo (artigo 16º LTE).
 
-Nomeadamente a propósito da revisão das medidas tutelares não insƟtucionais, quesƟona-se qual a solução para as situações em que, dada a moldura penal dos factos imputados ao menor,
+Nomeadamente a propósito da revisão das medidas tutelares não institucionais, questiona-se qual a solução para as situações em que, dada a moldura penal dos factos imputados ao menor,
 
-4 Cf. o Relatório Anual de Segurança Interna, de 2022, (2023) disponível em htps://www.portugal.gov.pt/downloadﬁcheiros/ﬁcheiro.aspx?v=%3d%3dBQAAAB%2bLCAAAAAAABAAz NDazMAQAhxRa3gUAAAA%3d, p. 107, onde se pode veriﬁcar que esta medida foi a mais aplicada, quer em 2021 (802 medidas de acompanhamento educaƟvo em execução), quer em 2022 (709). Também de referir (pp. 158/159), que “As medidas em centro educaƟvo representaram 9,32% do total de pedidos. (…) Nos casos em execução a 31 de dezembro, a medida de acompanhamento educaƟvo destacou-se com uma representaƟvidade de 32,26 por se tratar de uma medida de execução mais longa no tempo. ComparaƟvamente com o ano de 2021, registou-se uma diminuição total de 1.69%. Por Ɵpo de medida, houve a destacar a diminuição de 30,28% nas solicitações recebidas para execução da medida de acompanhamento educaƟvo e, apesar da fraca expressão, o crescimento de 64, 29% nos pedidos para execução de frequência de programas formaƟvos e de 55,56% para supervisão intensiva, no âmbito da medida de internamento”. Olhando para as úlƟmas estaơsƟcas mensais disponíveis na DGRSP (fevereiro de 2024), disponíveis em
+4 Cf. o Relatório Anual de Segurança Interna, de 2022, (2023) disponível em htps://www.portugal.gov.pt/downloadficheiros/ficheiro.aspx?v=%3d%3dBQAAAB%2bLCAAAAAAABAAz NDazMAQAhxRa3gUAAAA%3d, p. 107, onde se pode verificar que esta medida foi a mais aplicada, quer em 2021 (802 medidas de acompanhamento educativo em execução), quer em 2022 (709). Também de referir (pp. 158/159), que “As medidas em centro educativo representaram 9,32% do total de pedidos. (…) Nos casos em execução a 31 de dezembro, a medida de acompanhamento educativo destacou-se com uma representatividade de 32,26 por se tratar de uma medida de execução mais longa no tempo. Comparativamente com o ano de 2021, registou-se uma diminuição total de 1.69%. Por tipo de medida, houve a destacar a diminuição de 30,28% nas solicitações recebidas para execução da medida de acompanhamento educativo e, apesar da fraca expressão, o crescimento de 64, 29% nos pedidos para execução de frequência de programas formativos e de 55,56% para supervisão intensiva, no âmbito da medida de internamento”. Olhando para as últimas estatísticas mensais disponíveis na DGRSP (fevereiro de 2024), disponíveis em
 
-htps://dgrsp.jusƟca.gov.pt/Portals/16/EstaƟsƟcas/Assessoria/2024/atdj-pmc-apte-022024.pdf?ver=6ahITP7H7r7XZ9X_-vyKkQ%3d%3d, p. 12, “Nos casos em execução acumulado destacou-se o Acompanhamento EducaƟvo e a Suspensão do Processo, com percentagens de 30,41% e 25,03% respeƟvamente. A 29 de fevereiro de 2024, encontravam-se em execução um total de 1.209 medidas, com destaque também para o Acompanhamento EducaƟvo com 408 medidas e uma percentagem de 33,75% (ver Quadro 16).”. De resto, “Por medida, destacou-se o crescimento de cerca de 12% nos pedidos recebidos para execução da medida de Acompanhamento EducaƟvo” (p. 13). Sobre os problemas aƟnentes ao incumprimento da medida de acompanhamento educaƟvo e a averiguação de fatores que levam a este incumprimento (nomeadamente familiares), cf. Gomes, Hugo S. et. al., “Medidas tutelares educaƟvas junto de jovens delinquentes: será que podemos prevenir o incumprimento?”, Sombra e Luzes, Revista da Direção Geral de Reinserção e Serviços Prisionais, 2019, pps. 51 e ss. 5 Assim Conceição Cunha, “Anotação ao ArƟgo 16.º”, op cit., p. 90.
+htps://dgrsp.justica.gov.pt/Portals/16/Estatisticas/Assessoria/2024/atdj-pmc-apte-022024.pdf?ver=6ahITP7H7r7XZ9X_-vyKkQ%3d%3d, p. 12, “Nos casos em execução acumulado destacou-se o Acompanhamento Educativo e a Suspensão do Processo, com percentagens de 30,41% e 25,03% respetivamente. A 29 de fevereiro de 2024, encontravam-se em execução um total de 1.209 medidas, com destaque também para o Acompanhamento Educativo com 408 medidas e uma percentagem de 33,75% (ver Quadro 16).”. De resto, “Por medida, destacou-se o crescimento de cerca de 12% nos pedidos recebidos para execução da medida de Acompanhamento Educativo” (p. 13). Sobre os problemas atinentes ao incumprimento da medida de acompanhamento educativo e a averiguação de fatores que levam a este incumprimento (nomeadamente familiares), cf. Gomes, Hugo S. et. al., “Medidas tutelares educativas junto de jovens delinquentes: será que podemos prevenir o incumprimento?”, Sombra e Luzes, Revista da Direção Geral de Reinserção e Serviços Prisionais, 2019, pps. 51 e ss. 5 Assim Conceição Cunha, “Anotação ao Artigo 16.º”, op cit., p. 90.
 
-não se possa subsƟtuir a medida não insƟtucional pela medida de internamento em regime semiaberto (arƟgo 138.º, n.º 2, al. d) LTE).
+não se possa substituir a medida não institucional pela medida de internamento em regime semiaberto (artigo 138.º, n.º 2, al. d) LTE).
 
-Com efeito, a execução das medidas tutelares educaƟvas (exceto a medida de admoestação prevista no arƟgo 4.º, n.º 1, al. a), que se esgota no momento da sua aplicação) permite adequar-se ao desenvolvimento do jovem e aos progressos ou retrocessos veriﬁcados pela enƟdade encarregada de acompanhar e assegurar a execução da medida, transmiƟndo ao tribunal a perƟnente informação (arƟgos 130.º e 131.º)5.
+Com efeito, a execução das medidas tutelares educativas (exceto a medida de admoestação prevista no artigo 4.º, n.º 1, al. a), que se esgota no momento da sua aplicação) permite adequar-se ao desenvolvimento do jovem e aos progressos ou retrocessos verificados pela entidade encarregada de acompanhar e assegurar a execução da medida, transmitindo ao tribunal a pertinente informação (artigos 130.º e 131.º)5.
 
 Nesta medida, “[e]sta adaptabilidade da medida às circunstâncias pessoais do jovem fundamenta-se nos princípios da proporcionalidade, intervenção mínima e do seu superior interesse, visando alcançar, de modo adequado, a sua educação para o direito”, alinhando-se com as orientações constantes dos instrumentos internacionais nesta matéria6.
 
-O arƟgo 137.º refere-se às modalidades e periodicidade de revisão da medida, assentes no desejável e frequente acompanhamento da forma como decorre a execução da medida por parte do tribunal, estando, assim, garanƟdo o controlo jurisdicional inerente à ponderação no caso concreto sobre o resultado da intervenção tutelar educaƟva7.
+O artigo 137.º refere-se às modalidades e periodicidade de revisão da medida, assentes no desejável e frequente acompanhamento da forma como decorre a execução da medida por parte do tribunal, estando, assim, garantido o controlo jurisdicional inerente à ponderação no caso concreto sobre o resultado da intervenção tutelar educativa7.
 
 No caso concreto,
 
-- Do Projeto EducaƟvo Pessoal (PEP), cuja decisão de homologação transitou em julgado a 4 de março de 2023, constava, entre outras, a obrigação de cumprir com os seus deveres escolares, designadamente de frequentar as aulas com assiduidade e pontualidade e de tratar com urbanidade e respeito os pares, professores e restante comunidade escolar.
+- Do Projeto Educativo Pessoal (PEP), cuja decisão de homologação transitou em julgado a 4 de março de 2023, constava, entre outras, a obrigação de cumprir com os seus deveres escolares, designadamente de frequentar as aulas com assiduidade e pontualidade e de tratar com urbanidade e respeito os pares, professores e restante comunidade escolar.
 
-- A 04/07/2023 (4 meses após o trânsito em julgado da decisão de homologação do PEP) a DGRSP remeteu aos autos o relatório de acompanhamento de execução de medida, do qual consta que o jovem tem Ɵdo uma assiduidade escolar muito irregular, com aproveitamento posiƟvo apenas a Educação Física e Inglês, tendo sido já alvo de um processo disciplinar, com suspensão das aƟvidades leƟvas, durante cinco dias, em virtude de se ter envolvido em agressões com outros colegas. Mais se refere que o António tem revelado apetência pela fotograﬁa, sendo frequente vê-lo a parƟcipar, voluntariamente, nas aƟvidades desenvolvidas pela escola no âmbito dos percursos curriculares alternaƟvos, por ela ministrados, no caso concreto no âmbito do CEF desta área (Curso de Educação e Formação de Fotograﬁa).
+- A 04/07/2023 (4 meses após o trânsito em julgado da decisão de homologação do PEP) a DGRSP remeteu aos autos o relatório de acompanhamento de execução de medida, do qual consta que o jovem tem tido uma assiduidade escolar muito irregular, com aproveitamento positivo apenas a Educação Física e Inglês, tendo sido já alvo de um processo disciplinar, com suspensão das atividades letivas, durante cinco dias, em virtude de se ter envolvido em agressões com outros colegas. Mais se refere que o António tem revelado apetência pela fotografia, sendo frequente vê-lo a participar, voluntariamente, nas atividades desenvolvidas pela escola no âmbito dos percursos curriculares alternativos, por ela ministrados, no caso concreto no âmbito do CEF desta área (Curso de Educação e Formação de Fotografia).
 
 - O António foi sujeito a advertência solene em 04/09/2023.
 
@@ -5891,25 +5891,25 @@ No caso concreto,
 
 7 Cf. a síntese de Ana Massena, “Anotação ao Artigo 136.º”, op cit., p. 388. Ver em especial a regra 23 das Regras de Beijin e a Recomendação CM/Rec (2008) 11 do Comité de Ministros dos Estados-Membros relativamente às “Regras Europeias para jovens infratores sujeitos a sanções ou medidas”, Parte II, ponto 27; bem como a Diretriz 82 das Diretrizes do Comité de Ministros do Conselho da Europa sobre a justiça adaptada às crianças (2010).
 
-- A 04.11.2023 a DGRSP juntou aos autos nova informação dando conta de que, após a advertência solene, o jovem conƟnuou a não aderir à intervenção por parte daqueles serviços, tendo até agravado o seu comportamento uma vez que não vai à escola desde o início do ano leƟvo (não tendo transitado de ano) e gere o seu quoƟdiano sem qualquer ocupação e de forma autónoma e disfuncional.
+- A 04.11.2023 a DGRSP juntou aos autos nova informação dando conta de que, após a advertência solene, o jovem continuou a não aderir à intervenção por parte daqueles serviços, tendo até agravado o seu comportamento uma vez que não vai à escola desde o início do ano letivo (não tendo transitado de ano) e gere o seu quotidiano sem qualquer ocupação e de forma autónoma e disfuncional.
 
-- Nesta sequência, a DGRSP propõe a subsƟtuição da medida de acompanhamento educaƟvo pela medida de internamento em Centro EducaƟvo.
+- Nesta sequência, a DGRSP propõe a substituição da medida de acompanhamento educativo pela medida de internamento em Centro Educativo.
 
-De acordo com o arƟgo 136.º, n.º 1, al. f), a medida tutelar educaƟva é revista, como se veriﬁca no caso, nas situações em que o menor tenha desrespeitado, de forma grosseira ou sistemáƟca, os deveres inerentes ao cumprimento da medida. Com efeito, a 04/07/2023 a DGRSP remeteu aos autos o relatório de acompanhamento de execução de medida, do qual consta que o jovem tem Ɵdo uma assiduidade escolar muito irregular, , com aproveitamento posiƟvo apenas a Educação Física e Inglês, tendo sido já alvo de um processo disciplinar, com suspensão das aƟvidades leƟvas, durante cinco dias, em virtude de se ter envolvido em agressões com outros colegas, o que demonstra falta de interiorização dos objeƟvos adjacentes à intervenção, jusƟﬁcando, por isso, ser equacionada a revisão da medida e, se for possível, a sua agravação, única forma de colmatar as notórias insuﬁciências.
+De acordo com o artigo 136.º, n.º 1, al. f), a medida tutelar educativa é revista, como se verifica no caso, nas situações em que o menor tenha desrespeitado, de forma grosseira ou sistemática, os deveres inerentes ao cumprimento da medida. Com efeito, a 04/07/2023 a DGRSP remeteu aos autos o relatório de acompanhamento de execução de medida, do qual consta que o jovem tem tido uma assiduidade escolar muito irregular, , com aproveitamento positivo apenas a Educação Física e Inglês, tendo sido já alvo de um processo disciplinar, com suspensão das atividades letivas, durante cinco dias, em virtude de se ter envolvido em agressões com outros colegas, o que demonstra falta de interiorização dos objetivos adjacentes à intervenção, justificando, por isso, ser equacionada a revisão da medida e, se for possível, a sua agravação, única forma de colmatar as notórias insuficiências.
 
-De sublinhar, de resto, que se o jovem se envolveu em práƟcas ilícitas, de natureza criminal, deve haver comunicação ao Ministério Público (cfr. arƟgos 72.º e 73.º da LTE e arƟgo 38.º, n.º 2 do Estatuto do Aluno e ÉƟca Escolar.)
+De sublinhar, de resto, que se o jovem se envolveu em práticas ilícitas, de natureza criminal, deve haver comunicação ao Ministério Público (cfr. artigos 72.º e 73.º da LTE e artigo 38.º, n.º 2 do Estatuto do Aluno e Ética Escolar.)
 
-De acordo com o arƟgo 137, n.º 1, a revisão tem lugar oﬁciosamente, a requerimento do Ministério Público, do menor, dos pais, do representante legal, de quem tenha a sua guarda de facto ou do defensor ou mediante proposta da enƟdade encarregue de acompanhar e assegurar a execução da medida.
+De acordo com o artigo 137, n.º 1, a revisão tem lugar oficiosamente, a requerimento do Ministério Público, do menor, dos pais, do representante legal, de quem tenha a sua guarda de facto ou do defensor ou mediante proposta da entidade encarregue de acompanhar e assegurar a execução da medida.
 
-A revisão da medida, quanto ao momento em que ocorre, tem lugar obrigatoriamente nos prazos previstos na lei ou pode suceder fora desses prazos, oﬁciosamente, a requerimento ou sob proposta da enƟdade que acompanha a execução.
+A revisão da medida, quanto ao momento em que ocorre, tem lugar obrigatoriamente nos prazos previstos na lei ou pode suceder fora desses prazos, oficiosamente, a requerimento ou sob proposta da entidade que acompanha a execução.
 
-Assim, a revisão da medida, oﬁciosamente ou a requerimento, pode ter lugar a qualquer tempo, com a restrição imposta pelo arƟgo 136, n.os 5 e 6 (a medida de internamento só pode ser revista a requerimento 3 meses após o início da sua execução ou após a úlƟma decisão de revisão). Nesta medida, nada se referindo quanto à revisão da medida sob proposta da enƟdade que acompanha e assegura a sua execução, parece ser possível ter lugar a qualquer tempo8.
+Assim, a revisão da medida, oficiosamente ou a requerimento, pode ter lugar a qualquer tempo, com a restrição imposta pelo artigo 136, n.os 5 e 6 (a medida de internamento só pode ser revista a requerimento 3 meses após o início da sua execução ou após a última decisão de revisão). Nesta medida, nada se referindo quanto à revisão da medida sob proposta da entidade que acompanha e assegura a sua execução, parece ser possível ter lugar a qualquer tempo8.
 
-A revisão obrigatória da medida tutelar encontra-se consagrada no arƟgo 137, n.os 2 e 4. O prazo regra é de um ano para todas as medidas, sendo que para a medida de internamento em regime semiaberto e regime fechado a revisão é realizada obrigatoriamente ao ﬁm de seis meses, sendo que o prazo conta-se do início da execução da medida ou da sua úlƟma revisão.
+A revisão obrigatória da medida tutelar encontra-se consagrada no artigo 137, n.os 2 e 4. O prazo regra é de um ano para todas as medidas, sendo que para a medida de internamento em regime semiaberto e regime fechado a revisão é realizada obrigatoriamente ao fim de seis meses, sendo que o prazo conta-se do início da execução da medida ou da sua última revisão.
 
 8 Como sublinha Ana Massena, “Certo é que esta entidade é quem mais próxima se encontra da realidade subjacente ao cumprimento da medida tutelar e a que melhor posicionada se encontra para aferir da verificação das circunstâncias a que alude o art. 136.º, pelo que faz todo o sentido considerar que, a par da revisão oficiosa, possa, também neste caso, ter lugar a todo o tempo” - cf. Ana Massena, “Anotação ao Artigo 137.º”, op cit., p. 396.
 
-Quanto aos efeitos da revisão das medidas tutelares não insƟtucionais, in casu, de acordo com o arƟgo 138.º, n.º 2,
+Quanto aos efeitos da revisão das medidas tutelares não institucionais, in casu, de acordo com o artigo 138.º, n.º 2,
 
 “Quando proceder à revisão das medidas não institucionais, pelas razões indicadas nas alíneas
 
@@ -5917,95 +5917,95 @@ e) e f ) do artigo 136.º, o juiz pode:
 
 a) Advertir solenemente o menor para a gravidade da sua conduta e para as eventuais consequências daí decorrentes;
 
-b) Modiﬁcar as condições da execução da medida;
+b) Modificar as condições da execução da medida;
 
 c) Substituir a medida por outra mais adequada, igualmente não institucional, mesmo que tal represente para o menor uma maior limitação na sua autonomia de decisão e de condução da sua vida;
 
-d) Ordenar o internamento em regime semiaberto, nos casos em que o facto qualiﬁcado como crime praticado pelo menor admitisse a aplicação de medida de internamento em regime semiaberto ou fechado”.
+d) Ordenar o internamento em regime semiaberto, nos casos em que o facto qualificado como crime praticado pelo menor admitisse a aplicação de medida de internamento em regime semiaberto ou fechado”.
 
-De resto, de acordo com o n.º 3 deste arƟgo, “A subsƟtuição da medida, nos termos previstos na alínea c) do n.º 1 e nas alíneas c) e d) do n.º 2, pode ser determinada por tempo igual ou inferior ao que falte para o cumprimento da medida subsƟtuída”.
+De resto, de acordo com o n.º 3 deste artigo, “A substituição da medida, nos termos previstos na alínea c) do n.º 1 e nas alíneas c) e d) do n.º 2, pode ser determinada por tempo igual ou inferior ao que falte para o cumprimento da medida substituída”.
 
-Ou seja, no contexto da revisão da medida, de acordo com os relatórios de acompanhamento a cargo da DGRSP (no caso, a descrição do desempenho do jovem na escola, bem como a denúncia do comeƟmento, pelo jovem, de factos qualiﬁcados como crime), o tribunal terá de considerar e avaliar o grau de adesão (ou falta dele) no seu cumprimento por parte do jovem e os progressos feitos ou não no que concerne ao respeito pelos valores éƟco-jurídicos. Neste senƟdo, se a avaliação da execução da medida for negaƟva e a revisão ocorrer por moƟvos referentes ao jovem que é considerado como o causador do não cumprimento dos objeƟvos da intervenção (situações previstas nas als. e) a f ) do arƟgo 136.º, como é o caso), o tribunal poderá optar por uma das consequências descritas no arƟgo 138.º, n.º 2: fazer ao jovem uma advertência solene, ou modiﬁcar as condições de execução da medida, ou subsƟtui-la por outra mais adequada, também não insƟtucional, ainda que implicando uma diminuição da autonomia de decisão e de condução da vida do jovem, ou impor-lhe uma medida de internamento em regime semiaberto, por tempo igual ou inferior ao que faltasse para cumprimento da primiƟva medida subsƟtuída. Assim, após a revisão da LTE em 2015, é mesmo possível a aplicação de medida de internamento em Centro EducaƟvo, em regime semiaberto, nos casos em que o jovem, em beneİcio do qual foi aplicada medida não insƟtucional, se Ɵver colocado nas situações descritas no arƟgo 136.º/1,
+Ou seja, no contexto da revisão da medida, de acordo com os relatórios de acompanhamento a cargo da DGRSP (no caso, a descrição do desempenho do jovem na escola, bem como a denúncia do cometimento, pelo jovem, de factos qualificados como crime), o tribunal terá de considerar e avaliar o grau de adesão (ou falta dele) no seu cumprimento por parte do jovem e os progressos feitos ou não no que concerne ao respeito pelos valores ético-jurídicos. Neste sentido, se a avaliação da execução da medida for negativa e a revisão ocorrer por motivos referentes ao jovem que é considerado como o causador do não cumprimento dos objetivos da intervenção (situações previstas nas als. e) a f ) do artigo 136.º, como é o caso), o tribunal poderá optar por uma das consequências descritas no artigo 138.º, n.º 2: fazer ao jovem uma advertência solene, ou modificar as condições de execução da medida, ou substitui-la por outra mais adequada, também não institucional, ainda que implicando uma diminuição da autonomia de decisão e de condução da vida do jovem, ou impor-lhe uma medida de internamento em regime semiaberto, por tempo igual ou inferior ao que faltasse para cumprimento da primitiva medida substituída. Assim, após a revisão da LTE em 2015, é mesmo possível a aplicação de medida de internamento em Centro Educativo, em regime semiaberto, nos casos em que o jovem, em benefício do qual foi aplicada medida não institucional, se tiver colocado nas situações descritas no artigo 136.º/1,
 
-e) e f). A par da alteração da redação dos n.os 2, d) e 3 do arƟgo 138 pela Lei n.º 4/2015, de 15 de janeiro, também foi revogada a al. e) do arƟgo 145.º, que reƟrou a cominação sancionatória de internamento por um a quatro ﬁns-de-semana para os jovens em sede de revisão das medidas não insƟtucionais pelas razões constantes das als. e) e f ) do n.º 1 do arƟgo 136.º.
+e) e f). A par da alteração da redação dos n.os 2, d) e 3 do artigo 138 pela Lei n.º 4/2015, de 15 de janeiro, também foi revogada a al. e) do artigo 145.º, que retirou a cominação sancionatória de internamento por um a quatro fins-de-semana para os jovens em sede de revisão das medidas não institucionais pelas razões constantes das als. e) e f ) do n.º 1 do artigo 136.º.
 
-Em conclusão, no caso, o Tribunal optou pela advertência solene (arƟgo 138.º, n.º 2, al. a), tendo o António sido sujeito a esta medida em 04/09/2023.
+Em conclusão, no caso, o Tribunal optou pela advertência solene (artigo 138.º, n.º 2, al. a), tendo o António sido sujeito a esta medida em 04/09/2023.
 
-Perante a nova informação, a 04.11.2023, da DGRSP, dando conta de que, após a advertência solene, o jovem conƟnuou a não aderir à intervenção por parte daqueles serviços, tendo até agravado o seu comportamento uma vez que não vai à escola desde o início do ano leƟvo (não tendo transitado de ano) e gere o seu quoƟdiano sem qualquer ocupação e de forma autónoma e disfuncional, poderia o Tribunal equacionar a modiﬁcação das condições da execução da medida, nomeadamente ponderando a incorporação da realização de um curso de fotograﬁa, que poderá potenciar o desenvolvimento das apƟdões do menor e o desencadear da eﬁcácia da medida, devendo igualmente ser equacionada a solução prevista no arƟgo 15.º, n.º 3 (ex vi arƟgo 16.º, n.º 3), ou seja, o menor poderá residir junto de pessoa idónea ou em insƟtuição não dependente do Ministério da JusƟça, decisão essa que será sempre tomada em sede de revisão.
+Perante a nova informação, a 04.11.2023, da DGRSP, dando conta de que, após a advertência solene, o jovem continuou a não aderir à intervenção por parte daqueles serviços, tendo até agravado o seu comportamento uma vez que não vai à escola desde o início do ano letivo (não tendo transitado de ano) e gere o seu quotidiano sem qualquer ocupação e de forma autónoma e disfuncional, poderia o Tribunal equacionar a modificação das condições da execução da medida, nomeadamente ponderando a incorporação da realização de um curso de fotografia, que poderá potenciar o desenvolvimento das aptidões do menor e o desencadear da eficácia da medida, devendo igualmente ser equacionada a solução prevista no artigo 15.º, n.º 3 (ex vi artigo 16.º, n.º 3), ou seja, o menor poderá residir junto de pessoa idónea ou em instituição não dependente do Ministério da Justiça, decisão essa que será sempre tomada em sede de revisão.
 
-De resto, sempre se dirá que a proposta da DGRSP de subsƟtuição da medida de acompanhamento educaƟvo pela medida de internamento em Centro EducaƟvo, nos termos da al. d), do n.º2, do arƟgo 138.º, não deve colher na medida em que, além de, na nossa perspeƟva dever ainda ser equacionada a anterior consequência, numa lógica de aplicação subsidiária da medida mais restriƟva, devendo sempre esgotar-se a possibilidade de intervenção na comunidade, não era a mesma possível por falta de cumprimento dos pressupostos legais (os factos praƟcados não admitem a aplicação de medida de internamento em regime semiaberto ou fechado – cfr. arƟgo 17.º, n.º 3 e 4).
+De resto, sempre se dirá que a proposta da DGRSP de substituição da medida de acompanhamento educativo pela medida de internamento em Centro Educativo, nos termos da al. d), do n.º2, do artigo 138.º, não deve colher na medida em que, além de, na nossa perspetiva dever ainda ser equacionada a anterior consequência, numa lógica de aplicação subsidiária da medida mais restritiva, devendo sempre esgotar-se a possibilidade de intervenção na comunidade, não era a mesma possível por falta de cumprimento dos pressupostos legais (os factos praticados não admitem a aplicação de medida de internamento em regime semiaberto ou fechado – cfr. artigo 17.º, n.º 3 e 4).
 
 Para estas situações, poderá apenas equacionar-se a aplicação dos mecanismos previstos nas als.
 
-a) a c) do n.º 2 deste arƟgo 138.º.
+a) a c) do n.º 2 deste artigo 138.º.
 
-Nesta medida, esta restrição acaba por não solucionar (?) as situações de incumprimento reiterado/grosseiro, por parte do jovem, das medidas tutelares não insƟtucionais, quando os factos qualiﬁcados como crime que tenha comeƟdo não obedeçam aos requisitos do arƟgo 17.º, n.os 3 e 4, ou seja, quando não esƟver em causa a práƟca de um crime contra as pessoas punível com pena máxima, abstratamente aplicável, de prisão superior a três anos, ou a práƟca de dois ou mais crimes puníveis com pena máxima, abstratamente aplicável, de prisão superior a três anos. Não obstante, deve entender-se que “respeitam a casos de gravidade miƟgada, traduzida nas molduras penais mais leves dos crimes em causa, que mesmo na primiƟva aplicação da medida tutelar ao jovem pelo tribunal não poderiam ter sido alvo de medidas de internamento em Centro EducaƟvo sob regime semiaberto”9.
+Nesta medida, esta restrição acaba por não solucionar (?) as situações de incumprimento reiterado/grosseiro, por parte do jovem, das medidas tutelares não institucionais, quando os factos qualificados como crime que tenha cometido não obedeçam aos requisitos do artigo 17.º, n.os 3 e 4, ou seja, quando não estiver em causa a prática de um crime contra as pessoas punível com pena máxima, abstratamente aplicável, de prisão superior a três anos, ou a prática de dois ou mais crimes puníveis com pena máxima, abstratamente aplicável, de prisão superior a três anos. Não obstante, deve entender-se que “respeitam a casos de gravidade mitigada, traduzida nas molduras penais mais leves dos crimes em causa, que mesmo na primitiva aplicação da medida tutelar ao jovem pelo tribunal não poderiam ter sido alvo de medidas de internamento em Centro Educativo sob regime semiaberto”9.
 
-Neste senƟdo, cfr. o Acordão do Tribunal da Relação do Porto de 7/12/2022, proferido no processo n.º 1644/18.0T8GDM-A.P1: “I – A Lei Tutelar EducaƟva não admite a subsƟtuição da medida de acompanhamento educaƟvo pela medida de internamento em regime aberto como resposta ao incumprimento, por parte do jovem, das obrigações a que se encontre sujeito no âmbito daquele mesmo acompanhamento; II – A tal obstam tanto a história legislaƟva do atual arƟgo 138.º da Lei Tutelar EducaƟva, que demonstra ter sido vontade do legislador eliminar a possibilidade da apontada subsƟtuição, como os princípios da legalidade e da taxaƟvidade da intervenção tutelar educaƟva, consagrados nos arƟgos 3.º e 4.º desse diploma legal”.
+Neste sentido, cfr. o Acordão do Tribunal da Relação do Porto de 7/12/2022, proferido no processo n.º 1644/18.0T8GDM-A.P1: “I – A Lei Tutelar Educativa não admite a substituição da medida de acompanhamento educativo pela medida de internamento em regime aberto como resposta ao incumprimento, por parte do jovem, das obrigações a que se encontre sujeito no âmbito daquele mesmo acompanhamento; II – A tal obstam tanto a história legislativa do atual artigo 138.º da Lei Tutelar Educativa, que demonstra ter sido vontade do legislador eliminar a possibilidade da apontada substituição, como os princípios da legalidade e da taxatividade da intervenção tutelar educativa, consagrados nos artigos 3.º e 4.º desse diploma legal”.
 
 9 CF. José António Carvalho, “Anotação ao artigo 139.º”, op cit., p. 401.
 
 Também de sublinhar que o contexto da revisão, nomeadamente com agravamento da medida, designadamente por violação de deveres inerentes ao cumprimento, coexiste com a eventual aplicação de sanção disciplinar.
 
-#### 2. Para efeitos de revisão da medida teria que proceder à audição do jovem ou bastaria noƟﬁcá-lo para se pronunciar?
+#### 2. Para efeitos de revisão da medida teria que proceder à audição do jovem ou bastaria notificá-lo para se pronunciar?
 
-Na esteira do arƟgo 137, n.º 7, no caso de revisão a requerimento das pessoas referidas no n.º 1 deste arƟgo, o juiz deve ouvir o Ministério Público, o menor e a enƟdade encarregada do acompanhamento da execução da medida, sendo que nos restantes casos, ouve o menor, sempre que o entender conveniente (que é o caso dos autos)10. Ou seja, nas situações de revisão oﬁciosa ou sob proposta da enƟdade encarregada de assegurar a execução da medida, o legislador não impôs a audição, apenas se prevendo a possibilidade da audição do jovem quando o juiz o “entender conveniente”.
+Na esteira do artigo 137, n.º 7, no caso de revisão a requerimento das pessoas referidas no n.º 1 deste artigo, o juiz deve ouvir o Ministério Público, o menor e a entidade encarregada do acompanhamento da execução da medida, sendo que nos restantes casos, ouve o menor, sempre que o entender conveniente (que é o caso dos autos)10. Ou seja, nas situações de revisão oficiosa ou sob proposta da entidade encarregada de assegurar a execução da medida, o legislador não impôs a audição, apenas se prevendo a possibilidade da audição do jovem quando o juiz o “entender conveniente”.
 
-Ora, na perspeƟva da audição do menor, está sobretudo o exercício do contraditório que, no caso, pode pronunciar-se por si ou através do seu defensor ou mandatário consƟtuído, que deverá ser noƟﬁcado para estes efeitos.
+Ora, na perspetiva da audição do menor, está sobretudo o exercício do contraditório que, no caso, pode pronunciar-se por si ou através do seu defensor ou mandatário constituído, que deverá ser notificado para estes efeitos.
 
-Entendemos, no entanto, que deve exisƟr uma interpretação mais ampla desta “audição”, não só por parte do Ministério Público (arƟgo 40.º, n.º 1, c), das enƟdades encarregadas de acompanhar e assegurar a execução das medidas (arƟgo 131.º), mas também, seguindo, desde logo, as normas internacionais referentes a esta matéria, do jovem, como sugere Ana Teresa Leal11.
+Entendemos, no entanto, que deve existir uma interpretação mais ampla desta “audição”, não só por parte do Ministério Público (artigo 40.º, n.º 1, c), das entidades encarregadas de acompanhar e assegurar a execução das medidas (artigo 131.º), mas também, seguindo, desde logo, as normas internacionais referentes a esta matéria, do jovem, como sugere Ana Teresa Leal11.
 
-Com efeito, o menor tem o direito a ser ouvido, oﬁciosamente ou quando o requerer, sendo este direito de audição uma das vertentes do princípio do contraditório – cfr. arƟgos 45.º, n.º 2, a), 47.º e 77.º e arƟgo 12.º CDC; ver, igualmente, o princípio geral da audição da criança (Comentário Geral n.º 12 (2009) ao arƟgo 12.º CDC (“O Direito das Crianças a Serem Ouvidas”); na esteira deste comentário, “57. Em processos penais, o direito da criança a exprimir livremente a sua opinião em todas as questões que lhe respeitem deve ser totalmente respeitado e observado escrupulosamente em todas as fases do processo de jusƟça de menores. 58. O arƟgo 12.º, número 2, da Convenção implica que uma criança suspeita, acusada ou reconhecida como tendo infringido o direito penal goza do direito a ser ouvida. Este direito deve ser totalmente respeitado em todas as fases do processo judicial, desde a fase de instrução em que a criança goza do direito de manter silêncio, até ao direito a ser ouvida pela polícia, pelo delegado do ministério público e pelo juiz de instrução. Também se aplica na de conclusão do processo judicial e de decisão ﬁnal, bem como durante a aplicação das medidas impostas”; as Diretrizes do Comité de Ministros do Conselho da Europa sobre a jusƟça adaptada às crianças, adotadas pelo Comité de Ministros do Conselho da Europa em 17 de novembro de 2010, que estabelecem o direito da criança a ser ouvida (regras 44 a 49), sublinhando que o direito a ser ouvido é um direito da criança e não um dever (regra 46); arƟgo 24.º, n.º 1, 2.ª parte da Carta dos Direitos Fundamentais da União Europeia, que refere que as crianças “[p]odem exprimir livremente a sua opinião, que será tomada em consideração nos assuntos que lhes digam respeito, em função da sua idade e maturidade”.
+Com efeito, o menor tem o direito a ser ouvido, oficiosamente ou quando o requerer, sendo este direito de audição uma das vertentes do princípio do contraditório – cfr. artigos 45.º, n.º 2, a), 47.º e 77.º e artigo 12.º CDC; ver, igualmente, o princípio geral da audição da criança (Comentário Geral n.º 12 (2009) ao artigo 12.º CDC (“O Direito das Crianças a Serem Ouvidas”); na esteira deste comentário, “57. Em processos penais, o direito da criança a exprimir livremente a sua opinião em todas as questões que lhe respeitem deve ser totalmente respeitado e observado escrupulosamente em todas as fases do processo de justiça de menores. 58. O artigo 12.º, número 2, da Convenção implica que uma criança suspeita, acusada ou reconhecida como tendo infringido o direito penal goza do direito a ser ouvida. Este direito deve ser totalmente respeitado em todas as fases do processo judicial, desde a fase de instrução em que a criança goza do direito de manter silêncio, até ao direito a ser ouvida pela polícia, pelo delegado do ministério público e pelo juiz de instrução. Também se aplica na de conclusão do processo judicial e de decisão final, bem como durante a aplicação das medidas impostas”; as Diretrizes do Comité de Ministros do Conselho da Europa sobre a justiça adaptada às crianças, adotadas pelo Comité de Ministros do Conselho da Europa em 17 de novembro de 2010, que estabelecem o direito da criança a ser ouvida (regras 44 a 49), sublinhando que o direito a ser ouvido é um direito da criança e não um dever (regra 46); artigo 24.º, n.º 1, 2.ª parte da Carta dos Direitos Fundamentais da União Europeia, que refere que as crianças “[p]odem exprimir livremente a sua opinião, que será tomada em consideração nos assuntos que lhes digam respeito, em função da sua idade e maturidade”.
 
 10 O n.º 8 desta norma determina que no caso de revisão oficiosa, o juiz ouve o Ministério Público, o menor e os serviços de reinserção social (A DGRSP, por força do disposto no art. 3.º/1, c) Dec.-Lei n.º 215/2012, de 28 de setembro).
 
 11 Cf. Ana Teresa Leal, “Anotação ao artigo 137.º”, op cit., pp. 396 e ss.
 
-Nesta medida, decorre destas normas de direito internacional, que não podem ser estabelecidas restrições ao princípio geral da audição da criança, pelo que temos reservas quanto à norma constante do arƟgo 137, n.º 7, 2.a parte.
+Nesta medida, decorre destas normas de direito internacional, que não podem ser estabelecidas restrições ao princípio geral da audição da criança, pelo que temos reservas quanto à norma constante do artigo 137, n.º 7, 2.a parte.
 
-Concordamos, por isso, com Ana Teresa Leal, no senƟdo de que este segmento da norma tem de ser interpretado à luz dos normaƟvos internacionais referidos, pelo que deve a audição do jovem ser a regra, apenas se equacionando a não audição “em situações parƟculares” (e. g. nas situações em que o tribunal considere ser de reduzir a duração da medida ou pôr-lhe termo e declará-la exƟnta)12.
+Concordamos, por isso, com Ana Teresa Leal, no sentido de que este segmento da norma tem de ser interpretado à luz dos normativos internacionais referidos, pelo que deve a audição do jovem ser a regra, apenas se equacionando a não audição “em situações particulares” (e. g. nas situações em que o tribunal considere ser de reduzir a duração da medida ou pôr-lhe termo e declará-la extinta)12.
 
-Neste senƟdo, a omissão da audição do jovem consƟtuirá uma irregularidade nos termos do arƟgo 123.º CPP (ex vi arƟgo 128.º), tendo de ser arguida “nos três dias seguintes a contar daquele em que Ɵverem sido noƟﬁcados para qualquer termo do processo ou intervindo em algum acto nele praƟcado”, podendo a sua reparação ocorrer oﬁciosamente13.
+Neste sentido, a omissão da audição do jovem constituirá uma irregularidade nos termos do artigo 123.º CPP (ex vi artigo 128.º), tendo de ser arguida “nos três dias seguintes a contar daquele em que tiverem sido notificados para qualquer termo do processo ou intervindo em algum acto nele praticado”, podendo a sua reparação ocorrer oficiosamente13.
 
-De resto, para que o jovem se possa pronunciar, deve estar na posse de todos os elementos do processo relevantes, designadamente deverá ter acesso às informações a que alude o arƟgo 131.º.
+De resto, para que o jovem se possa pronunciar, deve estar na posse de todos os elementos do processo relevantes, designadamente deverá ter acesso às informações a que alude o artigo 131.º.
 
-Quanto à forma que devem revesƟr as audições em causa, podem as mesmas acontecer por escrito ou oralmente, em diligência presidida pelo juiz, na medida em que nada é referido na norma.
+Quanto à forma que devem revestir as audições em causa, podem as mesmas acontecer por escrito ou oralmente, em diligência presidida pelo juiz, na medida em que nada é referido na norma.
 
-O arƟgo 137.º, n.º 9 prevê que a decisão de revisão é noƟﬁcada ao jovem, aos seus pais, representante legal ou quem tenha a sua guarda, ao defensor e às enƟdades encarregadas execução.
+O artigo 137.º, n.º 9 prevê que a decisão de revisão é notificada ao jovem, aos seus pais, representante legal ou quem tenha a sua guarda, ao defensor e às entidades encarregadas execução.
 
 12 Assim também Ana Teresa Leal, “Anotação ao artigo 137.º”, op cit., p. 397.
 
 13 Assim também Ana Teresa Leal, “Anotação ao artigo 137.º”, op cit., pp. 397/398. Em sentido contrário ao apontado, ver o Ac. TRC 23/10/2013 (1233/11.0TAGRD- -B.C1), entendendo que “Quando a revisão da medida tutelar é oficiosa fica ao critério do juiz a audição do M.º P.º, do menor e a da entidade encarregada da execução da medida para efeitos do reexame dos pressupostos da medida tutelar aplicada ouvindo-os «sempre que necessário»”. No mesmo sentido ver também o Ac. TRL 27/02/2013 (219/ /09.9T2AMD-B.L1-3) e o Ac. TRP 12/08/2015 (859/11.6TQMTS-C.P1). Aí sublinhou-se que na revisão oficiosa está em causa apenas a verificação ou não da manutenção dos pressupostos que fundamentaram a aplicação da medida, não havendo por isso lugar ao contraditório.
 
-II. Suponha agora que os factos que deram origem à aplicação da medida tutelar se integravam no crime de violência domésƟca, p. e p. pelo arƟgo 152.º, n.º 1, a. b) do CP (ao qual cabe a moldura penal abstrata de pena de prisão de 1 a 5 anos).
+II. Suponha agora que os factos que deram origem à aplicação da medida tutelar se integravam no crime de violência doméstica, p. e p. pelo artigo 152.º, n.º 1, a. b) do CP (ao qual cabe a moldura penal abstrata de pena de prisão de 1 a 5 anos).
 
-#### 1. A proposta da DGRSP de subsƟtuição da medida de acompanhamento educaƟvo pela medida de internamento seria viável? Na aﬁrmaƟva, qual o prazo de duração da medida?
+#### 1. A proposta da DGRSP de substituição da medida de acompanhamento educativo pela medida de internamento seria viável? Na afirmativa, qual o prazo de duração da medida?
 
-Como atrás analisado, com a nova redação do arƟgo 136.º resultante da revisão de 2015, face ao incumprimento grosseiro/ reiterado das medidas não insƟtucionais por um jovem, nos termos previstos nas als. e) e f ) do arƟgo 136.º, passou a ser possível – se não se revelar adequada e suﬁciente a advertência solene feita pelo tribunal, ou a modiﬁcação das condições de execução da medida, ou a sua subsƟtuição por outra mais adequada mas também não insƟtucional ainda que implicando uma diminuição da autonomia de decisão e de condução da vida do jovem – a aplicação, com a devida fundamentação, de uma medida de internamento em regime semiaberto, por tempo igual ou inferior ao que faltasse para cumprimento da primiƟva medida subsƟtuída, desde que o facto, ou factos, qualiﬁcados como crime que o jovem praƟcara permitam legalmente a aplicação de medida de internamento em regime semiaberto ou fechado (arƟgo 17.º/3 e 4). Ora, este pressuposto está agora veriﬁcado no caso concreto (os factos que deram origem à aplicação da medida tutelar se integravam no crime de violência domésƟca, p. e p. pelo arƟgo 152.º, n.º 1, a. b) do CP - ao qual cabe a moldura penal abstrata de pena de prisão de 1 a 5 anos).
+Como atrás analisado, com a nova redação do artigo 136.º resultante da revisão de 2015, face ao incumprimento grosseiro/ reiterado das medidas não institucionais por um jovem, nos termos previstos nas als. e) e f ) do artigo 136.º, passou a ser possível – se não se revelar adequada e suficiente a advertência solene feita pelo tribunal, ou a modificação das condições de execução da medida, ou a sua substituição por outra mais adequada mas também não institucional ainda que implicando uma diminuição da autonomia de decisão e de condução da vida do jovem – a aplicação, com a devida fundamentação, de uma medida de internamento em regime semiaberto, por tempo igual ou inferior ao que faltasse para cumprimento da primitiva medida substituída, desde que o facto, ou factos, qualificados como crime que o jovem praticara permitam legalmente a aplicação de medida de internamento em regime semiaberto ou fechado (artigo 17.º/3 e 4). Ora, este pressuposto está agora verificado no caso concreto (os factos que deram origem à aplicação da medida tutelar se integravam no crime de violência doméstica, p. e p. pelo artigo 152.º, n.º 1, a. b) do CP - ao qual cabe a moldura penal abstrata de pena de prisão de 1 a 5 anos).
 
-EnfaƟza-se, contudo, que as situações de incumprimento que possam dar lugar a este internamento em Centro EducaƟvo pressupõem uma avaliação cuidadosa, que demonstre estar esgotada a possibilidade de intervenção na comunidade, devendo a insƟtucionalização ser sempre uma opção de ultima ratio.
+Enfatiza-se, contudo, que as situações de incumprimento que possam dar lugar a este internamento em Centro Educativo pressupõem uma avaliação cuidadosa, que demonstre estar esgotada a possibilidade de intervenção na comunidade, devendo a institucionalização ser sempre uma opção de ultima ratio.
 
-Quanto ao prazo de duração da medida, a revisão não pode agravar os limites legais imperaƟvos a que este especíﬁco internamento em regime de execução semiaberto está vinculado: a duração não pode ser superior ao que faltasse para o cumprimento da medida subsƟtuída – arƟgo 138.º, n.º 3, sendo esta uma norma especíﬁca.
+Quanto ao prazo de duração da medida, a revisão não pode agravar os limites legais imperativos a que este específico internamento em regime de execução semiaberto está vinculado: a duração não pode ser superior ao que faltasse para o cumprimento da medida substituída – artigo 138.º, n.º 3, sendo esta uma norma específica.
 
-Também de sublinhar que o contexto da revisão, nomeadamente com agravamento da medida, nomeadamente por violação de deveres inerentes ao cumprimento, coexiste com a eventual aplicação de sanção disciplinar pela práƟca da conduta em que se tenha corporizado a violação, sem afronta do princípio do ne bis in idem.
+Também de sublinhar que o contexto da revisão, nomeadamente com agravamento da medida, nomeadamente por violação de deveres inerentes ao cumprimento, coexiste com a eventual aplicação de sanção disciplinar pela prática da conduta em que se tenha corporizado a violação, sem afronta do princípio do ne bis in idem.
 
-III. Entretanto, no âmbito de inquérito tutelar educaƟvo que corria termos, foi requerida a abertura da fase jurisdicional, imputando-se a António a práƟca de factos qualiﬁcados como crime de roubo, p. e p. pelo arƟgo 210.º, n.º 1 CP (pena de prisão de 1 a 8 anos).
+III. Entretanto, no âmbito de inquérito tutelar educativo que corria termos, foi requerida a abertura da fase jurisdicional, imputando-se a António a prática de factos qualificados como crime de roubo, p. e p. pelo artigo 210.º, n.º 1 CP (pena de prisão de 1 a 8 anos).
 
 Em 05.02.2024 realizou-se a audiência de julgamento tendo sido proferido acórdão que aplicou ao António a medida de internamento, em regime semiaberto, pelo período de 18 meses. Finda a leitura do acórdão, o defensor do jovem interpôs recurso da decisão, por declaração em ata.
 
-Não obstante, o juiz emiƟu mandados de condução do António ao Centro EducaƟvo para iniciar de imediato o cumprimento da medida.
+Não obstante, o juiz emitiu mandados de condução do António ao Centro Educativo para iniciar de imediato o cumprimento da medida.
 
-Aﬁgura-se-lhe correta a decisão do juiz face ao que dispõe o arƟgo 129.º da LTE?
+Afigura-se-lhe correta a decisão do juiz face ao que dispõe o artigo 129.º da LTE?
 
 #### II. Problemática
 
-No caso em análise está sobretudo em causa o efeito do recurso da medida tutelar de internamento. No arƟgo 129.º da LTE refere-se como princípio geral o trânsito em julgado para a execução das medidas tutelares educaƟvas (“A execução de medida só pode ter lugar por força de decisão reduzida a escrito e transitada em julgado que determine a medida aplicada”14), estabelecendo o arƟgo 150.º, n.º 1, a necessidade do trânsito em julgado da medida tutelar educaƟva de internamento para efeitos de escolha e determinação da medida de internamento. Estas normas não foram alteradas pela revisão de 2015.
+No caso em análise está sobretudo em causa o efeito do recurso da medida tutelar de internamento. No artigo 129.º da LTE refere-se como princípio geral o trânsito em julgado para a execução das medidas tutelares educativas (“A execução de medida só pode ter lugar por força de decisão reduzida a escrito e transitada em julgado que determine a medida aplicada”14), estabelecendo o artigo 150.º, n.º 1, a necessidade do trânsito em julgado da medida tutelar educativa de internamento para efeitos de escolha e determinação da medida de internamento. Estas normas não foram alteradas pela revisão de 2015.
 
-Ora, coloca-se a questão de saber como conciliar o descrito nestas normas com o prescrito no arƟgo 125.º, n.º 4, da LTE, que determina o efeito devoluƟvo do recurso da medida tutelar educaƟva de internamento, “aguardando o menor em centro educaƟvo até ao trânsito em julgado da decisão”, independentemente da aplicação de medida cautelar.
+Ora, coloca-se a questão de saber como conciliar o descrito nestas normas com o prescrito no artigo 125.º, n.º 4, da LTE, que determina o efeito devolutivo do recurso da medida tutelar educativa de internamento, “aguardando o menor em centro educativo até ao trânsito em julgado da decisão”, independentemente da aplicação de medida cautelar.
 
-Com efeito, a nova redação do arƟgo 125.º, n.º 4, da LTE, introduzida pela Lei n.º 4/2015, não foi harmonizada com o restante diploma, suscitando assim dúvidas quanto ao efeito do recurso da medida tutelar aplicada.
+Com efeito, a nova redação do artigo 125.º, n.º 4, da LTE, introduzida pela Lei n.º 4/2015, não foi harmonizada com o restante diploma, suscitando assim dúvidas quanto ao efeito do recurso da medida tutelar aplicada.
 
-Nesta medida, face à redação do arƟgo 125.º, n.º 4, da LTE, tendo o recurso da decisão que aplique medida tutelar de internamento efeito meramente devoluƟvo, pode entender-se que os procedimentos de execução necessários ao seu cumprimento se iniciam de imediato, não havendo agora que aguardar o trânsito em julgado da decisão15. Como aponta Ana Teresa Leal, “Só esta interpretação da norma [do arƟgo 150.º] a torna compaơvel com o preceituado no mencionado art. 125.º/4 e apenas por manifesto lapso do legislador não foi a sua redação alterada em conformidade” 16.
+Nesta medida, face à redação do artigo 125.º, n.º 4, da LTE, tendo o recurso da decisão que aplique medida tutelar de internamento efeito meramente devolutivo, pode entender-se que os procedimentos de execução necessários ao seu cumprimento se iniciam de imediato, não havendo agora que aguardar o trânsito em julgado da decisão15. Como aponta Ana Teresa Leal, “Só esta interpretação da norma [do artigo 150.º] a torna compatível com o preceituado no mencionado art. 125.º/4 e apenas por manifesto lapso do legislador não foi a sua redação alterada em conformidade” 16.
 
 14 Exige-se, assim, para a entrada na fase da execução da medida [art. 92.º, n.º 1, al. d)] a prévia existência de um título executivo de natureza judiciária, ou seja, o trânsito em julgado de uma decisão que aplique medidas tutelares educativas (cfr., art. 129.º quanto ao trânsito das decisões). Nos termos do art. 38.º, o tribunal que aplica a medida tem o ónus de acompanhar a sua execução (aqui se incluindo as legais revisões). Cfr., art. 39.º, quanto à execução de medidas (corre a execução nos próprios autos perante o magistrado judicial do juízo de família e menores ou constituído como tal, nos casos de não especialização
 
@@ -6015,13 +6015,13 @@ Nesta medida, face à redação do arƟgo 125.º, n.º 4, da LTE, tendo o recurs
 
 A esta nova solução legal tem sido atribuída a vantagem da promoção o mais rapidamente possível da reeducação do menor para o direito17.
 
-Não obstante, tem igualmente sido quesƟonado se esta nova solução, enquanto regra geral, com dispensa de ponderação concreta à luz das exigências de proporcionalidade e a impor mesmo a quem não se encontre sujeito a medida cautelar de guarda em centro educaƟvo, é conforme ao direito ao recurso e à garanƟa consƟtucional de uma tutela jurisdicional efeƟva (arƟgo 20.º/5 CRP)18. Com efeito, como sublinha Helena Bolieiro com base no recurso, o menor pode ver reapreciados os fundamentos da decisão que aplicou a medida de internamento, como evitar os seus efeitos, o que não conseguirá alcançar se o eventual desfecho revogatório que venha a ser determinado pelo tribunal superior se revelar inúƟl na medida em que, entretanto, se veriﬁcou o cumprimento, ainda que parcial, da medida19.
+Não obstante, tem igualmente sido questionado se esta nova solução, enquanto regra geral, com dispensa de ponderação concreta à luz das exigências de proporcionalidade e a impor mesmo a quem não se encontre sujeito a medida cautelar de guarda em centro educativo, é conforme ao direito ao recurso e à garantia constitucional de uma tutela jurisdicional efetiva (artigo 20.º/5 CRP)18. Com efeito, como sublinha Helena Bolieiro com base no recurso, o menor pode ver reapreciados os fundamentos da decisão que aplicou a medida de internamento, como evitar os seus efeitos, o que não conseguirá alcançar se o eventual desfecho revogatório que venha a ser determinado pelo tribunal superior se revelar inútil na medida em que, entretanto, se verificou o cumprimento, ainda que parcial, da medida19.
 
-Também, por exemplo, Elsa Castelo20 sublinha a perplexidade causada pelo n.º 4 do arƟgo 125.º, face à manutenção da redação do arƟgo 129.º da LTE, de acordo com o qual a execução de medida só pode ter lugar por força de decisão transitada em julgado. Nesta medida, defende que “… conƟnuando o arƟgo 129.º a valer como regra geral, o n.º 4 do arƟgo 125.º apenas se aplicará, ou nas situações em que o menor esteja a cumprir medida cautelar de guarda em centro educaƟvo, ou nas situações em que tendo sido efetuado cúmulo jurídico de diversas medidas de internamento e tendo havido recurso, o menor já esƟvesse em cumprimento de uma das medidas que hajam integrado o cúmulo. Nestas duas situações, ao recurso interposto será atribuído efeito meramente devoluƟvo, aguardando o menor em centro educaƟvo até ao trânsito em julgado da decisão” 22.
+Também, por exemplo, Elsa Castelo20 sublinha a perplexidade causada pelo n.º 4 do artigo 125.º, face à manutenção da redação do artigo 129.º da LTE, de acordo com o qual a execução de medida só pode ter lugar por força de decisão transitada em julgado. Nesta medida, defende que “… continuando o artigo 129.º a valer como regra geral, o n.º 4 do artigo 125.º apenas se aplicará, ou nas situações em que o menor esteja a cumprir medida cautelar de guarda em centro educativo, ou nas situações em que tendo sido efetuado cúmulo jurídico de diversas medidas de internamento e tendo havido recurso, o menor já estivesse em cumprimento de uma das medidas que hajam integrado o cúmulo. Nestas duas situações, ao recurso interposto será atribuído efeito meramente devolutivo, aguardando o menor em centro educativo até ao trânsito em julgado da decisão” 22.
 
-Reﬁra-se, ainda, que face à redação operada em 2015, alargou-se a natureza urgente do processo, em fase de recurso, à medida tutelar de internamento, passando a esƟpular-se, no arƟgo 44.º, n.º 3, que sempre que for aplicada medida de internamento e houver recurso o processo assume natureza urgente e corre durante férias.
+Refira-se, ainda, que face à redação operada em 2015, alargou-se a natureza urgente do processo, em fase de recurso, à medida tutelar de internamento, passando a estipular-se, no artigo 44.º, n.º 3, que sempre que for aplicada medida de internamento e houver recurso o processo assume natureza urgente e corre durante férias.
 
-RelaƟvamente à emissão dos mandados de condução do António ao Centro EducaƟvo para iniciar de imediato o cumprimento da medida de internamento em regime semiaberto, importa igualmente atentar no disposto no arƟgo 151.º - Apresentação do menor no Centro Educativo para execução de medida de internamento:
+Relativamente à emissão dos mandados de condução do António ao Centro Educativo para iniciar de imediato o cumprimento da medida de internamento em regime semiaberto, importa igualmente atentar no disposto no artigo 151.º - Apresentação do menor no Centro Educativo para execução de medida de internamento:
 
 16 Ana Teresa Leal, “Anotação ao artigo 150.º”, op cit., pp. 430/431.
 
@@ -6045,35 +6045,35 @@ Tutelar
 
 Educativa, 2018, disponível em https://cej.justica.gov.pt/LinkClick.aspx?fileticket=y1pgI9D_LoU%3D&portalid=30, p. 32. 22 Elsa Castelo, op cit., p. 32.
 
-“1. Logo que recebida a informação sobre a data e hora da admissão no Centro Educativo, o tribunal notiﬁca do facto o menor, os pais, o representante legal ou quem tenha a sua guarda de facto e o defensor.
+“1. Logo que recebida a informação sobre a data e hora da admissão no Centro Educativo, o tribunal notifica do facto o menor, os pais, o representante legal ou quem tenha a sua guarda de facto e o defensor.
 
-2. No caso de a medida aplicada ser executada em Centro Educativo de regime aberto ou semiaberto, o tribunal notiﬁca igualmente os pais, o representante legal ou quem tenha a sua guarda de facto para que o apresentem no Centro Educativo, na data e hora ﬁxadas, dando conhecimento aos serviços de reinserção social, a quem aqueles podem solicitar apoio.
+2. No caso de a medida aplicada ser executada em Centro Educativo de regime aberto ou semiaberto, o tribunal notifica igualmente os pais, o representante legal ou quem tenha a sua guarda de facto para que o apresentem no Centro Educativo, na data e hora fixadas, dando conhecimento aos serviços de reinserção social, a quem aqueles podem solicitar apoio.
 
 3. O tribunal emite mandado de condução, a cumprir por entidades policiais, no caso de a medida ser de executar em Centro Educativo de regime fechado ou quando a apresentação do menor, nos termos do n.º 2, não possa ou não tenha podido realizar-se por causa imputável ao menor, aos pais, ao representante legal ou a quem tenha a sua guarda de facto.
 
 4. A menos que o tribunal o proíba, o disposto no n.º 3 não obsta a que o menor possa ser acompanhado por um dos pais, representante legal ou quem tenha a sua guarda de facto, se as condições da viatura das entidades encarregadas da apresentação o permitirem.
 
-5. No caso de o menor já se encontrar internado em Centro Educativo diferente do ﬁxado para a execução da medida, a sua condução ao novo centro cabe aos serviços de reinserção social, sendo correspondentemente aplicável, se tal não for possível, o disposto no n.º 4, com as devidas adaptações.
+5. No caso de o menor já se encontrar internado em Centro Educativo diferente do fixado para a execução da medida, a sua condução ao novo centro cabe aos serviços de reinserção social, sendo correspondentemente aplicável, se tal não for possível, o disposto no n.º 4, com as devidas adaptações.
 
-6. Se o menor não der entrada no Centro Educativo ﬁxado pelos serviços de reinserção social, nos 30 dias imediatos à comunicação deste ao tribunal, nos termos do n.º 5 do artigo anterior, e se o lugar nesse centro não puder permanecer reservado ao menor, os serviços de reinserção social ﬁxam outro Centro Educativo para a execução da medida e informam o tribunal.
+6. Se o menor não der entrada no Centro Educativo fixado pelos serviços de reinserção social, nos 30 dias imediatos à comunicação deste ao tribunal, nos termos do n.º 5 do artigo anterior, e se o lugar nesse centro não puder permanecer reservado ao menor, os serviços de reinserção social fixam outro Centro Educativo para a execução da medida e informam o tribunal.
 
 7. No caso previsto no número anterior, o juiz emite mandado de condução do menor ao Centro Educativo, a cumprir pelas entidades policiais”.
 
-Da leitura do n.º 2 deste arƟgo resulta que se esƟver em causa uma medida a ser executada em Centro EducaƟvo em regime aberto ou semiaberto, o tribunal noƟﬁca o menor, os pais, o representante legal ou quem tenha a sua guarda de facto para que o apresentem no Centro EducaƟvo, na data e hora ﬁxadas, dando conhecimento aos serviços de reinserção social, a quem aqueles podem solicitar apoio. Nesta medida, e na esteira do n.º 3, o tribunal apenas emite mandado de condução, a cumprir por enƟdades policiais, no caso de a medida ser em regime fechado ou quando a apresentação do menor, nos termos do n.º 2, não possa ou não tenha podido realizar-se por causa imputável ao menor, aos pais, ao representante legal ou a quem tenha a sua guarda de facto.
+Da leitura do n.º 2 deste artigo resulta que se estiver em causa uma medida a ser executada em Centro Educativo em regime aberto ou semiaberto, o tribunal notifica o menor, os pais, o representante legal ou quem tenha a sua guarda de facto para que o apresentem no Centro Educativo, na data e hora fixadas, dando conhecimento aos serviços de reinserção social, a quem aqueles podem solicitar apoio. Nesta medida, e na esteira do n.º 3, o tribunal apenas emite mandado de condução, a cumprir por entidades policiais, no caso de a medida ser em regime fechado ou quando a apresentação do menor, nos termos do n.º 2, não possa ou não tenha podido realizar-se por causa imputável ao menor, aos pais, ao representante legal ou a quem tenha a sua guarda de facto.
 
-Em síntese, a via coerciva de fazer conduzir o jovem ao Centro EducaƟvo, a efeƟvar pelas enƟdades policiais, neste caso concreto só poderia ocorrer nas situações em que a apresentação do menor “não possa ou não tenha podido realizar-se por causa imputável ao menor, aos pais, ao representante legal ou a quem tenha a sua guarda de facto”. Neste caso a emissão de mandados será sempre precedida de despacho judicial, após audição do Ministério Público21.
+Em síntese, a via coerciva de fazer conduzir o jovem ao Centro Educativo, a efetivar pelas entidades policiais, neste caso concreto só poderia ocorrer nas situações em que a apresentação do menor “não possa ou não tenha podido realizar-se por causa imputável ao menor, aos pais, ao representante legal ou a quem tenha a sua guarda de facto”. Neste caso a emissão de mandados será sempre precedida de despacho judicial, após audição do Ministério Público21.
 
-Em regra, a condução do jovem ao centro, nas situações de medida de internamento em Centro EducaƟvo de regime aberto ou semiaberto realiza-se por parte dos pais, representante legal ou de quem detenha no momento a sua guarda, sendo necessária a noƟﬁcação dos responsáveis pelo jovem para o apresentarem no Centro EducaƟvo na data e horário ﬁxados e a informação correspondente à DGRSP.
+Em regra, a condução do jovem ao centro, nas situações de medida de internamento em Centro Educativo de regime aberto ou semiaberto realiza-se por parte dos pais, representante legal ou de quem detenha no momento a sua guarda, sendo necessária a notificação dos responsáveis pelo jovem para o apresentarem no Centro Educativo na data e horário fixados e a informação correspondente à DGRSP.
 
-De resto, como sublinha Ana Teresa Leal “o princípio do contraditório impõe que a não apresentação voluntária do jovem no Centro EducaƟvo deva ser sempre seguida de noƟﬁcação para que possa ser alegado o que houver por conveniente, em prazo a determinar. Nesta medida, se as razões invocadas se prenderem com factos alheios à vontade do jovem ou de quem impende a obrigação da sua apresentação, e tenham igualmente sido encetadas as diligências necessárias para cumprimento da determinação, designadamente o pedido de apoio à DGRSP, a emissão de mandados não deverá ter lugar desde logo22.
+De resto, como sublinha Ana Teresa Leal “o princípio do contraditório impõe que a não apresentação voluntária do jovem no Centro Educativo deva ser sempre seguida de notificação para que possa ser alegado o que houver por conveniente, em prazo a determinar. Nesta medida, se as razões invocadas se prenderem com factos alheios à vontade do jovem ou de quem impende a obrigação da sua apresentação, e tenham igualmente sido encetadas as diligências necessárias para cumprimento da determinação, designadamente o pedido de apoio à DGRSP, a emissão de mandados não deverá ter lugar desde logo22.
 
-IV. No âmbito de dois outros Processos Tutelares EducaƟvos, que corriam termos nos Juízos de Família e Menores de Lisboa e de Sintra, o António foi julgado pela práƟca, em coautoria com outros jovens, de factos qualiﬁcados como crimes de roubo, vindo a ser-lhe aplicada, no primeiro, a medida de internamento em regime semiaberto, pelo prazo de 20 meses e no segundo, a medida de internamento em regime fechado, pelo prazo de 2 anos e 5 meses.
+IV. No âmbito de dois outros Processos Tutelares Educativos, que corriam termos nos Juízos de Família e Menores de Lisboa e de Sintra, o António foi julgado pela prática, em coautoria com outros jovens, de factos qualificados como crimes de roubo, vindo a ser-lhe aplicada, no primeiro, a medida de internamento em regime semiaberto, pelo prazo de 20 meses e no segundo, a medida de internamento em regime fechado, pelo prazo de 2 anos e 5 meses.
 
-Em 09.04.2024, quando o António havia já cumprido cerca de dois meses da medida tutelar de internamento referida em III, o PTE é presente ao magistrado nos termos e para os efeitos do arƟgo 8º da LTE.
+Em 09.04.2024, quando o António havia já cumprido cerca de dois meses da medida tutelar de internamento referida em III, o PTE é presente ao magistrado nos termos e para os efeitos do artigo 8º da LTE.
 
 #### 1. Qual a moldura da medida única aplicável ao caso concreto?
 
-(Suponha agora que nos três Processos Tutelares EducaƟvos referidos lhe Ɵnham sido aplicadas medidas tutelares educaƟvas com o mesmo regime de execução (internamento em regime semiaberto: 18 meses; 20 meses e 24 meses). E qual o limite máximo do cúmulo jurídico das medidas com o mesmo regime de execução? Aplica-se o mecanismo corretor previsto para o cumprimento sucessivo (arƟgo 8.º, n.º 6) e para o cúmulo de medidas tutelares com diferentes regimes de execução (arƟgo 8.º, n.º 7).
+(Suponha agora que nos três Processos Tutelares Educativos referidos lhe tinham sido aplicadas medidas tutelares educativas com o mesmo regime de execução (internamento em regime semiaberto: 18 meses; 20 meses e 24 meses). E qual o limite máximo do cúmulo jurídico das medidas com o mesmo regime de execução? Aplica-se o mecanismo corretor previsto para o cumprimento sucessivo (artigo 8.º, n.º 6) e para o cúmulo de medidas tutelares com diferentes regimes de execução (artigo 8.º, n.º 7).
 
 21 Ana Teresa Leal, “Anotação ao artigo 151.º”, op cit., p. 436.
 
@@ -6081,23 +6081,23 @@ Em 09.04.2024, quando o António havia já cumprido cerca de dois meses da medid
 
 #### I. Enquadramento e problemática
 
-António foi julgado pela práƟca de factos qualiﬁcados como crimes de roubo, no âmbito de dois outros Processos Tutelares EducaƟvos, que corriam termos nos Juízos de Família e Menores de Lisboa e de Sintra, vindo a ser-lhe aplicada, no primeiro, a medida de internamento em regime semiaberto, pelo prazo de 20 meses e no segundo, a medida de internamento em regime fechado, pelo prazo de 2 anos e 5 meses. Em 09.04.2024, quando o António havia já cumprido cerca de dois meses da medida tutelar de internamento referida em III (medida de internamento, em regime semiaberto, pelo período de 18 meses), o Processo Tutelar EducaƟvo é presente ao magistrado nos termos e para os efeitos do arƟgo 8.º da LTE.
+António foi julgado pela prática de factos qualificados como crimes de roubo, no âmbito de dois outros Processos Tutelares Educativos, que corriam termos nos Juízos de Família e Menores de Lisboa e de Sintra, vindo a ser-lhe aplicada, no primeiro, a medida de internamento em regime semiaberto, pelo prazo de 20 meses e no segundo, a medida de internamento em regime fechado, pelo prazo de 2 anos e 5 meses. Em 09.04.2024, quando o António havia já cumprido cerca de dois meses da medida tutelar de internamento referida em III (medida de internamento, em regime semiaberto, pelo período de 18 meses), o Processo Tutelar Educativo é presente ao magistrado nos termos e para os efeitos do artigo 8.º da LTE.
 
 #### II. Problemática
 
-A consagração do cúmulo jurídico foi proposta pela Comissão de Acompanhamento e Fiscalização dos Centros EducaƟvos, sublinhando os efeitos nefastos do cumprimento de medidas de internamento sucessivas, “correspondendo a períodos de internamento que cobrem toda a adolescência e contrariam direitos fundamentais e a eﬁcácia de qualquer projecto educaƟvo”, proposto, assim, a “transferência do insƟtuto penal – com provas dadas no Direito penal – do «cúmulo jurídico» de medidas tutelares para a LTE, por se veriﬁcar que o arƟgoº 8.º da mesma tem permiƟdo que o jovem cumpra sucessiva e longamente tais medidas, arrastando-se no tempo uma situação indesejável e com pouca prognose de êxito, no que tange aos objecƟvos da intervenção tutelar educaƟva”23.
+A consagração do cúmulo jurídico foi proposta pela Comissão de Acompanhamento e Fiscalização dos Centros Educativos, sublinhando os efeitos nefastos do cumprimento de medidas de internamento sucessivas, “correspondendo a períodos de internamento que cobrem toda a adolescência e contrariam direitos fundamentais e a eficácia de qualquer projecto educativo”, proposto, assim, a “transferência do instituto penal – com provas dadas no Direito penal – do «cúmulo jurídico» de medidas tutelares para a LTE, por se verificar que o artigoº 8.º da mesma tem permitido que o jovem cumpra sucessiva e longamente tais medidas, arrastando-se no tempo uma situação indesejável e com pouca prognose de êxito, no que tange aos objectivos da intervenção tutelar educativa”23.
 
-Neste contexto, com a revisão de 2015 da LTE, subsƟtuiu-se o regime de cumprimento sucessivo de medidas de internamento pelo cúmulo jurídico – no arƟgo 8.º, n.º 4.º da LTE. Não obstante, várias têm sido as dúvidas interpretaƟvas em torno desta norma, que reclama uma nova intervenção legislaƟva.
+Neste contexto, com a revisão de 2015 da LTE, substituiu-se o regime de cumprimento sucessivo de medidas de internamento pelo cúmulo jurídico – no artigo 8.º, n.º 4.º da LTE. Não obstante, várias têm sido as dúvidas interpretativas em torno desta norma, que reclama uma nova intervenção legislativa.
 
-RelaƟvamente ao cúmulo jurídico de medidas tutelares de internamento com o mesmo regime de execução coloca-se a questão de saber se à medida única do cúmulo jurídico das medidas se aplica o mecanismo corretor previsto para o cumprimento sucessivo (arƟgo 8.º, n.º 6).
+Relativamente ao cúmulo jurídico de medidas tutelares de internamento com o mesmo regime de execução coloca-se a questão de saber se à medida única do cúmulo jurídico das medidas se aplica o mecanismo corretor previsto para o cumprimento sucessivo (artigo 8.º, n.º 6).
 
 A propósito do cúmulo jurídico de medidas tutelares de internamento com diferentes regimes de execução coloca-se, desde logo, a questão de saber qual a moldura do cúmulo, nomeadamente no seu limite mínimo.
 
-Interroga-se igualmente se o limite do arƟgo 18.º é aplicável também às situações de cúmulo jurídico ou só às medidas únicas (questão seguinte).
+Interroga-se igualmente se o limite do artigo 18.º é aplicável também às situações de cúmulo jurídico ou só às medidas únicas (questão seguinte).
 
 #### III. Análise
 
-Importa atentar no disposto no arƟgo 8.º, n.º 4, n.º 6 e n.º 7 – Aplicação de várias medidas):
+Importa atentar no disposto no artigo 8.º, n.º 4, n.º 6 e n.º 7 – Aplicação de várias medidas):
 
 23 Ver o Relatório da Comissão de Acompanhamento e Fiscalização dos Centros Educativos, de 2014.
 
@@ -6107,49 +6107,49 @@ Importa atentar no disposto no arƟgo 8.º, n.º 4, n.º 6 e n.º 7 – Aplicaç
 
 7 – Sempre que forem aplicáveis medidas de internamento com diferentes regimes de execução, o tempo total de duração não pode ultrapassar o dobro do tempo de duração da medida mais grave aplicada, cessando, em qualquer caso, o cumprimento com o limite de idade previsto no número anterior”.
 
-Este arƟgo deve ser interpretado em conjunto com os arƟgos 34.º (Carácter individual do processo), 19.º (Não cumulação) e 6.º, n.º 4 (sobre a práƟca de uma pluralidade de factos pelo menor).
+Este artigo deve ser interpretado em conjunto com os artigos 34.º (Carácter individual do processo), 19.º (Não cumulação) e 6.º, n.º 4 (sobre a prática de uma pluralidade de factos pelo menor).
 
-Face ao disposto no arƟgo 8.º, n.º 4, “Quando for aplicada mais do que uma medida de internamento ao mesmo menor, sem que se encontre integralmente cumprida uma delas, é efetuado, ouvido o Ministério Público, o menor e o seu defensor, o competente cúmulo jurídico de medidas, nos termos previstos na lei penal”. Neste senƟdo, é aplicável, o disposto nos arƟgos 77.º e 78.º CP, com as necessárias adaptações e limitações advindas da regulação expressa no arƟgo 8.º (que não regula os critérios de determinação da medida do cúmulo, nem determina o seu limite mínimo, nem a possibilidade desconto da medida já cumprida). Neste senƟdo, importam-se as seguintes regras do Código Penal:
+Face ao disposto no artigo 8.º, n.º 4, “Quando for aplicada mais do que uma medida de internamento ao mesmo menor, sem que se encontre integralmente cumprida uma delas, é efetuado, ouvido o Ministério Público, o menor e o seu defensor, o competente cúmulo jurídico de medidas, nos termos previstos na lei penal”. Neste sentido, é aplicável, o disposto nos artigos 77.º e 78.º CP, com as necessárias adaptações e limitações advindas da regulação expressa no artigo 8.º (que não regula os critérios de determinação da medida do cúmulo, nem determina o seu limite mínimo, nem a possibilidade desconto da medida já cumprida). Neste sentido, importam-se as seguintes regras do Código Penal:
 
-– arƟgo 77.º, n.º 1: “Quando alguém Ɵver praƟcado vários crimes (…)24 é condenado numa única pena. Na medida da pena são considerados, em conjunto, os factos e a personalidade do agente”.
+– artigo 77.º, n.º 1: “Quando alguém tiver praticado vários crimes (…)24 é condenado numa única pena. Na medida da pena são considerados, em conjunto, os factos e a personalidade do agente”.
 
-– arƟgo 77.º, n.º 2: “A pena aplicável tem como limite máximo a soma das penas concretamente aplicadas aos vários crimes …; e como limite mínimo a mais elevada das penas concretamente aplicadas aos vários crimes”.
+– artigo 77.º, n.º 2: “A pena aplicável tem como limite máximo a soma das penas concretamente aplicadas aos vários crimes …; e como limite mínimo a mais elevada das penas concretamente aplicadas aos vários crimes”.
 
-– arƟgo 78.º, n.º 1: “Se, depois de uma condenação transitada em julgado, se mostrar que o agente praƟcou, anteriormente àquela condenação, outro ou outros crimes, são aplicáveis as regras do arƟgo anterior, sendo a pena que já Ɵver sido cumprida descontada no cumprimento da pena única aplicada ao concurso de crimes”.
+– artigo 78.º, n.º 1: “Se, depois de uma condenação transitada em julgado, se mostrar que o agente praticou, anteriormente àquela condenação, outro ou outros crimes, são aplicáveis as regras do artigo anterior, sendo a pena que já tiver sido cumprida descontada no cumprimento da pena única aplicada ao concurso de crimes”.
 
-Nesta medida, conjugando os arƟgos 77.º, n.os1 e 2, 78.º, n.º 1, do CP com o arƟgo 8.º, n.º 4 e n.º 7, temos que:
+Nesta medida, conjugando os artigos 77.º, n.os1 e 2, 78.º, n.º 1, do CP com o artigo 8.º, n.º 4 e n.º 7, temos que:
 
 24 No artigo 77.º do Código Penal exige-se, para o cúmulo das penas, que todos os crimes tenham sido cometidos antes do trânsito em julgado de qualquer uma das condenações, ao passo que na LTE apenas se parece exigir, à luz do artigo 8.º, n.º 4, da LTE, que pelo menos uma das medidas de internamento aplicadas ainda não se encontre integralmente cumprida. Assim, parece ser de entender que se realizar-seá o cúmulo jurídico de medidas tutelares de internamento sempre que seja aplicada mais do que uma medida de internamento ao mesmo jovem sem que se encontre integralmente cumprida uma delas. Além disso, o cúmulo jurídico apenas tem lugar após o trânsito em julgado de todas as medidas tutelares que o integram.
 
-– importa proceder a uma avaliação global do comportamento e das necessidades educaƟvas do menor, que irão determinar a medida do cúmulo e a sua duração (cf. arƟgo 71.º, n.º 1, do CP, em ligação com os critérios contemplados nos arƟgos 6.º e 7.º da LTE);
+– importa proceder a uma avaliação global do comportamento e das necessidades educativas do menor, que irão determinar a medida do cúmulo e a sua duração (cf. artigo 71.º, n.º 1, do CP, em ligação com os critérios contemplados nos artigos 6.º e 7.º da LTE);
 
-– a moldura do cúmulo tem como limite máximo a soma das medidas parcelares de internamento concretamente aplicadas, sendo que se estiverem em causa medidas de internamento com diferentes regimes de execução, o tempo total de duração não pode ultrapassar o dobro do tempo de duração da medida mais grave aplicada, cessando, em qualquer caso, o cumprimento aos 21 anos (cfr. arƟgo 71.º, n.º 2, do CP, com a restrição imposta pelo arƟgo 8.º, n.º 7, da LTE) e como limite mínimo a mais elevada das medidas parcelares concretamente aplicadas (cfr. arƟgo 71.º, n.º 2, do CP);
+– a moldura do cúmulo tem como limite máximo a soma das medidas parcelares de internamento concretamente aplicadas, sendo que se estiverem em causa medidas de internamento com diferentes regimes de execução, o tempo total de duração não pode ultrapassar o dobro do tempo de duração da medida mais grave aplicada, cessando, em qualquer caso, o cumprimento aos 21 anos (cfr. artigo 71.º, n.º 2, do CP, com a restrição imposta pelo artigo 8.º, n.º 7, da LTE) e como limite mínimo a mais elevada das medidas parcelares concretamente aplicadas (cfr. artigo 71.º, n.º 2, do CP);
 
-– os períodos de internamento já cumpridos em execução de medidas que integraram o cúmulo são descontados na duração da medida do cúmulo (arƟgo 78.º, n.º 1, do CP).
+– os períodos de internamento já cumpridos em execução de medidas que integraram o cúmulo são descontados na duração da medida do cúmulo (artigo 78.º, n.º 1, do CP).
 
-Importa agora atentar na moldura do cúmulo (descrita acima), na medida em que o arƟgo 8.º, n.º 7, refere-se apenas especiﬁcamente às medidas de internamento com diferentes regimes de execução.
+Importa agora atentar na moldura do cúmulo (descrita acima), na medida em que o artigo 8.º, n.º 7, refere-se apenas especificamente às medidas de internamento com diferentes regimes de execução.
 
-Assim, no que diz respeito agora à moldura do cúmulo, temos que disƟnguir 2 situações (consoante as medidas a cumular tenham o mesmo ou diferentes regimes de execução):
+Assim, no que diz respeito agora à moldura do cúmulo, temos que distinguir 2 situações (consoante as medidas a cumular tenham o mesmo ou diferentes regimes de execução):
 
-1. Se as medidas de internamento Ɵverem o mesmo regime de execução, por exemplo, como no caso V (3 medidas de internamento em regime semiaberto: 18 meses; 20 meses e 24 meses), aplica-se o disposto no arƟgo 77.º, n.º 2 do CP (ex vi n.º 4, do arƟgo 8.º, LTE). Ou seja, o limite mínimo da moldura do cúmulo corresponderá à mais elevada das medidas de internamento e o limite máximo corresponderá ao resultado da soma das medidas tutelares de internamento concretamente aplicadas: in casu, teríamos uma moldura com o mínimo de 24 meses e o máximo de 4 anos e 14 meses. (Pergunta 1:
+1. Se as medidas de internamento tiverem o mesmo regime de execução, por exemplo, como no caso V (3 medidas de internamento em regime semiaberto: 18 meses; 20 meses e 24 meses), aplica-se o disposto no artigo 77.º, n.º 2 do CP (ex vi n.º 4, do artigo 8.º, LTE). Ou seja, o limite mínimo da moldura do cúmulo corresponderá à mais elevada das medidas de internamento e o limite máximo corresponderá ao resultado da soma das medidas tutelares de internamento concretamente aplicadas: in casu, teríamos uma moldura com o mínimo de 24 meses e o máximo de 4 anos e 14 meses. (Pergunta 1:
 
-deve aplicar-se à medida única do cúmulo o limite contemplado no arƟgo 8º, n.º 6?)
+deve aplicar-se à medida única do cúmulo o limite contemplado no artigo 8º, n.º 6?)
 
-2. Se as medidas de internamento Ɵverem diferentes regimes de execução, como no caso IV (1 medida de internamento em regime semiaberto, pelo prazo de 20 meses; 1 medida de internamento em regime fechado, pelo prazo de 2 anos e 5 meses; e anteriormente, pelos factos referidos no caso III, 1 medida de internamento, em regime semiaberto, pelo período de 18 meses, tendo António cumprido cerca de dois meses da medida, no momento em que é presente ao Tribunal para realização do cúmulo), haverá que atender também ao previsto especiﬁcamente no arƟgo 8.º, n.º 7, nos termos do qual o tempo total de duração não pode ultrapassar o dobro do tempo de duração da medida mais grave aplicada (ou seja, o limite mínimo do cúmulo será sempre o da medida mais grave - arƟgo77.º/2 CP, ex vi n.º 4, do arƟgo 8.º, LTE e o tempo total de duração não pode ultrapassar o seu dobro (n.º 7 do arƟgo 8.º LTE): in casu, para apurar o limite mínimo do cúmulo, tem-se levantado a questão de saber qual é a medida mais grave aplicada (arƟgo 77.º, n.º 2 do CP) (Pergunta 2: a medida mais grave aplicada é a mais longa ou aquela com um regime mais restriƟvo?)
+2. Se as medidas de internamento tiverem diferentes regimes de execução, como no caso IV (1 medida de internamento em regime semiaberto, pelo prazo de 20 meses; 1 medida de internamento em regime fechado, pelo prazo de 2 anos e 5 meses; e anteriormente, pelos factos referidos no caso III, 1 medida de internamento, em regime semiaberto, pelo período de 18 meses, tendo António cumprido cerca de dois meses da medida, no momento em que é presente ao Tribunal para realização do cúmulo), haverá que atender também ao previsto especificamente no artigo 8.º, n.º 7, nos termos do qual o tempo total de duração não pode ultrapassar o dobro do tempo de duração da medida mais grave aplicada (ou seja, o limite mínimo do cúmulo será sempre o da medida mais grave - artigo77.º/2 CP, ex vi n.º 4, do artigo 8.º, LTE e o tempo total de duração não pode ultrapassar o seu dobro (n.º 7 do artigo 8.º LTE): in casu, para apurar o limite mínimo do cúmulo, tem-se levantado a questão de saber qual é a medida mais grave aplicada (artigo 77.º, n.º 2 do CP) (Pergunta 2: a medida mais grave aplicada é a mais longa ou aquela com um regime mais restritivo?)
 
-Pergunta 1: deve aplicar-se à medida única do cúmulo o limite contemplado no arƟgo 8.º, n.º 6?
+Pergunta 1: deve aplicar-se à medida única do cúmulo o limite contemplado no artigo 8.º, n.º 6?
 
-Quando estejam em causa medidas de internamento com o mesmo regime, face á ausência de regulação expressa no arƟgo 8.º da LTE, e à inaplicabilidade dos limites das penas constantes do arƟgo 77.º do CP, importa reﬂeƟr se a medida única aplicável tem um limite máximo, aplicando-se o limite contemplado no n.º 6 do arƟgo 8.º, que diz respeito ao cumprimento sucessivo de medidas tutelares (“o tempo total de duração não pode ultrapassar o dobro do tempo de duração da medida mais grave aplicada”).
+Quando estejam em causa medidas de internamento com o mesmo regime, face á ausência de regulação expressa no artigo 8.º da LTE, e à inaplicabilidade dos limites das penas constantes do artigo 77.º do CP, importa refletir se a medida única aplicável tem um limite máximo, aplicando-se o limite contemplado no n.º 6 do artigo 8.º, que diz respeito ao cumprimento sucessivo de medidas tutelares (“o tempo total de duração não pode ultrapassar o dobro do tempo de duração da medida mais grave aplicada”).
 
-Entendemos que sim, com base numa interpretação sistemáƟca da norma. Sendo a regra estabelecida no n.º 7 semelhante à estabelecida no n.º 6 (“o limite temporal das medidas aplicadas ao mesmo menor é o dobro da duração da medida mais grave aplicada”), não faz senƟdo que inexista um limite apenas no contexto das medidas de internamento com igual regime de execução.
+Entendemos que sim, com base numa interpretação sistemática da norma. Sendo a regra estabelecida no n.º 7 semelhante à estabelecida no n.º 6 (“o limite temporal das medidas aplicadas ao mesmo menor é o dobro da duração da medida mais grave aplicada”), não faz sentido que inexista um limite apenas no contexto das medidas de internamento com igual regime de execução.
 
-Neste caso, a medida única teria como máximo 4 anos de internamento em regime semiaberto. Pergunta 2: a medida mais grave aplicada é a mais longa ou aquela com um regime mais restriƟvo?
+Neste caso, a medida única teria como máximo 4 anos de internamento em regime semiaberto. Pergunta 2: a medida mais grave aplicada é a mais longa ou aquela com um regime mais restritivo?
 
-Realizando uma interpretação conjunta do que parece resultar da redação do arƟgo 8.º, n.º 7, com o disposto nos arƟgos 17.º da LTE e 133.º, n.º 4, parece ser de concluir no senƟdo de entender que a medida mais grave aplicada é aquela que provoca um grau mais elevado de limitação da autonomia de decisão e condução da vida do menor25. Como aponta Paulo Guerra26 “a norma do n.º 4 deste normaƟvo, bem como os pressupostos legais do arƟgo 17.º, sugerem que o regime de execução mais fechado é também o mais limitaƟvo da liberdade e da autonomia do jovem, pelo que o regime fechado será mais grave do que o semiaberto e, por sua vez, este úlƟmo será mais grave do que o aberto”, pelo que “[o] critério disƟnƟvo será, não o tempo de duração do internamento, mas o grau de compressão de liberdade e autonomia do jovem”.
+Realizando uma interpretação conjunta do que parece resultar da redação do artigo 8.º, n.º 7, com o disposto nos artigos 17.º da LTE e 133.º, n.º 4, parece ser de concluir no sentido de entender que a medida mais grave aplicada é aquela que provoca um grau mais elevado de limitação da autonomia de decisão e condução da vida do menor25. Como aponta Paulo Guerra26 “a norma do n.º 4 deste normativo, bem como os pressupostos legais do artigo 17.º, sugerem que o regime de execução mais fechado é também o mais limitativo da liberdade e da autonomia do jovem, pelo que o regime fechado será mais grave do que o semiaberto e, por sua vez, este último será mais grave do que o aberto”, pelo que “[o] critério distintivo será, não o tempo de duração do internamento, mas o grau de compressão de liberdade e autonomia do jovem”.
 
-De resto, como analisa Rui do Carmo, sendo a regra estabelecida no n.º 7 idênƟca à estabelecida no n.º 6, “[o] senƟdo de medida mais grave não pode ser diferente nas medidas não insƟtucionais e nas medidas insƟtucionais”27.
+De resto, como analisa Rui do Carmo, sendo a regra estabelecida no n.º 7 idêntica à estabelecida no n.º 6, “[o] sentido de medida mais grave não pode ser diferente nas medidas não institucionais e nas medidas institucionais”27.
 
-Uma outra dúvida emergente do arƟgo 8.º, n.º 4, consiste em saber se o cúmulo jurídico engloba apenas as medidas ainda por cumprir total ou parcialmente ou também as já cumpridas/exƟntas.
+Uma outra dúvida emergente do artigo 8.º, n.º 4, consiste em saber se o cúmulo jurídico engloba apenas as medidas ainda por cumprir total ou parcialmente ou também as já cumpridas/extintas.
 
 25 Assim, Elsa Castelo, op cit, p. 25 e ss.; Rui do Carmo, “Anotação ao artigo 8.º”, op cit., p. 51; Paulo Guerra, “Anotação ao artigo 133.º”, op cit., pp. 379 e ss.
 
@@ -6157,49 +6157,49 @@ Uma outra dúvida emergente do arƟgo 8.º, n.º 4, consiste em saber se o cúmu
 
 27 Rui do Carmo, “Anotação ao artigo 8.º”, op cit., p. 51. Neste sentido ver também Rui Jorge Guedes Faria de Amorim, que apresentou o seguinte exemplo: “se ao jovem tiverem sido aplicadas duas medidas de internamento em regime aberto por um ano cada, uma medida de internamento em regime semiaberto por um ano e meio e uma medida de internamento em regime fechado por um ano, então, o limite do cúmulo jurídico de medidas será o internamento em regime fechado por dois anos (art. 8.º/7)” – cf. Rui Jorge Guedes Faria de Amorim, “Fundamento e Alcance da Recente Revisão da Lei Tutelar Educativa”, Revista do Centro de Estudos Judiciários, 2015-II, pp. 168 e 169).
 
-A letra da lei, por si só, não permite responder a esta questão. Como adverte Rui do Carmo, “A resposta tem de ser (…) encontrada na razão de ser da norma e no seu relacionamento e coerência com outras que caraterizam o senƟdo da aplicação e execução das medidas tutelares educaƟvas”28. Na esteira do Autor, “o estabelecimento de um limite máximo ao período de internamento em centro educaƟvo durante a janela temporal em que são aplicáveis ou exequíveis medidas tutelares educaƟvas (objeƟvo claramente assumido com esta alteração legislaƟva) obriga a uma reavaliação do percurso insƟtucional do menor sempre que lhe é aplicada uma nova medida de internamento, independentemente de a anterior ou anteriores se encontrarem já cumpridas ou não, à luz das necessidades educaƟvas, da aﬁrmação da sua autonomia e inserção social e do seu superior interesse”29.
+A letra da lei, por si só, não permite responder a esta questão. Como adverte Rui do Carmo, “A resposta tem de ser (…) encontrada na razão de ser da norma e no seu relacionamento e coerência com outras que caraterizam o sentido da aplicação e execução das medidas tutelares educativas”28. Na esteira do Autor, “o estabelecimento de um limite máximo ao período de internamento em centro educativo durante a janela temporal em que são aplicáveis ou exequíveis medidas tutelares educativas (objetivo claramente assumido com esta alteração legislativa) obriga a uma reavaliação do percurso institucional do menor sempre que lhe é aplicada uma nova medida de internamento, independentemente de a anterior ou anteriores se encontrarem já cumpridas ou não, à luz das necessidades educativas, da afirmação da sua autonomia e inserção social e do seu superior interesse”29.
 
-#### 2. Poderá a medida única resultante do cúmulo ser reduzida por força do disposto no arƟgo 18.º LTE?
+#### 2. Poderá a medida única resultante do cúmulo ser reduzida por força do disposto no artigo 18.º LTE?
 
-Está em causa a questão de saber se a medida única resultante do cúmulo pode ser reduzida por força do disposto no arƟgo 18.º LTE, nos termos do qual a medida de internamento em regime aberto e semiaberto tem a duração máxima de 2 anos e a medida de internamento em regime fechado tem, em geral, a duração máxima de 2 anos e, no caso de se tratar de crimes mais graves, de 3 anos.
+Está em causa a questão de saber se a medida única resultante do cúmulo pode ser reduzida por força do disposto no artigo 18.º LTE, nos termos do qual a medida de internamento em regime aberto e semiaberto tem a duração máxima de 2 anos e a medida de internamento em regime fechado tem, em geral, a duração máxima de 2 anos e, no caso de se tratar de crimes mais graves, de 3 anos.
 
-Ora a aplicação dos limites de duração da medida previstos no arƟgo 18.º não tem merecido consenso. Cremos que não deve aplicar-se esta norma, na medida em que o arƟgo 8.º (nos moldes analisados supra) se aﬁgura uma norma especíﬁca (de forma direta no caso de medidas de internamento com diferentes regimes de execução; com base numa interpretação sistemáƟca no caso de as medidas de internamento terem o mesmo regime de execução)30. Além do mais, revela-se claro que este preceito foi pensado para a medida singular e não para a que resulta do cúmulo de medidas.
+Ora a aplicação dos limites de duração da medida previstos no artigo 18.º não tem merecido consenso. Cremos que não deve aplicar-se esta norma, na medida em que o artigo 8.º (nos moldes analisados supra) se afigura uma norma específica (de forma direta no caso de medidas de internamento com diferentes regimes de execução; com base numa interpretação sistemática no caso de as medidas de internamento terem o mesmo regime de execução)30. Além do mais, revela-se claro que este preceito foi pensado para a medida singular e não para a que resulta do cúmulo de medidas.
 
-V. Suponha agora que nos três Processos Tutelares EducaƟvos supra referidos lhe Ɵnham sido aplicadas medidas tutelares educaƟvas com o mesmo regime de execução (internamento em regime semiaberto: 18 meses; 20 meses e 24 meses).
+V. Suponha agora que nos três Processos Tutelares Educativos supra referidos lhe tinham sido aplicadas medidas tutelares educativas com o mesmo regime de execução (internamento em regime semiaberto: 18 meses; 20 meses e 24 meses).
 
 #### 1. Qual o tribunal competente para a realização do cúmulo? O cúmulo será realizado pelo juiz singular ou terá que ser convocado o tribunal misto?
 
-#### 2. E qual o limite máximo do cúmulo jurídico das medidas com o mesmo regime de execução? Aplica-se o mecanismo corretor previsto para o cumprimento sucessivo (arƟgo
+#### 2. E qual o limite máximo do cúmulo jurídico das medidas com o mesmo regime de execução? Aplica-se o mecanismo corretor previsto para o cumprimento sucessivo (artigo
 
 28 Rui do Carmo, “Anotação ao artigo 8.º”, op cit., pp. 49/50.
 
 29 Em sentido diferente, Júlio Barbosa e Silva, “«E se todo o mundo é composto de mudança»: um primeiro comentário sobre as novidades trazidas pelas alterações à Lei Tutelar Educativa, efectuadas pela Lei n.º 4/2015, de 15 de janeiro”, Revista do Ministério Público, 143, julho-setembro 2015, pp. 27 e 28, entende que “sem que se encontre totalmente cumprida uma delas” quer “significa[r] que as medidas já cumpridas/extintas não entram no cúmulo”, porque se não “dir-se-ia: «tenha ou não sido já cumprida»)”. 30 Em sentido diferente, ver Elsa Castelo, op cit, p. 26 e ss, alertando para o facto de que caso os diferentes processos do menor tivessem sido apensados, por exemplo, em fase de inquérito, nos termos do disposto no artigo 34.º da LTE, poderia ter-se procedido à aplicação de uma única medida tutelar, com os limites impostos pelo referido artigo 18.º.
 
-#### 8.º, n.º 6) e para o cúmulo de medidas tutelares com diferentes regimes de execução (arƟgo 8.º, n.º 7)? (ver supra)
+#### 8.º, n.º 6) e para o cúmulo de medidas tutelares com diferentes regimes de execução (artigo 8.º, n.º 7)? (ver supra)
 
-#### 3. O tribunal pode determinar a medida única de internamento resultante do cúmulo jurídico em regime mais restriƟvo do que o aplicado em quaisquer das medidas parcelares que o integrem?
+#### 3. O tribunal pode determinar a medida única de internamento resultante do cúmulo jurídico em regime mais restritivo do que o aplicado em quaisquer das medidas parcelares que o integrem?
 
 #### 4. Atendendo à data de nascimento do jovem, até que data pode o tribunal realizar o cúmulo jurídico das medidas de internamento?
 
-#### 1. Importa agora apurar qual o tribunal competente para a realização do cúmulo: será o tribunal singular ou tribunal coleƟvo? Será o processo da úlƟma condenação como no cúmulo das penas ou o do processo da decisão transitada em primeiro lugar como resulta do arƟgo 37.º, n.º 2, da LTE?
+#### 1. Importa agora apurar qual o tribunal competente para a realização do cúmulo: será o tribunal singular ou tribunal coletivo? Será o processo da última condenação como no cúmulo das penas ou o do processo da decisão transitada em primeiro lugar como resulta do artigo 37.º, n.º 2, da LTE?
 
-Quanto ao tribunal competente para efetuar o cúmulo jurídico das medidas de internamento, deve entender-se que é competente o tribunal coleƟvo “consƟtuído pelo juiz do processo (…) e por dois juízes sociais” (arƟgo 30.º, n.º 2 da LTE)31.
+Quanto ao tribunal competente para efetuar o cúmulo jurídico das medidas de internamento, deve entender-se que é competente o tribunal coletivo “constituído pelo juiz do processo (…) e por dois juízes sociais” (artigo 30.º, n.º 2 da LTE)31.
 
-Como foi decidido pelo Tribunal da Relação de Lisboa, em 14.02.2019 (disponível em www.dgsi.pt): “I. Por força do art. 30.º/2 da Lei n.º 166/99, de 14 de setembro, o cúmulo jurídico das medidas de internamento, nos termos do art. 8.º/4, tem de ser decidido por um tribunal consƟtuído pelo juiz do processo, que preside, e por dois juízes sociais. II. Nos termos dos arƟgos 32.º/1 e 33.º/1 e 119.º, alínea a) e 122.º CPP, o Tribunal da Relação tem que declarar nula a decisão do cúmulo jurídico de medidas de internamento proferida pelo juiz do processo desacompanhado dos juízes sociais e devolver os autos para que um tribunal consƟtuído pelo juiz do processo e dois juízes sociais proﬁra nova decisão.”
+Como foi decidido pelo Tribunal da Relação de Lisboa, em 14.02.2019 (disponível em www.dgsi.pt): “I. Por força do art. 30.º/2 da Lei n.º 166/99, de 14 de setembro, o cúmulo jurídico das medidas de internamento, nos termos do art. 8.º/4, tem de ser decidido por um tribunal constituído pelo juiz do processo, que preside, e por dois juízes sociais. II. Nos termos dos artigos 32.º/1 e 33.º/1 e 119.º, alínea a) e 122.º CPP, o Tribunal da Relação tem que declarar nula a decisão do cúmulo jurídico de medidas de internamento proferida pelo juiz do processo desacompanhado dos juízes sociais e devolver os autos para que um tribunal constituído pelo juiz do processo e dois juízes sociais profira nova decisão.”
 
-O Tribunal da Relação do Porto entendeu, por acórdão de 15.02.2019 (disponível em www.dgsi.pt) que: “II. Transitadas em julgado as sentenças que aplicaram as medidas tutelares educaƟvas que se cumularam na sentença recorrida, tendo sido as medidas não insƟtucionais preteridas em todas essas decisões, não há que reequacionar a aplicação dessas medidas. III. Face ao conhecimento superveniente da prévia aplicação ao mesmo menor de mais do que uma medida de internamento, sem que se encontre cumprida uma delas, importa apenas proceder ao cúmulo jurídico das medidas de internamento.”
+O Tribunal da Relação do Porto entendeu, por acórdão de 15.02.2019 (disponível em www.dgsi.pt) que: “II. Transitadas em julgado as sentenças que aplicaram as medidas tutelares educativas que se cumularam na sentença recorrida, tendo sido as medidas não institucionais preteridas em todas essas decisões, não há que reequacionar a aplicação dessas medidas. III. Face ao conhecimento superveniente da prévia aplicação ao mesmo menor de mais do que uma medida de internamento, sem que se encontre cumprida uma delas, importa apenas proceder ao cúmulo jurídico das medidas de internamento.”
 
 31 Cf. Rui do Carmo, “Anotação ao artigo 8.º”, op cit., p. 52. No mesmo sentido, sublinha Paulo Guerra, que “Se o cúmulo for superveniente, deverá ser de novo o tribunal coletivo a fazê-lo, mesmo que o jovem já tenha mais de 18 anos (não pode ter é mais de 21)” - Paulo Guerra, “Anotação ao artigo 133.º”, op cit., p. 384. Também Elsa Castelo, aponta que “fazendo uma interpretação sistemática do artigo 8.º e conjugando-o, quer com o artigo 125.º, n.º 2, da Lei da Organização do Sistema Judiciário, quer com o artigo 30.º, n.º 2, da Lei Tutelar Educativa, que dispõem que nos processos em que se presuma a aplicação de medida de internamento (...) o julgamento pertence a um tribunal constituído pelo juiz que preside e por 2 juízes sociais, inclino-me no sentido de que a competência para a realização do cúmulo caberá efetivamente ao tribunal coletivo” – cf. Elsa Castelo, op cit, pp. 31/33.
 
-Quanto ao tribunal territorialmente competente, parece dever entender-se que deve proceder-se nos termos previstos no arƟgo 471.º CPP -Conhecimento superveniente do concurso32, sendo territorialmente competente “o da úlƟma condenação”, ou seja, o processo com a aplicação mais recente de medida tutelar, como aponta Rui do Carmo33.
+Quanto ao tribunal territorialmente competente, parece dever entender-se que deve proceder-se nos termos previstos no artigo 471.º CPP -Conhecimento superveniente do concurso32, sendo territorialmente competente “o da última condenação”, ou seja, o processo com a aplicação mais recente de medida tutelar, como aponta Rui do Carmo33.
 
-Em senƟdo diferente vai, por exemplo, Elsa Castelo34, entendendo, desde logo, que o arƟgo 471.º, n.º 2 do CPP não se aplica subsidiariamente na medida em que o arƟgo 128.º da LTE apenas determina a aplicação subsidiária do CPP a parƟr das matérias previstas nos arƟgo 28.º e seguintes da LTE, não se aplicando por isso ao arƟgo 8.º e que o mesmo se revela incompaơvel com o disposto no arƟgo 37.º, n.º 2, da LTE, que determina que sempre que sejam organizados vários processos relaƟvamente ao mesmo menor, após o trânsito em julgado da decisão, os processos sejam apensados àquele cuja decisão tenha transitado em primeiro lugar. Entende, assim, que a solução para a questão da competência para a realização do cúmulo centra-se no arƟgo 37.º, n.º 2, sendo competente o processo cuja decisão haja transitado em primeiro lugar, sendo esta a solução sistemáƟca mais alinhada igualmente com o arƟgo 11.º do Regime Geral do Processo Tutelar Cível e com o arƟgo 81.º da Lei de Promoção de Crianças e Jovens em Perigo, sendo que é frequente nos casos de um menor com processo tutelar educaƟvo também haver a apensação dos processo de promoção do mesmo menor e muitas vezes processos tutelares cíveis35.
+Em sentido diferente vai, por exemplo, Elsa Castelo34, entendendo, desde logo, que o artigo 471.º, n.º 2 do CPP não se aplica subsidiariamente na medida em que o artigo 128.º da LTE apenas determina a aplicação subsidiária do CPP a partir das matérias previstas nos artigo 28.º e seguintes da LTE, não se aplicando por isso ao artigo 8.º e que o mesmo se revela incompatível com o disposto no artigo 37.º, n.º 2, da LTE, que determina que sempre que sejam organizados vários processos relativamente ao mesmo menor, após o trânsito em julgado da decisão, os processos sejam apensados àquele cuja decisão tenha transitado em primeiro lugar. Entende, assim, que a solução para a questão da competência para a realização do cúmulo centra-se no artigo 37.º, n.º 2, sendo competente o processo cuja decisão haja transitado em primeiro lugar, sendo esta a solução sistemática mais alinhada igualmente com o artigo 11.º do Regime Geral do Processo Tutelar Cível e com o artigo 81.º da Lei de Promoção de Crianças e Jovens em Perigo, sendo que é frequente nos casos de um menor com processo tutelar educativo também haver a apensação dos processo de promoção do mesmo menor e muitas vezes processos tutelares cíveis35.
 
-2. E qual o limite máximo do cúmulo jurídico das medidas com o mesmo regime de execução? Aplica-se o mecanismo corretor previsto para o cumprimento sucessivo (arƟgo 8.º, n.º 6) e para o cúmulo de medidas tutelares com diferentes regimes de execução (arƟgo 8.º, n.º 7)? (ver resposta supra)
+2. E qual o limite máximo do cúmulo jurídico das medidas com o mesmo regime de execução? Aplica-se o mecanismo corretor previsto para o cumprimento sucessivo (artigo 8.º, n.º 6) e para o cúmulo de medidas tutelares com diferentes regimes de execução (artigo 8.º, n.º 7)? (ver resposta supra)
 
-#### 3. O tribunal pode determinar a medida única de internamento resultante do cúmulo jurídico em regime mais restriƟvo do que o aplicado em quaisquer das medidas parcelares que o integrem?
+#### 3. O tribunal pode determinar a medida única de internamento resultante do cúmulo jurídico em regime mais restritivo do que o aplicado em quaisquer das medidas parcelares que o integrem?
 
-Cremos que não parece haver impedimento legal a que tal aconteça, recorrendo à interpretação conjunta dos arƟgos 8.º, 17.º, n.os 1 e 4, 138.º, n.º2, al. d) e 139.º, n.º2, al. c), não descurando igualmente o disposto no arƟgo 6.º, da LTE, segundo o qual o tribunal deve dar preferência à medida que represente menor intervenção na autonomia de decisão e de condução de vida do menor e que seja susceơvel de obter a sua adesão e a dos seus pais.
+Cremos que não parece haver impedimento legal a que tal aconteça, recorrendo à interpretação conjunta dos artigos 8.º, 17.º, n.os 1 e 4, 138.º, n.º2, al. d) e 139.º, n.º2, al. c), não descurando igualmente o disposto no artigo 6.º, da LTE, segundo o qual o tribunal deve dar preferência à medida que represente menor intervenção na autonomia de decisão e de condução de vida do menor e que seja suscetível de obter a sua adesão e a dos seus pais.
 
 32 Artigo 471.º - Conhecimento superveniente do concurso: “1 - Para o efeito do disposto nos n.ºs 1 e 2 do artigo 78.º do Código Penal é competente, conforme os casos, o tribunal colectivo ou o tribunal singular. É correspondentemente aplicável a alínea b) do n.º 2 do artigo 14.º. 2 - Sem prejuízo do disposto no número anterior, é territorialmente competente o tribunal da última condenação”.
 
@@ -6209,15 +6209,15 @@ Cremos que não parece haver impedimento legal a que tal aconteça, recorrendo �
 
 35 Nesta medida, entende a Autora que “a apensação do artigo 37.º, n.º 2, da LTE ao processo da decisão transitada em julgado em primeiro lugar é a que melhor se compatibiliza com o facto de muito provavelmente esse primeiro processo já se encontrar apensado aos processos tutelares cíveis e de promoção e proteção do menor, sendo o juiz e o procurador do processo mais antigo o juiz e o procurador daquele menor e sendo afinal eles aqueles que há mais tempo conhecerão o menor e logo aqueles que melhor o conhecerão” - Elsa Castelo, op cit, p. 33.
 
-Nesta medida, se pelo menos um dos factos ilícitos praƟcados pelo jovem permiƟr a aplicação de medida de internamento em regime fechado (arƟgo 17.º, n.º4), tendo anteriormente sido aplicadas medidas de internamento em regime aberto ou semiaberto, se o tribunal considere, à luz da globalidade e da gravidade do conjunto dos factos praƟcados, analisados à luz do princípio da atualidade e da conƟngência, a necessidade de aplicação de uma medida única em regime fechado, não parece haver impedimento legal a que seja essa a medida aplicada36.
+Nesta medida, se pelo menos um dos factos ilícitos praticados pelo jovem permitir a aplicação de medida de internamento em regime fechado (artigo 17.º, n.º4), tendo anteriormente sido aplicadas medidas de internamento em regime aberto ou semiaberto, se o tribunal considere, à luz da globalidade e da gravidade do conjunto dos factos praticados, analisados à luz do princípio da atualidade e da contingência, a necessidade de aplicação de uma medida única em regime fechado, não parece haver impedimento legal a que seja essa a medida aplicada36.
 
-Assim, por exemplo, Rui do Carmo39 entende que “[n]ão se veriﬁca qualquer impedimento legal a que a medida de internamento do cúmulo tenha um regime mais restriƟvo do que as medidas cumuladas, desde que possa ser aplicado aos factos praƟcados e ao menor, por estarem saƟsfeitos os requisitos estabelecidos no art. 17.º.”, entendendo que “[s]e esse agravamento é possível na revisão de medidas em execução [em caso de medida não insƟtucional, pode ser ordenado o interna em regime semiaberto [arƟgo 138º/2.d)]; em caso de medida insƟtucional, pode ser subsƟtuído o regime de execução por outro mais grave [arƟgo 139.º/2, c)], pode sê-lo também em resultado de cúmulo jurídico, que consƟtui uma nova avaliação do comportamento e necessidades educaƟvas do menor provocada pela práƟca de novos factos que conduziram à aplicação de nova medida de internamento”.
+Assim, por exemplo, Rui do Carmo39 entende que “[n]ão se verifica qualquer impedimento legal a que a medida de internamento do cúmulo tenha um regime mais restritivo do que as medidas cumuladas, desde que possa ser aplicado aos factos praticados e ao menor, por estarem satisfeitos os requisitos estabelecidos no art. 17.º.”, entendendo que “[s]e esse agravamento é possível na revisão de medidas em execução [em caso de medida não institucional, pode ser ordenado o interna em regime semiaberto [artigo 138º/2.d)]; em caso de medida institucional, pode ser substituído o regime de execução por outro mais grave [artigo 139.º/2, c)], pode sê-lo também em resultado de cúmulo jurídico, que constitui uma nova avaliação do comportamento e necessidades educativas do menor provocada pela prática de novos factos que conduziram à aplicação de nova medida de internamento”.
 
-Em senƟdo diferente, por exemplo Paulo Guerra37 aponta que “…no cúmulo de várias medidas de internamento aberto e/ou semiaberto não é possível operar-se uma subsƟtuição do modo de execução por um regime fechado, ainda que apenas no cômputo ﬁnal da medida tutelar única estejam reunidos os pressupostos dos n.os 1 e 4 do art. 17.º”.
+Em sentido diferente, por exemplo Paulo Guerra37 aponta que “…no cúmulo de várias medidas de internamento aberto e/ou semiaberto não é possível operar-se uma substituição do modo de execução por um regime fechado, ainda que apenas no cômputo final da medida tutelar única estejam reunidos os pressupostos dos n.os 1 e 4 do art. 17.º”.
 
 #### 5. Atendendo à data de nascimento do jovem, até que data pode o tribunal realizar o cúmulo jurídico das medidas de internamento?
 
-Parece ser de entender que o tribunal coleƟvo pode realizar o cúmulo jurídico das medidas de internamento até aos 21 anos do jovem, realizando uma leitura conjunta das normas constantes do arƟgo 5.º (“A execução das medidas tutelares pode prolongar-se até o jovem completar 21 anos, momento em que cessa obrigatoriamente”) e o arƟgoº 8.º, n.os 6 e 7, que estabelece o limite de idade obrigatório dos 21 anos para o cumprimento da medida tutelar, mesmo no caso de cumprimento sucessivo de medidas tutelares, ou no cumprimento da medida de internamento única, obƟda através do cúmulo jurídico.
+Parece ser de entender que o tribunal coletivo pode realizar o cúmulo jurídico das medidas de internamento até aos 21 anos do jovem, realizando uma leitura conjunta das normas constantes do artigo 5.º (“A execução das medidas tutelares pode prolongar-se até o jovem completar 21 anos, momento em que cessa obrigatoriamente”) e o artigoº 8.º, n.os 6 e 7, que estabelece o limite de idade obrigatório dos 21 anos para o cumprimento da medida tutelar, mesmo no caso de cumprimento sucessivo de medidas tutelares, ou no cumprimento da medida de internamento única, obtida através do cúmulo jurídico.
 
 36 Assim também Elsa Castelo, op cit, pp. 27/28. Como sublinha a Autora: “A ponderação que o julgador irá levar a cabo no momento da realização do cúmulo jurídico partirá de pressupostos totalmente distintos da ponderação que foi feita na escolha e fixação de cada uma das medidas parcelares. Com efeito, ao tempo da fixação de cada medida parcelar, o julgador apenas considerou um facto, tendo avaliado da necessidade de educação do menor para o direito manifestada na prática isolada desse facto. Quando leva a cabo a ponderação necessária para a realização do cúmulo jurídico de medidas, o julgador avalia os factos e a sua gravidade na sua globalidade, sendo a necessidade de correção do menor para o direito manifestada nessa globalidade provavelmente muito distinta da necessidade de educação para o direito manifestada em cada um dos factos isoladamente considerados”. 39 Rui do Carmo, “Anotação ao artigo 8.º”, op cit., pp. 51/52.
 
@@ -6225,25 +6225,25 @@ Parece ser de entender que o tribunal coleƟvo pode realizar o cúmulo jurídico
 
 41 Paulo Guerra, “Anotação ao artigo 133.º”, op cit., p. 84.
 
-Ou seja, cremos que o tribunal coleƟvo pode realizar o cúmulo jurídico das medidas de internamento “mesmo que o jovem já tenha mais de 18 anos”, como sublinha Paulo Guerra41.
+Ou seja, cremos que o tribunal coletivo pode realizar o cúmulo jurídico das medidas de internamento “mesmo que o jovem já tenha mais de 18 anos”, como sublinha Paulo Guerra41.
 
-De acordo com o arƟgo 28.º, n.º 2, al. b), da LTE, cessa a competência das secções de família e menores quando o menor completar 18 anos antes da data da decisão em primeira instância. Neste senƟdo, se não há ainda decisão (ou decisões) em primeira instância, o jovem não verá ser-lhe aplicada qualquer medida tutelar logo que perfaça 18 anos.
+De acordo com o artigo 28.º, n.º 2, al. b), da LTE, cessa a competência das secções de família e menores quando o menor completar 18 anos antes da data da decisão em primeira instância. Neste sentido, se não há ainda decisão (ou decisões) em primeira instância, o jovem não verá ser-lhe aplicada qualquer medida tutelar logo que perfaça 18 anos.
 
-Não obstante, ao aƟngir os 18 anos, o jovem poderá ter já decisão que aplica medida tutelar, nomeadamente de internamento, ou mesmo estar já a cumprir essa medida de internamento e ter outras aplicadas, que ainda não cumpriu, mas que ainda não foram cumuladas com a primeira. Neste contexto, cremos, como acima referimos, que deverá proceder-se ao cúmulo. Com efeito, a decisão de 1.ª instância a que o arƟgo 28.º faz referência parece ser a que aplica cada uma das medidas tutelares e já não a decisão de natureza execuƟva de efeƟvação do cúmulo jurídico de medidas38.
+Não obstante, ao atingir os 18 anos, o jovem poderá ter já decisão que aplica medida tutelar, nomeadamente de internamento, ou mesmo estar já a cumprir essa medida de internamento e ter outras aplicadas, que ainda não cumpriu, mas que ainda não foram cumuladas com a primeira. Neste contexto, cremos, como acima referimos, que deverá proceder-se ao cúmulo. Com efeito, a decisão de 1.ª instância a que o artigo 28.º faz referência parece ser a que aplica cada uma das medidas tutelares e já não a decisão de natureza executiva de efetivação do cúmulo jurídico de medidas38.
 
-VI. Admita agora que o jovem Ɵnha cumprido já metade do tempo de duração do internamento resultante da medida do cúmulo jurídico e que o tribunal, com base em parecer favorável emiƟdo pelos serviços de reinserção social, determinou que o internamento incluiria um período de supervisão intensiva, a executar em meio natural de vida. Para o efeito, foi imposto ao jovem o cumprimento de obrigações e regras de conduta.
+VI. Admita agora que o jovem tinha cumprido já metade do tempo de duração do internamento resultante da medida do cúmulo jurídico e que o tribunal, com base em parecer favorável emitido pelos serviços de reinserção social, determinou que o internamento incluiria um período de supervisão intensiva, a executar em meio natural de vida. Para o efeito, foi imposto ao jovem o cumprimento de obrigações e regras de conduta.
 
-Quando faltavam 9 meses para terminar o período de supervisão intensiva, o jovem subtrai objetos em ouro e um computador portáƟl no valor global de cinco mil euros de uma residência na qual se introduziu por escalamento.
+Quando faltavam 9 meses para terminar o período de supervisão intensiva, o jovem subtrai objetos em ouro e um computador portátil no valor global de cinco mil euros de uma residência na qual se introduziu por escalamento.
 
 #### 1. Pode e deve o tribunal rever a medida aplicada ao jovem?
 
 #### I. Enquadramento
 
-O arƟgo 158.º-A foi aditado pela Lei n.º 4/2015, de 15 de janeiro. O período de supervisão intensiva corresponde à execução de uma parcela da medida de internamento em meio natural de vida ou em casa de autonomia, e veio ao encontro de várias aspirações nesse senƟdo39.
+O artigo 158.º-A foi aditado pela Lei n.º 4/2015, de 15 de janeiro. O período de supervisão intensiva corresponde à execução de uma parcela da medida de internamento em meio natural de vida ou em casa de autonomia, e veio ao encontro de várias aspirações nesse sentido39.
 
-Embora o arƟgo mencionado não determine em que situações de internamento deve exisƟr período de supervisão intensiva, deixando tal matéria à decisão do tribunal, determina o seu escopo: “aferir o nível de competências de natureza integradora adquiridas pelo menor no meio insƟtucional, bem como o impacto no seu comportamento social e pessoal”.
+Embora o artigo mencionado não determine em que situações de internamento deve existir período de supervisão intensiva, deixando tal matéria à decisão do tribunal, determina o seu escopo: “aferir o nível de competências de natureza integradora adquiridas pelo menor no meio institucional, bem como o impacto no seu comportamento social e pessoal”.
 
-Na medida em que a supervisão intensiva decorre de uma operação de revisão da medida de internamento, são convocáveis as regras relaƟvas às modalidades e periodicidade da revisão das medidas tutelares, constantes do arƟgo 137.º, em tudo o que não for especialmente regulado pelo arƟgo 158-A40.
+Na medida em que a supervisão intensiva decorre de uma operação de revisão da medida de internamento, são convocáveis as regras relativas às modalidades e periodicidade da revisão das medidas tutelares, constantes do artigo 137.º, em tudo o que não for especialmente regulado pelo artigo 158-A40.
 
 38 Elsa Castelo, op cit, p. 24.
 
@@ -6251,19 +6251,19 @@ Na medida em que a supervisão intensiva decorre de uma operação de revisão d
 
 40 José Eduardo Lima, “Anotação ao art. 158.º-A”, op cit., p. 461.
 
-Como se estabelece no arƟgo 137.º, a revisão da medida tutelar de internamento, tendo em vista a aplicação do regime de supervisão intensiva, pode operar-se oﬁciosamente, a requerimento do Ministério Público, do jovem e dos pais, representante legal ou de quem tenha a sua guarda –, e ainda sob proposta da enƟdade encarregue de assegurar a execução da medida.
+Como se estabelece no artigo 137.º, a revisão da medida tutelar de internamento, tendo em vista a aplicação do regime de supervisão intensiva, pode operar-se oficiosamente, a requerimento do Ministério Público, do jovem e dos pais, representante legal ou de quem tenha a sua guarda –, e ainda sob proposta da entidade encarregue de assegurar a execução da medida.
 
-Neste contexto, a supervisão intensiva só pode equacionar-se no âmbito da execução da medida de internamento, em função das competências de natureza integradora que o jovem for adquirindo no decurso desta. Assim, concordamos com José Eduardo Lima quando refere quer “[a] ﬁxação de um período obrigatório de supervisão intensiva logo na decisão que aplicar a medida de internamento contraria frontalmente o princípio da adequação/necessidade da intervenção tutelar, que enforma toda a LTE” 41.
+Neste contexto, a supervisão intensiva só pode equacionar-se no âmbito da execução da medida de internamento, em função das competências de natureza integradora que o jovem for adquirindo no decurso desta. Assim, concordamos com José Eduardo Lima quando refere quer “[a] fixação de um período obrigatório de supervisão intensiva logo na decisão que aplicar a medida de internamento contraria frontalmente o princípio da adequação/necessidade da intervenção tutelar, que enforma toda a LTE” 41.
 
-Ademais, como sublinha o Autor, embora o n.º 6 pareça poder apontar para a ideia de que a sujeição do jovem ao cumprimento de obrigações e, ou, regras de conduta é facultaƟvo ( “O Tribunal pode”), deve entender-se que estas obrigações/regras de conduta devem ser impostas42, como se veriﬁcou no caso; como decorre do disposto nos n.os 10 e 11 do arƟgo 158-A, a avaliação da situação do jovem é realizada com base no (in)cumprimento das obrigações e regras de conduta.
+Ademais, como sublinha o Autor, embora o n.º 6 pareça poder apontar para a ideia de que a sujeição do jovem ao cumprimento de obrigações e, ou, regras de conduta é facultativo ( “O Tribunal pode”), deve entender-se que estas obrigações/regras de conduta devem ser impostas42, como se verificou no caso; como decorre do disposto nos n.os 10 e 11 do artigo 158-A, a avaliação da situação do jovem é realizada com base no (in)cumprimento das obrigações e regras de conduta.
 
-Importa também sublinhar que deve equacionar-se a consequência da práƟca pelo jovem, durante o período de supervisão intensiva, de novos factos qualiﬁcados como crime pela lei penal. Com efeito, este fundamento não está previsto expressamente no n.º 11 do arƟgo 158-A como fundamento para fazer cessar a supervisão intensiva e determinar o internamento. Na esteira de José Eduardo Lima apenas a violação grave ou reiterada das obrigações e regras de conduta impostas consƟtui fundamento para fazer cessar, incumprida, a supervisão intensiva e determinar o internamento, pelo que deve prever-se a abstenção da práƟca de novos factos qualiﬁcados como crime pela lei penal como regra de conduta43.
+Importa também sublinhar que deve equacionar-se a consequência da prática pelo jovem, durante o período de supervisão intensiva, de novos factos qualificados como crime pela lei penal. Com efeito, este fundamento não está previsto expressamente no n.º 11 do artigo 158-A como fundamento para fazer cessar a supervisão intensiva e determinar o internamento. Na esteira de José Eduardo Lima apenas a violação grave ou reiterada das obrigações e regras de conduta impostas constitui fundamento para fazer cessar, incumprida, a supervisão intensiva e determinar o internamento, pelo que deve prever-se a abstenção da prática de novos factos qualificados como crime pela lei penal como regra de conduta43.
 
-Não obstante, cremos que este moƟvo pode pressupor-se, jusƟﬁcando a determinação do (re)internamento, também à luz deste arƟgo 158.º-A, n.º 1, devendo atender-se ao escopo deste insƟtuto. Com efeito, determina-se no n.º 1 do arƟgo 158.º-A que : “… a execução das medidas de internamento pode compreender um período de supervisão intensiva…”.
+Não obstante, cremos que este motivo pode pressupor-se, justificando a determinação do (re)internamento, também à luz deste artigo 158.º-A, n.º 1, devendo atender-se ao escopo deste instituto. Com efeito, determina-se no n.º 1 do artigo 158.º-A que : “… a execução das medidas de internamento pode compreender um período de supervisão intensiva…”.
 
 #### 2. Em caso de cessação da supervisão intensiva, como se acha o tempo da medida de internamento que lhe falta cumprir?
 
-Em caso de cessação da supervisão intensiva, para calcular o tempo de medida que falta cumprir, nos termos do n.º 11, deve contabiliza-se o tempo de supervisão intensiva como tempo de internamento44. Com efeito, como sinteƟza José Eduardo Lima, “… esta conformação legal [do arƟgo 158-A, n.º 1] corre no senƟdo de ser o período de supervisão intensiva um especial efeito da revisão da medida de internamento, um modo especial de ajustar a execução da medida às necessidades educaƟvas do jovem, que acresce ao elenco constante do art. 139.º – durante a supervisão intensiva é a execução do internamento que prossegue, com nova modulação, sem que haja qualquer suspensão, pelo que este tempo deve descontar-se à duração da medida de internamento aplicada para achar o tempo a cumprir nos termos do n.º 11” 45. De resto, como sublinha o Autor, “…esta é também a solução em sede de revisão da medida de internamento para situações materialmente idênƟcas à supervisão intensiva – no caso de incumprimento do acompanhamento educaƟvo aplicado em subsƟtuição do internamento o jovem pode ser internado, mas o tempo de acompanhamento conta como tempo de cumprimento da medida – cfr., arts. 139.º/1, d), e 138.º/2, d), e 3” 46.
+Em caso de cessação da supervisão intensiva, para calcular o tempo de medida que falta cumprir, nos termos do n.º 11, deve contabiliza-se o tempo de supervisão intensiva como tempo de internamento44. Com efeito, como sintetiza José Eduardo Lima, “… esta conformação legal [do artigo 158-A, n.º 1] corre no sentido de ser o período de supervisão intensiva um especial efeito da revisão da medida de internamento, um modo especial de ajustar a execução da medida às necessidades educativas do jovem, que acresce ao elenco constante do art. 139.º – durante a supervisão intensiva é a execução do internamento que prossegue, com nova modulação, sem que haja qualquer suspensão, pelo que este tempo deve descontar-se à duração da medida de internamento aplicada para achar o tempo a cumprir nos termos do n.º 11” 45. De resto, como sublinha o Autor, “…esta é também a solução em sede de revisão da medida de internamento para situações materialmente idênticas à supervisão intensiva – no caso de incumprimento do acompanhamento educativo aplicado em substituição do internamento o jovem pode ser internado, mas o tempo de acompanhamento conta como tempo de cumprimento da medida – cfr., arts. 139.º/1, d), e 138.º/2, d), e 3” 46.
 
 41 José Eduardo Lima, “Anotação ao art. 158.º-A”, op cit., p. 461.
 
@@ -6317,7 +6317,7 @@ Casos práticos
 
 #### Propostas de solução
 
-Ação de Formação Workshop Adoção – A ﬁliação afeƟva – 31 de março 2023
+Ação de Formação Workshop Adoção – A filiação afetiva – 31 de março 2023
 
 Apresentação Power Point
 
@@ -6339,19 +6339,19 @@ O CASO
 
 1. Filipa de 40 anos e Georgina de 35 anos vivem em união de facto há 12 anos.
 
-2. Filipa tem a seu cargo o sobrinho Rafael, desde que este Ɵnha 5 anos de idade, primeiro no âmbito de uma medida de promoção e protecção de conﬁança a outro familiar e depois por decisão tutelar cível de conﬁança a terceira pessoa.
+2. Filipa tem a seu cargo o sobrinho Rafael, desde que este tinha 5 anos de idade, primeiro no âmbito de uma medida de promoção e protecção de confiança a outro familiar e depois por decisão tutelar cível de confiança a terceira pessoa.
 
 3. Rafael conta, actualmente, com 16 anos de idade.
 
 4. Filipa e Georgina apresentaram a sua candidatura à adopção de Rafael nos Serviços da Segurança Social e a sua pretensão foi avaliada favoravelmente.
 
-5. Rafael, já com 16 anos, foi conﬁado administraƟvamente ao casal, na modalidade de conﬁrmação de permanência a cargo de candidato à adopção.
+5. Rafael, já com 16 anos, foi confiado administrativamente ao casal, na modalidade de confirmação de permanência a cargo de candidato à adopção.
 
 #### QUESTÕES
 
 * A pretensão de Filipa e Georgina em adoptar Rafael pode ser decidida favoravelmente tendo em conta os requisitos exigidos pelos arts. 1979.º e 1980.º do Código Civil?
 
-* E caso não Ɵvesse havido conﬁança administraƟva, poderia ser decidida favoravelmente a adopção de Rafael, por Filipa e Georgina?
+* E caso não tivesse havido confiança administrativa, poderia ser decidida favoravelmente a adopção de Rafael, por Filipa e Georgina?
 
 ENQUADRAMENTO
 
@@ -6393,7 +6393,7 @@ No caso, as responsabilidades parentais de Rafael estavam, por decisões judicia
 
 Este entendimento segue de perto o decidido no Ac. do Supremo Tribunal de Justiça, de 9 de Fevereiro de 2021, em cujo sumário se pode ler «Para que o direito responda às necessidades da vida e para que o interesse do adotando seja completamente protegido, deve entender-se que a expressão “confiança”, ínsita no artigo 1980.º, n.º 3 do Código Civil, tem um sentido amplo, englobando a confiança da criança a uma terceira pessoa, ao abrigo de uma medida de proteção (por exemplo, apoio junto de outro familiar ou confiança a pessoa idónea), ou, ao abrigo de uma decisão judicial proferida num processo de regulação do exercício das responsabilidades parentais.
 
-II. Veriﬁca-se o requisito de adotabilidade – capacidade da adotanda – nos casos em que, tendo a confiança administrativa com vista a futura adoção sido decretada depois de a menor atingir mais de 15 anos de idade, se demonstre que a guarda da menor foi confiada, antes de esta completar 15 anos, à requerente da adoção, por acordo entre esta e os pais biológicos, homologado pelo tribunal num processo de regulação do exercício das responsabilidades parentais.»
+II. Verifica-se o requisito de adotabilidade – capacidade da adotanda – nos casos em que, tendo a confiança administrativa com vista a futura adoção sido decretada depois de a menor atingir mais de 15 anos de idade, se demonstre que a guarda da menor foi confiada, antes de esta completar 15 anos, à requerente da adoção, por acordo entre esta e os pais biológicos, homologado pelo tribunal num processo de regulação do exercício das responsabilidades parentais.»
 
 Apelando, porém, aos princípios da jurisdição voluntária, o Tribunal da Relação de Lisboa considerou em aresto de 8 de Junho de 2017 (Proc. n.º 4692/16.0T8VFX.L1- 8), poder ser adoptado jovem com mais de 15 anos sem que anteriormente à declaração da confiança administrativa tivesse sido atribuído o exercício das responsabilidades parentais ao candidato, titulando juridicamente um laço de afecto recíproco.
 
@@ -6465,7 +6465,7 @@ Sendo assim, decidiu:
 
 – Voto de vencida da Sra. Juiz Conselheira Maria Benedita Urbano, segundo o qual:
 
-O Magistrado do Ministério Público junto do Tribunal ConsƟtucional propendeu no senƟdo que a manifestação da vontade de adoptar no dia anterior ao da maioridade, apresentando requerimento na Segurança Social, é suﬁciente (a lei não exige que o requerimento seja no Tribunal).
+O Magistrado do Ministério Público junto do Tribunal Constitucional propendeu no sentido que a manifestação da vontade de adoptar no dia anterior ao da maioridade, apresentando requerimento na Segurança Social, é suficiente (a lei não exige que o requerimento seja no Tribunal).
 
 «Não acompanho o projeto de acórdão quanto à decisão e quanto a parte da fundamentação em que a mesma assenta.
 
@@ -6487,149 +6487,149 @@ Chamando à colação o Acórdão n.º 551/2003, adianta que «A argumentação 
 
 Em segundo lugar, o circunstancialismo próprio dos presentes autos não justifica que se considere estarmos perante um caso-limite com o intuito de proporcionar um tratamento jurídico excecional ao potencial adotado.»
 
-Os consenƟmentos para a adoção Consequências da revogação da al. b) do n.º 3 do art. 1981.º do Código Civil
+Os consentimentos para a adoção Consequências da revogação da al. b) do n.º 3 do art. 1981.º do Código Civil
 
 1. Mariana, de 13 anos, vive com a madrinha, Luísa, desde os 2 anos.
 
-2. No âmbito de Processo Judicial de Promoção e Proteção, beneﬁciou de medida de conﬁança a pessoa idónea e, mais tarde, em providência tutelar cível foi conﬁada à guarda e cuidados da madrinha.
+2. No âmbito de Processo Judicial de Promoção e Proteção, beneficiou de medida de confiança a pessoa idónea e, mais tarde, em providência tutelar cível foi confiada à guarda e cuidados da madrinha.
 
-3. Os pais não mantêm qualquer relação com a ﬁlha, não contribuindo também para o seu sustento.
+3. Os pais não mantêm qualquer relação com a filha, não contribuindo também para o seu sustento.
 
-4. A madrinha candidatou-se à adoção e, apesar da oposição do pai, foi-lhe atribuída a conﬁança administraƟva de Mariana, ao abrigo do disposto no art. 34.º, n.º 2, al. b), do Regime Jurídico do Processo de Adoção.
+4. A madrinha candidatou-se à adoção e, apesar da oposição do pai, foi-lhe atribuída a confiança administrativa de Mariana, ao abrigo do disposto no art. 34.º, n.º 2, al. b), do Regime Jurídico do Processo de Adoção.
 
-5. Deu entrada o processo de adoção e, no âmbito deste, foram realizadas diligências para audição dos progenitores, tendo, nessa sequência a mãe dado o consenƟmento à adoção.
+5. Deu entrada o processo de adoção e, no âmbito deste, foram realizadas diligências para audição dos progenitores, tendo, nessa sequência a mãe dado o consentimento à adoção.
 
 #### Hipótese 1:
 
-Apesar de devidamente noƟﬁcado o pai de Mariana não compareceu em tribunal tendo sido infruơferas as diligências encetadas posteriormente para o localizar.
+Apesar de devidamente notificado o pai de Mariana não compareceu em tribunal tendo sido infrutíferas as diligências encetadas posteriormente para o localizar.
 
 #### Hipótese 2:
 
-O pai de Mariana não deu o consenƟmento à adoção da sua ﬁlha.
+O pai de Mariana não deu o consentimento à adoção da sua filha.
 
 ENQUADRAMENTO
 
-Como se sabe, a conﬁança da criança ao adotante, seja por via da conﬁança administraƟva, seja por força da medida de conﬁança com vista a futura adoção decretada no âmbito de processo judicial de promoção e proteção (arts. 2.º, al. c), e 34.º, n.º 1, do Regime Jurídico do Processo de Adoção) surge como um requisito essencial à consƟtuição do vínculo adoƟvo.
+Como se sabe, a confiança da criança ao adotante, seja por via da confiança administrativa, seja por força da medida de confiança com vista a futura adoção decretada no âmbito de processo judicial de promoção e proteção (arts. 2.º, al. c), e 34.º, n.º 1, do Regime Jurídico do Processo de Adoção) surge como um requisito essencial à constituição do vínculo adotivo.
 
-Porém, não basta a saƟsfação de tal pressuposto legal para que a adoção seja decretada, revelando-se de parƟcular importância, para além dos requisitos gerais enunciados no art. 1974.º do Código Civil, e os de legalidade estrita, quanto ao adotante e ao adotando (arts 1979.º e 1980.º do Código Civil) a veriﬁcação dos necessários consenƟmentos, parƟcularmente o consenƟmento dos progenitores.
+Porém, não basta a satisfação de tal pressuposto legal para que a adoção seja decretada, revelando-se de particular importância, para além dos requisitos gerais enunciados no art. 1974.º do Código Civil, e os de legalidade estrita, quanto ao adotante e ao adotando (arts 1979.º e 1980.º do Código Civil) a verificação dos necessários consentimentos, particularmente o consentimento dos progenitores.
 
 De facto, a lei não prescinde da colaboração dos progenitores, cuidando de acautelar a sua posição.
 
-Porque assim é, o art. 54.º, n.º 1, al. b), do Regime Jurídico do Processo de Adoção, esƟpula que as pessoas cujo consenƟmento a lei exija e não haja sido previamente prestado ou dispensado devem ser ouvidas pelo juiz, com a presença do Ministério Público. Entre essas pessoas constam os «pais do adotando, ainda que menores e mesmo que não exerçam as responsabilidades parentais, desde que não tenha havido medida de promoção e proteção de conﬁança com vista a futura adoção» – art. 1981.º, n.º 1, al. c), do Código Civil.
+Porque assim é, o art. 54.º, n.º 1, al. b), do Regime Jurídico do Processo de Adoção, estipula que as pessoas cujo consentimento a lei exija e não haja sido previamente prestado ou dispensado devem ser ouvidas pelo juiz, com a presença do Ministério Público. Entre essas pessoas constam os «pais do adotando, ainda que menores e mesmo que não exerçam as responsabilidades parentais, desde que não tenha havido medida de promoção e proteção de confiança com vista a futura adoção» – art. 1981.º, n.º 1, al. c), do Código Civil.
 
-No nosso caso, Mariana Ɵnha sido conﬁada administraƟvamente a Luísa, na modalidade de conﬁrmação de permanência a cargo (art. 34.º, n.º 2, al. b), do Regime Jurídico do Processo de Adoção).
+No nosso caso, Mariana tinha sido confiada administrativamente a Luísa, na modalidade de confirmação de permanência a cargo (art. 34.º, n.º 2, al. b), do Regime Jurídico do Processo de Adoção).
 
-Porém, a veriﬁcação de tal pressuposto essencial, de natureza administraƟva, não dispensava o consenƟmento dos progenitores para a adoção da criança, questão que se colocava uma vez que Mariana não beneﬁciava de medida de conﬁança com vista a futura adoção e só a mãe Ɵnha dado o consenƟmento prévio à adoção.
+Porém, a verificação de tal pressuposto essencial, de natureza administrativa, não dispensava o consentimento dos progenitores para a adoção da criança, questão que se colocava uma vez que Mariana não beneficiava de medida de confiança com vista a futura adoção e só a mãe tinha dado o consentimento prévio à adoção.
 
-Em situações como esta não pode o juiz deixar de proceder à averiguação dos pressupostos da dispensa do consenƟmento dos pais do adotando, ou das pessoas que em sua subsƟtuição o devam prestar, enquanto condições necessárias para que o tribunal possa consƟtuir o vínculo da adoção, no âmbito de incidente próprio no processo de adoção, em conformidade com o art. 55.º, n.º 1, do Regime Jurídico do Processo de Adoção.
+Em situações como esta não pode o juiz deixar de proceder à averiguação dos pressupostos da dispensa do consentimento dos pais do adotando, ou das pessoas que em sua substituição o devam prestar, enquanto condições necessárias para que o tribunal possa constituir o vínculo da adoção, no âmbito de incidente próprio no processo de adoção, em conformidade com o art. 55.º, n.º 1, do Regime Jurídico do Processo de Adoção.
 
-A possibilidade de tais consenƟmentos virem a ser dispensados pelo tribunal tem agora o seu alcance limitado ao elenco das situações enumeradas nas alíneas a) e c), do n.º 3, do art. 1981.º do Código Civil.
+A possibilidade de tais consentimentos virem a ser dispensados pelo tribunal tem agora o seu alcance limitado ao elenco das situações enumeradas nas alíneas a) e c), do n.º 3, do art. 1981.º do Código Civil.
 
-Com efeito, o tribunal pode, excecionalmente, dispensar o consenƟmento das pessoas que o deveriam prestar no caso de estarem privadas do uso das faculdades mentais, ou se, por qualquer outra razão, houver grave diﬁculdade em as ouvir [al. a)] e pode dispensar o consenƟmento dos pais do adotando se esƟverem inibidos do exercício das responsabilidades parentais, nos termos e prazos enunciados na al. c).
+Com efeito, o tribunal pode, excecionalmente, dispensar o consentimento das pessoas que o deveriam prestar no caso de estarem privadas do uso das faculdades mentais, ou se, por qualquer outra razão, houver grave dificuldade em as ouvir [al. a)] e pode dispensar o consentimento dos pais do adotando se estiverem inibidos do exercício das responsabilidades parentais, nos termos e prazos enunciados na al. c).
 
-O diploma que aprovou o Regime Jurídico do Processo de Adoção revogou a al. b), do n.º 3, do art. 1981.º do Código Civil, a qual permiƟa a dispensa de consenƟmento noutras situações. Até então, o tribunal podia dispensar o consenƟmento dos pais do adotando, ascendente, colateral até ao 3.º grau ou tutor quando se veriﬁcasse alguma das situações que fundamentam a conﬁança com vista a futura adoção que estão previstas no art. 1978.º do Código Civil, designadamente:
+O diploma que aprovou o Regime Jurídico do Processo de Adoção revogou a al. b), do n.º 3, do art. 1981.º do Código Civil, a qual permitia a dispensa de consentimento noutras situações. Até então, o tribunal podia dispensar o consentimento dos pais do adotando, ascendente, colateral até ao 3.º grau ou tutor quando se verificasse alguma das situações que fundamentam a confiança com vista a futura adoção que estão previstas no art. 1978.º do Código Civil, designadamente:
 
 – o abandono da criança;
 
 – o perigo grave para a segurança, saúde, formação, educação ou desenvolvimento da criança, fosse por omissão ou ação ou por manifesta incapacidade;
 
-– e o desinteresse manifestado relaƟvamente a criança acolhida durante pelo menos os três meses que antecederam o pedido de conﬁança.
+– e o desinteresse manifestado relativamente a criança acolhida durante pelo menos os três meses que antecederam o pedido de confiança.
 
-A revogação da alínea b), do n.º 3, do art. 1981.º do Código Civil veio aportar diﬁculdades acrescidas no decretamento da adoção nas situações como a do nosso caso, de conﬁança administraƟva Ɵtulada, quando o progenitor (ausente, desinteressado, ou maltratante, ainda que por omissão), não comparece às convocatórias ou não dá o seu consenƟmento à adoção.
+A revogação da alínea b), do n.º 3, do art. 1981.º do Código Civil veio aportar dificuldades acrescidas no decretamento da adoção nas situações como a do nosso caso, de confiança administrativa titulada, quando o progenitor (ausente, desinteressado, ou maltratante, ainda que por omissão), não comparece às convocatórias ou não dá o seu consentimento à adoção.
 
 ##### QUESTÕES
 
 #### Hipótese 1
 
-* Que relevância dar à oposição manifestada pelo progenitor no âmbito do processo de conﬁança administraƟva?
+* Que relevância dar à oposição manifestada pelo progenitor no âmbito do processo de confiança administrativa?
 
-* Estão reunidos os pressupostos para a dispensa de consenƟmento à luz do art. 1981.º, n.º 3, do Código Civil?
+* Estão reunidos os pressupostos para a dispensa de consentimento à luz do art. 1981.º, n.º 3, do Código Civil?
 
 #### Hipótese 2
 
-* Face ao não consenƟmento do pai de Mariana como ultrapassar a situação com vista à concreƟzação do projeto de adoção?
+* Face ao não consentimento do pai de Mariana como ultrapassar a situação com vista à concretização do projeto de adoção?
 
 Soluções possíveis:
 
 #### Hipótese 1
 
-Apesar de devidamente noƟﬁcado o pai de Mariana não compareceu em tribunal tendo sido infruơferas as diligências encetadas posteriormente para o localizar.
+Apesar de devidamente notificado o pai de Mariana não compareceu em tribunal tendo sido infrutíferas as diligências encetadas posteriormente para o localizar.
 
-Que relevância dar à oposição manifestada pelo progenitor no âmbito do processo de conﬁança administraƟva?
+Que relevância dar à oposição manifestada pelo progenitor no âmbito do processo de confiança administrativa?
 
-A prévia declaração do progenitor não releva para efeitos do processo de adoção, tendo que ser ouvido nos termos do art. 54.º do Regime Jurídico do Processo de Adoção. O seu consenƟmento pode vir a ser dispensado, se se veriﬁcarem os pressupostos legais.
+A prévia declaração do progenitor não releva para efeitos do processo de adoção, tendo que ser ouvido nos termos do art. 54.º do Regime Jurídico do Processo de Adoção. O seu consentimento pode vir a ser dispensado, se se verificarem os pressupostos legais.
 
-Questão diferente é se poderia ter sido decretada a conﬁança administraƟva perante a oposição do progenitor face ao disposto no art. 36.º, n.º 4, do Regime Jurídico do Processo de Adoção.
+Questão diferente é se poderia ter sido decretada a confiança administrativa perante a oposição do progenitor face ao disposto no art. 36.º, n.º 4, do Regime Jurídico do Processo de Adoção.
 
-Estão reunidos os pressupostos para a dispensa de consenƟmento à luz do art. 1981.º, n.º 3, do Código Civil?
+Estão reunidos os pressupostos para a dispensa de consentimento à luz do art. 1981.º, n.º 3, do Código Civil?
 
-Nos termos do disposto no art. 1981.º, n.º 3, al. a), do Código Civil, o tribunal pode dispensar o consenƟmento das pessoas que o deveriam prestar se esƟverem privadas do uso das faculdades mentais ou se, por qualquer outra razão, houver grave diﬁculdade em as ouvir.
+Nos termos do disposto no art. 1981.º, n.º 3, al. a), do Código Civil, o tribunal pode dispensar o consentimento das pessoas que o deveriam prestar se estiverem privadas do uso das faculdades mentais ou se, por qualquer outra razão, houver grave dificuldade em as ouvir.
 
-Atentas as diligências desenvolvidas no processo com vista à audição do progenitor da Mariana, que vieram a revelar-se infruơferas, entorpecendo o regular processamento do processo de adoção, violando o dever de colaboração no senƟdo da boa decisão do processo de adoção relaƟvo à sua ﬁlha, cujo interesse superior tem que prevalecer (cf. art. 3.º, als. a) e e), do Regime Jurídico do Processo de Adoção), impõe-se concluir que houve grave diﬁculdade em ouvir o progenitor e, como tal, se encontram veriﬁcados os pressupostos para a dispensa de consenƟmento.
+Atentas as diligências desenvolvidas no processo com vista à audição do progenitor da Mariana, que vieram a revelar-se infrutíferas, entorpecendo o regular processamento do processo de adoção, violando o dever de colaboração no sentido da boa decisão do processo de adoção relativo à sua filha, cujo interesse superior tem que prevalecer (cf. art. 3.º, als. a) e e), do Regime Jurídico do Processo de Adoção), impõe-se concluir que houve grave dificuldade em ouvir o progenitor e, como tal, se encontram verificados os pressupostos para a dispensa de consentimento.
 
 #### Hipótese 2
 
-Como ultrapassar a situação com vista à concreƟzação do projeto de adoção de Mariana?
+Como ultrapassar a situação com vista à concretização do projeto de adoção de Mariana?
 
-- O Ministério Público pode iniciar processo de promoção e proteção, ao abrigo do art. 3.º, al. d), e 11.º, n.º 2, da Lei de Proteção de Crianças e Jovens em Perigo (situação de «perigo jurídico») com vista à futura prolação de medida de conﬁança com vista à adoção (arts. 35.º, al. g), e 38.º-A, da Lei de Proteção de Crianças e Jovens em Perigo), a qual dispensa o consenƟmento do progenitor (art. 1981.º, n.º 3, al. c), do Código Civil);
+- O Ministério Público pode iniciar processo de promoção e proteção, ao abrigo do art. 3.º, al. d), e 11.º, n.º 2, da Lei de Proteção de Crianças e Jovens em Perigo (situação de «perigo jurídico») com vista à futura prolação de medida de confiança com vista à adoção (arts. 35.º, al. g), e 38.º-A, da Lei de Proteção de Crianças e Jovens em Perigo), a qual dispensa o consentimento do progenitor (art. 1981.º, n.º 3, al. c), do Código Civil);
 
-- O Ministério Público pode desencadear processo com vista à inibição do exercício das responsabilidades parentais (arts. 19015.º do Código Civil, e 52.º a 57.º do Regime Geral do Processo Tutelar Cível), a qual, uma vez decretada e decorridos os prazos do art. 1981.º, n.º 3, al. c), do Código Civil, poderá conduzir à dispensa do consenƟmento.
+- O Ministério Público pode desencadear processo com vista à inibição do exercício das responsabilidades parentais (arts. 19015.º do Código Civil, e 52.º a 57.º do Regime Geral do Processo Tutelar Cível), a qual, uma vez decretada e decorridos os prazos do art. 1981.º, n.º 3, al. c), do Código Civil, poderá conduzir à dispensa do consentimento.
 
 O processo judicial de adoção
 
 Requerimento inicial e o dever de gestão processual
 
-- Ação para consƟtuição do vínculo de adoção instaurada pela mãe da criança e pelo seu marido, tendo em vista a respeƟva adoção.
+- Ação para constituição do vínculo de adoção instaurada pela mãe da criança e pelo seu marido, tendo em vista a respetiva adoção.
 
-1. A criança nasceu em 12 de fevereiro de 2003, sendo ﬁlha da requerente e do seu primeiro marido, os quais se divorciaram em 15 de fevereiro de 2006.
+1. A criança nasceu em 12 de fevereiro de 2003, sendo filha da requerente e do seu primeiro marido, os quais se divorciaram em 15 de fevereiro de 2006.
 
-2. O pai nunca pagou a pensão de alimentos nem visitou o ﬁlho ou sequer revelou qualquer vontade em estabelecer contacto com o mesmo.
+2. O pai nunca pagou a pensão de alimentos nem visitou o filho ou sequer revelou qualquer vontade em estabelecer contacto com o mesmo.
 
-3. A 21 de setembro de 2014, a requerente casou com o requerente (adotante), que nasceu em 4 de julho de 1988 e não tem ﬁlhos.
+3. A 21 de setembro de 2014, a requerente casou com o requerente (adotante), que nasceu em 4 de julho de 1988 e não tem filhos.
 
-4. A criança reside com o marido da mãe desde os seus 9 anos de idade e estabeleceu com ele uma relação em tudo idênƟca à relação parental, tratando-o por «pai».
+4. A criança reside com o marido da mãe desde os seus 9 anos de idade e estabeleceu com ele uma relação em tudo idêntica à relação parental, tratando-o por «pai».
 
-5. O requerente também trata o ﬁlho da requerente como seu ﬁlho, suportando inclusive as despesas relaƟvas à sua manutenção, sustento e educação.
+5. O requerente também trata o filho da requerente como seu filho, suportando inclusive as despesas relativas à sua manutenção, sustento e educação.
 
-6. O requerente nunca comunicou à Segurança Social a sua intenção de adotar o ﬁlho do cônjuge, não tendo sido avaliado para esse efeito, nem tendo havido qualquer período de pré-adoção.
+6. O requerente nunca comunicou à Segurança Social a sua intenção de adotar o filho do cônjuge, não tendo sido avaliado para esse efeito, nem tendo havido qualquer período de pré-adoção.
 
-7. O pai da criança não prestou consenƟmento prévio para a adopção e, malgrado o incumprimento do regime de regulação do exercício das responsabilidades parentais e a circunstância de ter sido condenado pela práƟca do crime de violação da obrigação de alimentos, não foi inibido do exercício das responsabilidades parentais.
+7. O pai da criança não prestou consentimento prévio para a adopção e, malgrado o incumprimento do regime de regulação do exercício das responsabilidades parentais e a circunstância de ter sido condenado pela prática do crime de violação da obrigação de alimentos, não foi inibido do exercício das responsabilidades parentais.
 
 ##### QUESTÕES
 
-* Estão reunidos os pressupostos substanƟvos para que a ação com vista à consƟtuição do vínculo da adoção proceda?
+* Estão reunidos os pressupostos substantivos para que a ação com vista à constituição do vínculo da adoção proceda?
 
 * Quais os desfechos possíveis desta acção?
 
 ENQUADRAMENTO
 
-Em primeiro lugar deve assinalar-se que esta ação já está pendente em Tribunal, e que visa a adoção de ﬁlho de cônjuge.
+Em primeiro lugar deve assinalar-se que esta ação já está pendente em Tribunal, e que visa a adoção de filho de cônjuge.
 
-Contudo, há dois obstáculos intransponíveis à consƟtuição do vínculo da adoção sem mais:
+Contudo, há dois obstáculos intransponíveis à constituição do vínculo da adoção sem mais:
 
-1. do lado da criança adotanda: a adotabilidade é a «situação jurídica da criança beneﬁciária de uma decisão judicial ou administraƟva de conﬁança com vista à adoção», de acordo com o art. 2.º, al. c), do Regime Jurídico do Processo de Adoção.
+1. do lado da criança adotanda: a adotabilidade é a «situação jurídica da criança beneficiária de uma decisão judicial ou administrativa de confiança com vista à adoção», de acordo com o art. 2.º, al. c), do Regime Jurídico do Processo de Adoção.
 
-Nos termos do art. 34.º, n.º 1, als. a) e b), do Regime Jurídico do Processo de Adoção, a prolação da decisão judicial consƟtuƟva do vínculo da adoção depende de ter havido previamente, ou uma declaração de adotabilidade no âmbito de ação proteƟva (com a aplicação da medida de promoção e proteção de conﬁança com vista a futura adoção, segundo consta do art. 35.º, n.º 1, al. g), da Lei de Proteção de Crianças e Jovens em Perigo), ou uma decisão de conﬁança administraƟva, reunidos que estejam os necessários requisitos.
+Nos termos do art. 34.º, n.º 1, als. a) e b), do Regime Jurídico do Processo de Adoção, a prolação da decisão judicial constitutiva do vínculo da adoção depende de ter havido previamente, ou uma declaração de adotabilidade no âmbito de ação protetiva (com a aplicação da medida de promoção e proteção de confiança com vista a futura adoção, segundo consta do art. 35.º, n.º 1, al. g), da Lei de Proteção de Crianças e Jovens em Perigo), ou uma decisão de confiança administrativa, reunidos que estejam os necessários requisitos.
 
-Na linha do art. 8.º, al. g), refere o art. 34.º, n.º 2, ambos do Regime Jurídico do Processo de Adoção, que a indicada conﬁança administraƟva resulta de decisão do organismo de segurança social e pode revesƟr duas modalidades:
+Na linha do art. 8.º, al. g), refere o art. 34.º, n.º 2, ambos do Regime Jurídico do Processo de Adoção, que a indicada confiança administrativa resulta de decisão do organismo de segurança social e pode revestir duas modalidades:
 
-– a que proceda à entrega de criança, relaƟvamente à qual haja sido prestado consenƟmento prévio para a adoção, ao candidato a adotante; ou
+– a que proceda à entrega de criança, relativamente à qual haja sido prestado consentimento prévio para a adoção, ao candidato a adotante; ou
 
-– a que conﬁrme a permanência de criança a cargo do candidato a adotante que sobre ela exerça já as responsabilidades parentais, nos termos previstos na alínea a) do n.º 8 do arƟgo 36.º.
+– a que confirme a permanência de criança a cargo do candidato a adotante que sobre ela exerça já as responsabilidades parentais, nos termos previstos na alínea a) do n.º 8 do artigo 36.º.
 
-Conjugando agora com o disposto no art. 36.º, n.º 8, al. a), do Regime, veriﬁca-se que tal decisão de conﬁança administraƟva na modalidade de conﬁrmação da permanência da criança a cargo do candidato a adotante implica que o exercício das responsabilidades parentais relaƟvas à esfera pessoal da criança haja sido previamente atribuído àquele, em sede de providência tutelar cível.
+Conjugando agora com o disposto no art. 36.º, n.º 8, al. a), do Regime, verifica-se que tal decisão de confiança administrativa na modalidade de confirmação da permanência da criança a cargo do candidato a adotante implica que o exercício das responsabilidades parentais relativas à esfera pessoal da criança haja sido previamente atribuído àquele, em sede de providência tutelar cível.
 
 Ora, tendo presente o teor destas normas e confrontando-as com a leitura dos factos acima enunciados, constata-se que a criança não se encontra em situação de adotabilidade.
 
-2. do lado do adotante: o art. 2.º, al. h), do Regime, deﬁne o processo de adoção como o «…conjunto de procedimentos de natureza administraƟva e judicial, integrando designadamente atos de preparação e atos avaliaƟvos, tendo em vista a prolação da decisão judicial consƟtuƟva do vínculo da adoção, a qual ocorre na sequência de uma decisão de adotabilidade ou de avaliação favorável da pretensão de adoção de ﬁlho do cônjuge;».
+2. do lado do adotante: o art. 2.º, al. h), do Regime, define o processo de adoção como o «…conjunto de procedimentos de natureza administrativa e judicial, integrando designadamente atos de preparação e atos avaliativos, tendo em vista a prolação da decisão judicial constitutiva do vínculo da adoção, a qual ocorre na sequência de uma decisão de adotabilidade ou de avaliação favorável da pretensão de adoção de filho do cônjuge;».
 
-Tendo esta noção presente, o art. 8.º, als. d), f) e i), e de forma explícita os arts. 34.º, n.ºs 1, al. c), 2, e 3, e 36.º, n.º 8, al. b), todos do Regime, conclui-se que a consƟtuição do vínculo da adoção exige, obrigatória e previamente, a existência de avaliação favorável da pretensão expressa pelo candidato a adotante relaƟvamente à adoção do ﬁlho do cônjuge, tendo em conta o superior interesse da criança.
+Tendo esta noção presente, o art. 8.º, als. d), f) e i), e de forma explícita os arts. 34.º, n.ºs 1, al. c), 2, e 3, e 36.º, n.º 8, al. b), todos do Regime, conclui-se que a constituição do vínculo da adoção exige, obrigatória e previamente, a existência de avaliação favorável da pretensão expressa pelo candidato a adotante relativamente à adoção do filho do cônjuge, tendo em conta o superior interesse da criança.
 
 Mais, a citada avaliação tem lugar na sequência do período de pré-adoção, usualmente não superior a três meses, e que se inicia imediatamente após a formulação da pretensão pelo candidato a adotante.
 
 E é evidente que para que a avaliação seja realizada, se pressupõe necessariamente que o candidato a adotante já tenha manifestado essa intenção junto do organismo de segurança social.
 
-Em suma, da análise dos preceitos legais e do facto provado n.º 6, extrai-se que também do lado do adotante não se encontram reunidos os pressupostos para a consƟtuição do vínculo da adoção, seja porque o mesmo não se inscreveu nessa qualidade, nem foi avaliado, seja porque não foi houve, sequer, período de pré-adoção.
+Em suma, da análise dos preceitos legais e do facto provado n.º 6, extrai-se que também do lado do adotante não se encontram reunidos os pressupostos para a constituição do vínculo da adoção, seja porque o mesmo não se inscreveu nessa qualidade, nem foi avaliado, seja porque não foi houve, sequer, período de pré-adoção.
 
 A questão que então agora se suscita é a de saber que decisão deve ser proferida no processo – arts. 28.º e 29.º, al. e), do Regime Jurídico do Processo de Adoção.
 
@@ -6639,9 +6639,9 @@ A) A de indeferir liminarmente a petição inicial, caso se entenda que este tip
 
 comporta este despacho judicial.
 
-O adotante e a mãe da criança adotanda devem ser expeditamente encaminhados para o organismo de segurança social, para que haja ơtulo jurídico de adotabilidade da criança, a par da apreciação da situação vivencial do adotante, em si mesma considerada, e no seu relacionamento com a criança – art. 3.º, als. b), e) e f), do Regime Jurídico do Processo de Adoção.
+O adotante e a mãe da criança adotanda devem ser expeditamente encaminhados para o organismo de segurança social, para que haja título jurídico de adotabilidade da criança, a par da apreciação da situação vivencial do adotante, em si mesma considerada, e no seu relacionamento com a criança – art. 3.º, als. b), e) e f), do Regime Jurídico do Processo de Adoção.
 
-Em nova ação, se ainda se revelar perƟnente, será averiguado se o progenitor consente ou não nessa adoção.
+Em nova ação, se ainda se revelar pertinente, será averiguado se o progenitor consente ou não nessa adoção.
 
 B) A de suspender os termos da instância adotiva, a fim que se possa suprir a ausência dos
 
@@ -6649,33 +6649,33 @@ pressupostos antes assinalados – arts. 269.º, n.º 1, al. c), e 272.º, n.º 
 
 Se é certo que formalmente pode contender com a natureza urgente dos autos (art. 32.º do Regime Jurídico do Processo de Adoção), pode ser a única via de legalmente ir ao encontro do princípio do superior interesse da criança – arts. 3.º da Convenção sobre os Direitos da Criança, e 3.º, al. a), do Regime Jurídico do Processo de Adoção.
 
-- Ação para consƟtuição do vínculo de adoção instaurada pelos adotantes, na sequência de processo de adoção iniciado após a colocação da criança adotanda em situação de adotabilidade.
+- Ação para constituição do vínculo de adoção instaurada pelos adotantes, na sequência de processo de adoção iniciado após a colocação da criança adotanda em situação de adotabilidade.
 
 O CASO
 
-1. No âmbito de processo de promoção e proteção, foi proferida a 16 de abril de 2022, decisão de conﬁança com vista a futura adoção de A., nascido a 22 de maio de 2020, ﬁlho de B., encontrando-se omissa a respeƟva paternidade.
+1. No âmbito de processo de promoção e proteção, foi proferida a 16 de abril de 2022, decisão de confiança com vista a futura adoção de A., nascido a 22 de maio de 2020, filho de B., encontrando-se omissa a respetiva paternidade.
 
 2. Pela mesma decisão, B. foi inibida do exercício das responsabilidades parentais.
 
-3. Comunicada tal decisão ao InsƟtuto de Segurança Social, foi dado início ao processo de adoção de A..
+3. Comunicada tal decisão ao Instituto de Segurança Social, foi dado início ao processo de adoção de A..
 
-4. Nessa sequência, decorrido o período de pré-adoção com avaliação favorável por parte do InsƟtuto de Segurança Social, C. e D. instauraram no tribunal territorialmente competente a ação consƟtuƟva do vínculo de adoção de A..
+4. Nessa sequência, decorrido o período de pré-adoção com avaliação favorável por parte do Instituto de Segurança Social, C. e D. instauraram no tribunal territorialmente competente a ação constitutiva do vínculo de adoção de A..
 
-5. Apensado ao de adoção o processo de promoção e proteção onde Ɵnha sido proferida a decisão que deixou A. em situação de adotabilidade, o Tribunal constatou a seguinte situação:
+5. Apensado ao de adoção o processo de promoção e proteção onde tinha sido proferida a decisão que deixou A. em situação de adotabilidade, o Tribunal constatou a seguinte situação:
 
-a) A medida de conﬁança com vista a futura adoção Ɵnha sido aplicada no âmbito da revisão da execução da medida de acolhimento residencial, anteriormente aplicada em beneİcio de A..;
+a) A medida de confiança com vista a futura adoção tinha sido aplicada no âmbito da revisão da execução da medida de acolhimento residencial, anteriormente aplicada em benefício de A..;
 
-b) A noƟﬁcação dirigida à mãe de A. para se pronunciar sobre a revisão da execução dessa medida, endereçada à morada onde esta Ɵnha sido citada, veio devolvida, com a menção «não atendeu»;
+b) A notificação dirigida à mãe de A. para se pronunciar sobre a revisão da execução dessa medida, endereçada à morada onde esta tinha sido citada, veio devolvida, com a menção «não atendeu»;
 
-c) O tribunal aplicou a referida medida por despacho, fundado exclusivamente no relatório social para revisão da execução da medida apresentado pelo técnico coordenador do caso, com proposta de aplicação da medida de conﬁança com vista a futura adoção, não precedido de qualquer diligência de prova (v.g., inquirição de testemunhas ou audição da mãe);
+c) O tribunal aplicou a referida medida por despacho, fundado exclusivamente no relatório social para revisão da execução da medida apresentado pelo técnico coordenador do caso, com proposta de aplicação da medida de confiança com vista a futura adoção, não precedido de qualquer diligência de prova (v.g., inquirição de testemunhas ou audição da mãe);
 
 d) Não houve lugar a Debate Judicial;
 
-e) A carta expedida para noƟﬁcação da mãe da decisão que aplicou a medida de conﬁança com vista a futura adoção veio novamente devolvida com a menção «não atendeu»;
+e) A carta expedida para notificação da mãe da decisão que aplicou a medida de confiança com vista a futura adoção veio novamente devolvida com a menção «não atendeu»;
 
 f) A mãe não estava representada por advogado;
 
-g) O tribunal considerou a mãe regularmente noƟﬁcada e entendeu que a decisão transitou em julgado.
+g) O tribunal considerou a mãe regularmente notificada e entendeu que a decisão transitou em julgado.
 
 ##### QUESTÕES
 
@@ -8079,13 +8079,13 @@ CASOS PRÁTICOS e TÓPICOS DE RESOLUÇÃO
 
 CASOS PRÁTICOS
 
-Anita e Belmiro, residentes em Dornelas do Zêzere, têm um ﬁlho comum, Cláudio, nascido em 1 de Janeiro de 2020.
+Anita e Belmiro, residentes em Dornelas do Zêzere, têm um filho comum, Cláudio, nascido em 1 de Janeiro de 2020.
 
-Aquando do seu divórcio, com efeitos a parƟr de Junho de 2020, Anita vinculou- se a contribuir para o sustento do ﬁlho com 250€ (duzentos e cinquenta euros)/mês, o que fez até ao mês de Dezembro de 2022.
+Aquando do seu divórcio, com efeitos a partir de Junho de 2020, Anita vinculou- se a contribuir para o sustento do filho com 250€ (duzentos e cinquenta euros)/mês, o que fez até ao mês de Dezembro de 2022.
 
 Em 1 de Janeiro de 2023, Anita passou a residir em Estugarda e não mais efectuou qualquer pagamento.
 
-Belmiro aguardou pacientemente um ano, mas já não consegue sustentar sozinho o ﬁlho.
+Belmiro aguardou pacientemente um ano, mas já não consegue sustentar sozinho o filho.
 
 O que pode Belmiro, em representação de Cláudio, fazer….
 
@@ -8105,9 +8105,9 @@ II.
 
 Comente.
 
-2. Belmiro propôs incidente de incumprimento da regulação do exercício das responsabilidades parentais, declarando que Anita reside e trabalha em Estugarda, e veio a ser proferida sentença a julgar veriﬁcado o incumprimento por parte desta.
+2. Belmiro propôs incidente de incumprimento da regulação do exercício das responsabilidades parentais, declarando que Anita reside e trabalha em Estugarda, e veio a ser proferida sentença a julgar verificado o incumprimento por parte desta.
 
-Seguidamente Belmiro pediu que fosse accionado o Fundo de GaranƟa dos Alimentos Devidos a Menores, mas o juiz indeferiu esse requerimento, alegando que o requerente deve dirigir-se à Autoridade Central portuguesa, e não ao Tribunal, e mandou arquivar os autos.
+Seguidamente Belmiro pediu que fosse accionado o Fundo de Garantia dos Alimentos Devidos a Menores, mas o juiz indeferiu esse requerimento, alegando que o requerente deve dirigir-se à Autoridade Central portuguesa, e não ao Tribunal, e mandou arquivar os autos.
 
 Comente.
 
@@ -8125,91 +8125,91 @@ I.
 
 #### 1. …. supondo que não se sabe do actual paradeiro de Anita?
 
-Consideração da existência de ơtulo de onde emerge a obrigação alimenơcia estabelecida a ﬁlho menor de idade: acordo judicialmente homologado integrante de acção de divórcio (arts. 1796.º, 1797.º, 1775.º, 1776.º-A, 1778.º-A, todos do Código Civil, e 931.º, n.ºs 5 e 6, 994.º, n.º 1, al. c), e 996.º, n.º 2, todos do Código de Processo Civil).
+Consideração da existência de título de onde emerge a obrigação alimentícia estabelecida a filho menor de idade: acordo judicialmente homologado integrante de acção de divórcio (arts. 1796.º, 1797.º, 1775.º, 1776.º-A, 1778.º-A, todos do Código Civil, e 931.º, n.ºs 5 e 6, 994.º, n.º 1, al. c), e 996.º, n.º 2, todos do Código de Processo Civil).
 
-Instauração do incidente de incumprimento da regulação do exercício das responsabilidades parentais (art. 41.º do Regime Geral do Processo Tutelar Cível), com vista a eventual intervenção (caso estejam veriﬁcados os respecƟvos pressupostos) do Fundo de GaranƟa dos Alimentos Devidos a Menores, em subsƟtuição do progenitor faltoso.
+Instauração do incidente de incumprimento da regulação do exercício das responsabilidades parentais (art. 41.º do Regime Geral do Processo Tutelar Cível), com vista a eventual intervenção (caso estejam verificados os respectivos pressupostos) do Fundo de Garantia dos Alimentos Devidos a Menores, em substituição do progenitor faltoso.
 
-Cf. Acs. do Tribunal da Relação de Lisboa de 26-09-2017, e de 19-12-2017. Havendo possibilidade legal de intervenção, consideração da ﬁgura da sub- rogação (arts. 592.º a 594.º, todos do Código Civil).
+Cf. Acs. do Tribunal da Relação de Lisboa de 26-09-2017, e de 19-12-2017. Havendo possibilidade legal de intervenção, consideração da figura da sub- rogação (arts. 592.º a 594.º, todos do Código Civil).
 
-Havendo noơcia de que a devedora de alimentos reside no estrangeiro e tendo-se conhecimento do país em concreto, o credor de alimentos deve diligenciar junto da Autoridade Central para que se apure a situação de vida daquela.
+Havendo notícia de que a devedora de alimentos reside no estrangeiro e tendo-se conhecimento do país em concreto, o credor de alimentos deve diligenciar junto da Autoridade Central para que se apure a situação de vida daquela.
 
 Cf. Ac. do Tribunal da Relação de Lisboa de 06-12-2018.
 
-No entanto, se o credor já esƟver a receber a prestação do Fundo diﬁcilmente terá esta actuação, pelo que se discute se o Tribunal pode/deve remeter directamente à Autoridade Central as informações perƟnentes dos autos e/ou entregá-las ao Ministério Público.
+No entanto, se o credor já estiver a receber a prestação do Fundo dificilmente terá esta actuação, pelo que se discute se o Tribunal pode/deve remeter directamente à Autoridade Central as informações pertinentes dos autos e/ou entregá-las ao Ministério Público.
 
 #### 2. …. supondo que Anita aufere subsídio de desemprego, no valor de 620€ (seiscentos e vinte euros), em território nacional, e que irá ser processado até Dezembro de 2025?
 
-Consideração da existência de ơtulo de onde emerge a obrigação alimenơcia estabelecida a ﬁlho menor de idade: acordo judicialmente homologado integrante de acção de divórcio (arts. 1796.º,
+Consideração da existência de título de onde emerge a obrigação alimentícia estabelecida a filho menor de idade: acordo judicialmente homologado integrante de acção de divórcio (arts. 1796.º,
 
 1797.º, 1775.º, 1776.º-A, 1778.º-A, todos do Código Civil, e 931.º, n.ºs 5 e 6, 994.º, n.º 1, al. c), e 996.º, n.º 2, todos do Código de Processo Civil).
 
 Instauração do incidente de incumprimento da regulação do exercício das responsabilidades parentais (art. 41.º do Regime Geral do Processo Tutelar Cível).
 
-Constatação de que o valor correspondente ao subsídio de desemprego é inferior ao ﬁxado para a retribuição mínima mensal garanƟda para o ano de 2024 – cf. art. 3.º do Decreto-Lei n.º 107/2023, de 17 de Novembro.
+Constatação de que o valor correspondente ao subsídio de desemprego é inferior ao fixado para a retribuição mínima mensal garantida para o ano de 2024 – cf. art. 3.º do Decreto-Lei n.º 107/2023, de 17 de Novembro.
 
-Ponderação do art. 738.º, n.º 4, do Código de Processo Civil, já que se trata de crédito de alimentos, e remissão para a «…pensão social do regime não contribuƟvo», ﬁxada na Portaria n.º 424/2023, de 11 de Dezembro.
+Ponderação do art. 738.º, n.º 4, do Código de Processo Civil, já que se trata de crédito de alimentos, e remissão para a «…pensão social do regime não contributivo», fixada na Portaria n.º 424/2023, de 11 de Dezembro.
 
-Discussão sobre a compaƟbilização dos regimes dos arts. 41.º e 48.º, ambos do Regime Geral do Processo Tutelar Cível.
+Discussão sobre a compatibilização dos regimes dos arts. 41.º e 48.º, ambos do Regime Geral do Processo Tutelar Cível.
 
-DisƟnção e arƟculação entre as prestações alimentares vencidas e vincendas (art. 2008.º do Código Civil).
+Distinção e articulação entre as prestações alimentares vencidas e vincendas (art. 2008.º do Código Civil).
 
-Noção do processo equitaƟvo, na sua dimensão mais impressiva consƟtuída pelas garanƟas de defesa (arts. 6.º, n.º 1, da Convenção Europeia dos Direitos Humanos, 8.º e 20.º, n.º 4, ambos da ConsƟtuição da República Portuguesa, e 3.º, n.º 3, e 4.º, ambos do Código de Processo Civil), o que implica o exercício do princípio do contraditório relaƟvamente às prestações vencidas vs. desconto imediato do valor correspondente às prestações vincendas, aqui seguido do exercício do princípio do contraditório, em qualquer dos casos sem prejuízo da efecƟvação de conferência (arts. 41.º e 48.º, ambos do Regime Geral do Processo Tutelar Cível).
+Noção do processo equitativo, na sua dimensão mais impressiva constituída pelas garantias de defesa (arts. 6.º, n.º 1, da Convenção Europeia dos Direitos Humanos, 8.º e 20.º, n.º 4, ambos da Constituição da República Portuguesa, e 3.º, n.º 3, e 4.º, ambos do Código de Processo Civil), o que implica o exercício do princípio do contraditório relativamente às prestações vencidas vs. desconto imediato do valor correspondente às prestações vincendas, aqui seguido do exercício do princípio do contraditório, em qualquer dos casos sem prejuízo da efectivação de conferência (arts. 41.º e 48.º, ambos do Regime Geral do Processo Tutelar Cível).
 
 #### 3. … supondo que Anita é funcionária da empresa FGH, sita em Estugarda, recebendo mensalmente 2500€ (dois mil e quinhentos euros)?
 
 Percepção de que a residência habitual da devedora de alimentos não se situa em território nacional, mas em país membro da União Europeia – Alemanha –, tal como Portugal.
 
-Procura do instrumento jurídico transfronteiriço para a cobrança de alimentos – Regulamento (CE) n.º 4/2009, relaƟvo à competência, à lei aplicável, ao reconhecimento e à execução das decisões e à cooperação em matéria de obrigações alimentares.
+Procura do instrumento jurídico transfronteiriço para a cobrança de alimentos – Regulamento (CE) n.º 4/2009, relativo à competência, à lei aplicável, ao reconhecimento e à execução das decisões e à cooperação em matéria de obrigações alimentares.
 
-Deﬁnição dos âmbitos:
+Definição dos âmbitos:
 
-. material: o caso vertente subsume-se ao cumprimento de uma obrigação de alimentos, por parte de um progenitor a ﬁlho menor de idade.
+. material: o caso vertente subsume-se ao cumprimento de uma obrigação de alimentos, por parte de um progenitor a filho menor de idade.
 
 . temporal: a situação em apreço ocorre em 2024, claramente em plena vigência do Regulamento (art. 76.º).
 
 . espacial: ambos os países são Estados-membros da União Europeia e vinculados à sua aplicação.
 
-IdenƟﬁcação da Autoridade Central portuguesa (Direcção-Geral da Administração da JusƟça – art. 49.º, n.º 1), e as competências para o caso – cf. arts. 51.º, 55.º, 56.º, e 61.º.
+Identificação da Autoridade Central portuguesa (Direcção-Geral da Administração da Justiça – art. 49.º, n.º 1), e as competências para o caso – cf. arts. 51.º, 55.º, 56.º, e 61.º.
 
-Diligências da Autoridade Central portuguesa junto da Autoridade Central alemã com vista ao apuramento do paradeiro e enƟdade empregadora da devedora de alimentos e posterior retenção e transferência do montante correspondente à prestação alimentar para a conta bancária idenƟﬁcada pelo requerente (progenitor em representação do credor de alimentos).
+Diligências da Autoridade Central portuguesa junto da Autoridade Central alemã com vista ao apuramento do paradeiro e entidade empregadora da devedora de alimentos e posterior retenção e transferência do montante correspondente à prestação alimentar para a conta bancária identificada pelo requerente (progenitor em representação do credor de alimentos).
 
 #### 4. … supondo que Anita trabalha para a empresa IJK, sita em Tunes, local onde mora habitualmente, recebendo mensalmente 2500€ (dois mil e quinhentos euros)?
 
 Percepção de que a residência habitual da devedora de alimentos não se situa em território nacional, mas em país terceiro à União Europeia – Tunísia.
 
-Procura do instrumento jurídico transfronteiriço para a cobrança de alimentos – a Tunísia raƟﬁcou a Convenção de Nova Iorque de 1956, e não é parte nem da Convenção da Haia de 2007, nem do seu Protocolo.
+Procura do instrumento jurídico transfronteiriço para a cobrança de alimentos – a Tunísia ratificou a Convenção de Nova Iorque de 1956, e não é parte nem da Convenção da Haia de 2007, nem do seu Protocolo.
 
-Deﬁnição dos âmbitos:
+Definição dos âmbitos:
 
-. material: o caso vertente subsume-se ao cumprimento de uma obrigação de alimentos, por parte de um progenitor a ﬁlho menor de idade.
+. material: o caso vertente subsume-se ao cumprimento de uma obrigação de alimentos, por parte de um progenitor a filho menor de idade.
 
 . temporal: a situação em apreço ocorre em 2024, claramente em plena vigência da Convenção.
 
 . espacial: ambos os países estão vinculados à sua aplicação.
 
-IdenƟﬁcação da Autoridade Central portuguesa (Direcção-Geral da Admninistração da JusƟça – art. 2.º), e as competências para o caso – cf. arts. 3.º a 6.º. Diligências da Autoridade Central portuguesa junto da Autoridade Central tunisina com vista ao apuramento do paradeiro e enƟdade empregadora da devedora de alimentos e posterior retenção e transferência do montante correspondente à prestação alimentar para a conta bancária idenƟﬁcada pelo requerente (progenitor em representação do credor de alimentos).
+Identificação da Autoridade Central portuguesa (Direcção-Geral da Admninistração da Justiça – art. 2.º), e as competências para o caso – cf. arts. 3.º a 6.º. Diligências da Autoridade Central portuguesa junto da Autoridade Central tunisina com vista ao apuramento do paradeiro e entidade empregadora da devedora de alimentos e posterior retenção e transferência do montante correspondente à prestação alimentar para a conta bancária identificada pelo requerente (progenitor em representação do credor de alimentos).
 
 II.
 
 1. Belmiro propôs incidente de incumprimento da regulação do exercício das responsabilidades parentais, declarando que Anita reside e trabalha em Estugarda, mas o juiz ordenou o arquivamento liminar dos autos, alegando que o requerente deve dirigir-se à Autoridade Central portuguesa, e não ao Tribunal.
 
-O credor de alimentos tem que se munir de uma decisão judicial (declaraƟva cível) a atestar quer o incumprimento, como o período temporal a que respeita, por forma que a devedora de alimentos seja executada no país da sua residência habitual pelos valores monetários até então em dívida (a que acrescerão os vincendos).
+O credor de alimentos tem que se munir de uma decisão judicial (declarativa cível) a atestar quer o incumprimento, como o período temporal a que respeita, por forma que a devedora de alimentos seja executada no país da sua residência habitual pelos valores monetários até então em dívida (a que acrescerão os vincendos).
 
 2.
 
-Belmiro propôs incidente de incumprimento da regulação do exercício das responsabilidades parentais, declarando que Anita reside e trabalha em Estugarda, e veio a ser proferida sentença a julgar veriﬁcado o incumprimento por parte desta.
+Belmiro propôs incidente de incumprimento da regulação do exercício das responsabilidades parentais, declarando que Anita reside e trabalha em Estugarda, e veio a ser proferida sentença a julgar verificado o incumprimento por parte desta.
 
-Seguidamente Belmiro pediu que fosse accionado o Fundo de GaranƟa dos Alimentos Devidos a Menores, mas o juiz indeferiu esse requerimento, alegando que o requerente deve dirigir-se à Autoridade Central portuguesa, e não ao Tribunal, e mandou arquivar os autos.
+Seguidamente Belmiro pediu que fosse accionado o Fundo de Garantia dos Alimentos Devidos a Menores, mas o juiz indeferiu esse requerimento, alegando que o requerente deve dirigir-se à Autoridade Central portuguesa, e não ao Tribunal, e mandou arquivar os autos.
 
-Delimitação da questão: saber se quando a devedora de alimentos tem rendimentos no estrangeiro, é necessário o credor de alimentos lançar previamente mão dos mecanismos (administraƟvos) de cobrança transnacional, e só se estes forem infruơferos é que é admissível o recurso ao Tribunal (competência obrigatória e excludente).
+Delimitação da questão: saber se quando a devedora de alimentos tem rendimentos no estrangeiro, é necessário o credor de alimentos lançar previamente mão dos mecanismos (administrativos) de cobrança transnacional, e só se estes forem infrutíferos é que é admissível o recurso ao Tribunal (competência obrigatória e excludente).
 
 Cf. Acs. do Tribunal da Relação de Lisboa de 28-01-2016, e de 02-11-2017.
 
 Discussão sobre o princípio do superior interesse da criança e jovem.
 
-Ponderação de direitos e interesses entre o tempo despendido pelo credor a esgotar as ferramentas de cooperação judiciária civil e a inerente desprotecção do beneﬁciário dos alimentos.
+Ponderação de direitos e interesses entre o tempo despendido pelo credor a esgotar as ferramentas de cooperação judiciária civil e a inerente desprotecção do beneficiário dos alimentos.
 
-O Tribunal deve tutelar efecƟva e substancialmente o direito do beneﬁciário a alimentos, por via dos instrumentos jurídicos de protecção social (v.g., Fundo de GaranƟa dos Alimentos Devidos a Menores), mantendo um estreito contacto com a Autoridade Central, e assim que houver a menção à retenção da quanƟa correspondente à prestação alimentar, declarar cessado o pagamento subsƟtuƟvo.
+O Tribunal deve tutelar efectiva e substancialmente o direito do beneficiário a alimentos, por via dos instrumentos jurídicos de protecção social (v.g., Fundo de Garantia dos Alimentos Devidos a Menores), mantendo um estreito contacto com a Autoridade Central, e assim que houver a menção à retenção da quantia correspondente à prestação alimentar, declarar cessado o pagamento substitutivo.
 
 Cf. Acs. do Tribunal da Relação de Lisboa de 09-07-2014, e de 23-02-2017.
 
